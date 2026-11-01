@@ -1,0 +1,2048 @@
+result_id,year,games_type,host_country,country,region,sport,sport_category,athletes_entered,gold,silver,bronze,total_medals,investment_musd,medal_efficiency_pct
+MR00001,1992,Summer,Spain,Argentina,South America,Rowing,Rowing,5,0,0,1,1,9.9918,20.0
+MR00002,1992,Summer,Spain,Argentina,South America,Track & Field,Athletics,5,0,0,1,1,9.9918,20.0
+MR00003,1992,Summer,Spain,Australia,Oceania,Artistic Gymnastics,Gymnastics,5,0,0,1,1,3.3057,20.0
+MR00004,1992,Summer,Spain,Australia,Oceania,Badminton,Racquet Sports,3,1,2,0,3,3.3057,100.0
+MR00005,1992,Summer,Spain,Australia,Oceania,Boxing,Combat Sports,3,1,0,0,1,3.3057,33.33
+MR00006,1992,Summer,Spain,Australia,Oceania,Canoe Sprint,Rowing,6,0,1,0,1,3.3057,16.67
+MR00007,1992,Winter,Spain,Australia,Oceania,Cross-Country Skiing,Winter Snow Sports,4,0,0,1,1,3.3057,25.0
+MR00008,1992,Summer,Spain,Australia,Oceania,Fencing,Combat Sports,4,1,0,0,1,3.3057,25.0
+MR00009,1992,Summer,Spain,Australia,Oceania,Field Hockey,Team Sports,16,1,0,0,1,3.3057,6.25
+MR00010,1992,Summer,Spain,Australia,Oceania,Modern Pentathlon,Shooting,3,1,0,0,1,3.3057,33.33
+MR00011,1992,Summer,Spain,Australia,Oceania,Rhythmic Gymnastics,Gymnastics,4,0,1,0,1,3.3057,25.0
+MR00012,1992,Summer,Spain,Australia,Oceania,Sailing,Individual Skill & Endurance,3,1,0,0,1,3.3057,33.33
+MR00013,1992,Summer,Spain,Australia,Oceania,Shooting,Shooting,2,1,0,1,2,3.3057,100.0
+MR00014,1992,Summer,Spain,Australia,Oceania,Swimming,Aquatics,7,0,1,2,3,3.3057,42.86
+MR00015,1992,Summer,Spain,Australia,Oceania,Track & Field,Athletics,8,1,1,0,2,3.3057,25.0
+MR00016,1992,Summer,Spain,Australia,Oceania,Volleyball,Team Sports,11,0,0,1,1,3.3057,9.09
+MR00017,1992,Winter,Spain,Austria,Europe,Speed Skating,Winter Ice Sports,3,0,0,1,1,13.2186,33.33
+MR00018,1992,Summer,Spain,Azerbaijan,Europe/Asia,Handball,Team Sports,13,0,1,0,1,4.8825,7.69
+MR00019,1992,Summer,Spain,Azerbaijan,Europe/Asia,Rowing,Rowing,6,1,0,0,1,4.8825,16.67
+MR00020,1992,Summer,Spain,Belgium,Europe,Judo,Combat Sports,3,0,1,0,1,9.2147,33.33
+MR00021,1992,Summer,Spain,Canada,North America,Boxing,Combat Sports,4,0,0,1,1,4.5771,25.0
+MR00022,1992,Summer,Spain,Canada,North America,Equestrian,Individual Skill & Endurance,3,1,0,0,1,4.5771,33.33
+MR00023,1992,Summer,Spain,Canada,North America,Swimming,Aquatics,9,0,0,1,1,4.5771,11.11
+MR00024,1992,Summer,Spain,Canada,North America,Track & Field,Athletics,7,0,0,1,1,4.5771,14.29
+MR00025,1992,Summer,Spain,Canada,North America,Volleyball,Team Sports,11,1,0,0,1,4.5771,9.09
+MR00026,1992,Summer,Spain,Canada,North America,Wrestling,Combat Sports,3,1,0,0,1,4.5771,33.33
+MR00027,1992,Summer,Spain,Chile,South America,Tennis,Racquet Sports,1,1,0,0,1,4.2889,100.0
+MR00028,1992,Winter,Spain,China,Asia,Alpine Skiing,Winter Snow Sports,3,1,0,0,1,7.5652,33.33
+MR00029,1992,Summer,Spain,China,Asia,Artistic Gymnastics,Gymnastics,6,0,1,0,1,7.5652,16.67
+MR00030,1992,Summer,Spain,China,Asia,Badminton,Racquet Sports,5,0,0,1,1,7.5652,20.0
+MR00031,1992,Summer,Spain,China,Asia,Boxing,Combat Sports,5,1,0,0,1,7.5652,20.0
+MR00032,1992,Summer,Spain,China,Asia,Canoe Sprint,Rowing,6,0,1,0,1,7.5652,16.67
+MR00033,1992,Winter,Spain,China,Asia,Cross-Country Skiing,Winter Snow Sports,6,0,0,1,1,7.5652,16.67
+MR00034,1992,Summer,Spain,China,Asia,Equestrian,Individual Skill & Endurance,5,1,0,0,1,7.5652,20.0
+MR00035,1992,Winter,Spain,China,Asia,Freestyle Skiing,Winter Snow Sports,5,0,0,1,1,7.5652,20.0
+MR00036,1992,Summer,Spain,China,Asia,Swimming,Aquatics,15,1,1,1,3,7.5652,20.0
+MR00037,1992,Summer,Spain,China,Asia,Track & Field,Athletics,15,1,0,3,4,7.5652,26.67
+MR00038,1992,Summer,Spain,China,Asia,Water Polo,Aquatics,12,0,0,1,1,7.5652,8.33
+MR00039,1992,Summer,Spain,Colombia,South America,Swimming,Aquatics,5,1,0,0,1,7.0538,20.0
+MR00040,1992,Summer,Spain,Cuba,North America,Badminton,Racquet Sports,3,0,0,1,1,5.8309,33.33
+MR00041,1992,Summer,Spain,Cuba,North America,Boxing,Combat Sports,2,0,1,0,1,5.8309,50.0
+MR00042,1992,Summer,Spain,Cuba,North America,Table Tennis,Racquet Sports,3,0,1,0,1,5.8309,33.33
+MR00043,1992,Winter,Spain,Czech Republic,Europe,Biathlon,Winter Snow Sports,3,1,0,0,1,8.5885,33.33
+MR00044,1992,Summer,Spain,Denmark,Europe,Road Cycling,Cycling,3,0,0,1,1,4.6049,33.33
+MR00045,1992,Summer,Spain,Denmark,Europe,Track & Field,Athletics,4,0,1,0,1,4.6049,25.0
+MR00046,1992,Summer,Spain,Ecuador,South America,Race Walking,Athletics,1,0,1,0,1,4.4705,100.0
+MR00047,1992,Summer,Spain,Egypt,Africa,Fencing,Combat Sports,2,1,0,0,1,6.2461,50.0
+MR00048,1992,Summer,Spain,Ethiopia,Africa,Basketball,Team Sports,11,1,0,0,1,2.864,9.09
+MR00049,1992,Summer,Spain,Finland,Europe,Equestrian,Individual Skill & Endurance,2,0,1,0,1,9.0321,50.0
+MR00050,1992,Summer,Spain,France,Europe,Artistic Gymnastics,Gymnastics,3,1,0,1,2,5.4397,66.67
+MR00051,1992,Summer,Spain,France,Europe,Boxing,Combat Sports,4,3,1,0,4,5.4397,100.0
+MR00052,1992,Summer,Spain,France,Europe,Diving,Aquatics,4,0,0,1,1,5.4397,25.0
+MR00053,1992,Summer,Spain,France,Europe,Fencing,Combat Sports,6,1,2,1,4,5.4397,66.67
+MR00054,1992,Summer,Spain,France,Europe,Rowing,Rowing,7,0,1,0,1,5.4397,14.29
+MR00055,1992,Summer,Spain,France,Europe,Shooting,Shooting,3,0,0,2,2,5.4397,66.67
+MR00056,1992,Summer,Spain,France,Europe,Swimming,Aquatics,9,0,1,0,1,5.4397,11.11
+MR00057,1992,Summer,Spain,France,Europe,Tennis,Racquet Sports,2,0,1,0,1,5.4397,50.0
+MR00058,1992,Summer,Spain,France,Europe,Track Cycling,Cycling,3,1,0,0,1,5.4397,33.33
+MR00059,1992,Summer,Spain,France,Europe,Wrestling,Combat Sports,5,0,1,0,1,5.4397,20.0
+MR00060,1992,Summer,Spain,Germany,Europe,Archery,Shooting,2,0,1,0,1,3.6155,50.0
+MR00061,1992,Summer,Spain,Germany,Europe,Badminton,Racquet Sports,3,1,0,0,1,3.6155,33.33
+MR00062,1992,Winter,Spain,Germany,Europe,Biathlon,Winter Snow Sports,3,1,0,0,1,3.6155,33.33
+MR00063,1992,Summer,Spain,Germany,Europe,Diving,Aquatics,3,1,1,0,2,3.6155,66.67
+MR00064,1992,Summer,Spain,Germany,Europe,Equestrian,Individual Skill & Endurance,5,1,1,0,2,3.6155,40.0
+MR00065,1992,Winter,Spain,Germany,Europe,Freestyle Skiing,Winter Snow Sports,3,0,0,1,1,3.6155,33.33
+MR00066,1992,Winter,Spain,Germany,Europe,Snowboard,Winter Snow Sports,4,1,1,0,2,3.6155,50.0
+MR00067,1992,Winter,Spain,Germany,Europe,Speed Skating,Winter Ice Sports,5,0,0,1,1,3.6155,20.0
+MR00068,1992,Summer,Spain,Germany,Europe,Swimming,Aquatics,6,4,5,2,11,3.6155,100.0
+MR00069,1992,Summer,Spain,Germany,Europe,Taekwondo,Combat Sports,3,0,1,0,1,3.6155,33.33
+MR00070,1992,Summer,Spain,Germany,Europe,Track & Field,Athletics,9,2,0,0,2,3.6155,22.22
+MR00071,1992,Summer,Spain,Germany,Europe,Water Polo,Aquatics,12,1,0,0,1,3.6155,8.33
+MR00072,1992,Summer,Spain,Germany,Europe,Weightlifting,Individual Skill & Endurance,2,0,0,1,1,3.6155,50.0
+MR00073,1992,Summer,Spain,Germany,Europe,Wrestling,Combat Sports,4,3,0,0,3,3.6155,75.0
+MR00074,1992,Summer,Spain,Great Britain,Europe,Artistic Gymnastics,Gymnastics,4,0,1,0,1,4.236,25.0
+MR00075,1992,Summer,Spain,Great Britain,Europe,Artistic Swimming,Aquatics,16,0,0,2,2,4.236,12.5
+MR00076,1992,Summer,Spain,Great Britain,Europe,BMX,Cycling,3,0,0,1,1,4.236,33.33
+MR00077,1992,Summer,Spain,Great Britain,Europe,Badminton,Racquet Sports,4,1,0,0,1,4.236,25.0
+MR00078,1992,Summer,Spain,Great Britain,Europe,Canoe Slalom,Rowing,2,0,1,0,1,4.236,50.0
+MR00079,1992,Summer,Spain,Great Britain,Europe,Equestrian,Individual Skill & Endurance,4,1,0,0,1,4.236,25.0
+MR00080,1992,Summer,Spain,Great Britain,Europe,Fencing,Combat Sports,3,1,0,2,3,4.236,100.0
+MR00081,1992,Winter,Spain,Great Britain,Europe,Ice Hockey,Winter Ice Sports,18,1,0,0,1,4.236,5.56
+MR00082,1992,Summer,Spain,Great Britain,Europe,Rowing,Rowing,9,0,2,1,3,4.236,33.33
+MR00083,1992,Summer,Spain,Great Britain,Europe,Sailing,Individual Skill & Endurance,4,1,3,0,4,4.236,100.0
+MR00084,1992,Summer,Spain,Great Britain,Europe,Swimming,Aquatics,12,3,0,1,4,4.236,33.33
+MR00085,1992,Summer,Spain,Great Britain,Europe,Taekwondo,Combat Sports,3,0,1,0,1,4.236,33.33
+MR00086,1992,Summer,Spain,Great Britain,Europe,Track & Field,Athletics,10,0,0,1,1,4.236,10.0
+MR00087,1992,Summer,Spain,Great Britain,Europe,Track Cycling,Cycling,5,1,0,0,1,4.236,20.0
+MR00088,1992,Summer,Spain,Great Britain,Europe,Trampoline,Gymnastics,2,0,1,0,1,4.236,50.0
+MR00089,1992,Summer,Spain,Great Britain,Europe,Wrestling,Combat Sports,4,0,1,0,1,4.236,25.0
+MR00090,1992,Summer,Spain,Hungary,Europe,Badminton,Racquet Sports,2,0,0,1,1,6.2417,50.0
+MR00091,1992,Summer,Spain,Hungary,Europe,Track & Field,Athletics,7,1,0,0,1,6.2417,14.29
+MR00092,1992,Summer,Spain,Indonesia,Asia,Weightlifting,Individual Skill & Endurance,1,0,1,0,1,7.7737,100.0
+MR00093,1992,Summer,Spain,Iran,Asia,Diving,Aquatics,3,1,0,0,1,3.8664,33.33
+MR00094,1992,Summer,Spain,Iran,Asia,Taekwondo,Combat Sports,3,1,0,0,1,3.8664,33.33
+MR00095,1992,Summer,Spain,Iran,Asia,Track & Field,Athletics,6,1,0,0,1,3.8664,16.67
+MR00096,1992,Summer,Spain,Italy,Europe,Artistic Gymnastics,Gymnastics,4,1,0,1,2,2.7872,50.0
+MR00097,1992,Summer,Spain,Italy,Europe,Boxing,Combat Sports,3,0,0,1,1,2.7872,33.33
+MR00098,1992,Summer,Spain,Italy,Europe,Judo,Combat Sports,4,1,0,0,1,2.7872,25.0
+MR00099,1992,Summer,Spain,Italy,Europe,Road Cycling,Cycling,4,1,0,0,1,2.7872,25.0
+MR00100,1992,Summer,Spain,Italy,Europe,Skateboarding,Individual Skill & Endurance,2,0,0,1,1,2.7872,50.0
+MR00101,1992,Winter,Spain,Italy,Europe,Speed Skating,Winter Ice Sports,6,1,0,0,1,2.7872,16.67
+MR00102,1992,Summer,Spain,Italy,Europe,Swimming,Aquatics,11,0,1,0,1,2.7872,9.09
+MR00103,1992,Summer,Spain,Italy,Europe,Track & Field,Athletics,6,0,1,1,2,2.7872,33.33
+MR00104,1992,Summer,Spain,Italy,Europe,Water Polo,Aquatics,12,0,0,1,1,2.7872,8.33
+MR00105,1992,Summer,Spain,Jamaica,North America,Boxing,Combat Sports,2,1,0,0,1,1.9342,50.0
+MR00106,1992,Summer,Spain,Jamaica,North America,Rowing,Rowing,5,1,0,0,1,1.9342,20.0
+MR00107,1992,Summer,Spain,Jamaica,North America,Track & Field,Athletics,5,1,0,0,1,1.9342,20.0
+MR00108,1992,Summer,Spain,Japan,Asia,Artistic Gymnastics,Gymnastics,5,2,0,0,2,12.811,40.0
+MR00109,1992,Summer,Spain,Japan,Asia,Judo,Combat Sports,7,0,0,1,1,12.811,14.29
+MR00110,1992,Summer,Spain,Japan,Asia,Rowing,Rowing,10,1,0,0,1,12.811,10.0
+MR00111,1992,Summer,Spain,Japan,Asia,Swimming,Aquatics,13,1,0,0,1,12.811,7.69
+MR00112,1992,Summer,Spain,Japan,Asia,Track & Field,Athletics,11,1,1,0,2,12.811,18.18
+MR00113,1992,Summer,Spain,Japan,Asia,Water Polo,Aquatics,12,0,0,1,1,12.811,8.33
+MR00114,1992,Summer,Spain,Kenya,Africa,Canoe Sprint,Rowing,3,0,1,0,1,7.2392,33.33
+MR00115,1992,Summer,Spain,Mongolia,Asia,Boxing,Combat Sports,2,1,0,0,1,2.3604,50.0
+MR00116,1992,Summer,Spain,Mongolia,Asia,Swimming,Aquatics,4,0,1,0,1,2.3604,25.0
+MR00117,1992,Winter,Spain,Netherlands,Europe,Cross-Country Skiing,Winter Snow Sports,4,0,1,0,1,4.2204,25.0
+MR00118,1992,Summer,Spain,Netherlands,Europe,Diving,Aquatics,4,0,1,0,1,4.2204,25.0
+MR00119,1992,Summer,Spain,Netherlands,Europe,Field Hockey,Team Sports,31,1,1,0,2,4.2204,6.45
+MR00120,1992,Summer,Spain,Netherlands,Europe,Handball,Team Sports,13,1,0,0,1,4.2204,7.69
+MR00121,1992,Summer,Spain,Netherlands,Europe,Judo,Combat Sports,5,0,1,0,1,4.2204,20.0
+MR00122,1992,Summer,Spain,Netherlands,Europe,Swimming,Aquatics,8,1,0,0,1,4.2204,12.5
+MR00123,1992,Summer,Spain,Netherlands,Europe,Wrestling,Combat Sports,4,1,0,0,1,4.2204,25.0
+MR00124,1992,Summer,Spain,New Zealand,Oceania,Sailing,Individual Skill & Endurance,3,0,1,0,1,4.6817,33.33
+MR00125,1992,Summer,Spain,New Zealand,Oceania,Taekwondo,Combat Sports,3,0,1,0,1,4.6817,33.33
+MR00126,1992,Summer,Spain,New Zealand,Oceania,Track & Field,Athletics,8,0,1,0,1,4.6817,12.5
+MR00127,1992,Winter,Spain,Norway,Europe,Cross-Country Skiing,Winter Snow Sports,3,0,1,0,1,3.2157,33.33
+MR00128,1992,Winter,Spain,Norway,Europe,Freestyle Skiing,Winter Snow Sports,2,1,0,0,1,3.2157,50.0
+MR00129,1992,Summer,Spain,Norway,Europe,Swimming,Aquatics,6,0,1,0,1,3.2157,16.67
+MR00130,1992,Summer,Spain,Norway,Europe,Track & Field,Athletics,8,0,0,1,1,3.2157,12.5
+MR00131,1992,Summer,Spain,Norway,Europe,Weightlifting,Individual Skill & Endurance,2,0,0,1,1,3.2157,50.0
+MR00132,1992,Summer,Spain,Norway,Europe,Wrestling,Combat Sports,4,0,0,1,1,3.2157,25.0
+MR00133,1992,Summer,Spain,Poland,Europe,Rhythmic Gymnastics,Gymnastics,3,1,0,0,1,6.3118,33.33
+MR00134,1992,Summer,Spain,Poland,Europe,Rowing,Rowing,8,0,1,0,1,6.3118,12.5
+MR00135,1992,Summer,Spain,Poland,Europe,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,6.3118,50.0
+MR00136,1992,Summer,Spain,Romania,Europe,Track Cycling,Cycling,3,1,0,0,1,12.3185,33.33
+MR00137,1992,Winter,Spain,Russia,Europe/Asia,Alpine Skiing,Winter Snow Sports,3,0,1,0,1,2.5894,33.33
+MR00138,1992,Summer,Spain,Russia,Europe/Asia,Archery,Shooting,2,0,1,0,1,2.5894,50.0
+MR00139,1992,Summer,Spain,Russia,Europe/Asia,Artistic Gymnastics,Gymnastics,6,0,1,0,1,2.5894,16.67
+MR00140,1992,Summer,Spain,Russia,Europe/Asia,Artistic Swimming,Aquatics,15,2,0,0,2,2.5894,13.33
+MR00141,1992,Summer,Spain,Russia,Europe/Asia,Canoe Sprint,Rowing,4,1,0,0,1,2.5894,25.0
+MR00142,1992,Winter,Spain,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,3,0,1,0,1,2.5894,33.33
+MR00143,1992,Winter,Spain,Russia,Europe/Asia,Freestyle Skiing,Winter Snow Sports,3,0,0,1,1,2.5894,33.33
+MR00144,1992,Summer,Spain,Russia,Europe/Asia,Judo,Combat Sports,6,1,0,0,1,2.5894,16.67
+MR00145,1992,Summer,Spain,Russia,Europe/Asia,Rhythmic Gymnastics,Gymnastics,3,2,2,0,4,2.5894,100.0
+MR00146,1992,Summer,Spain,Russia,Europe/Asia,Rowing,Rowing,11,1,0,0,1,2.5894,9.09
+MR00147,1992,Summer,Spain,Russia,Europe/Asia,Shooting,Shooting,2,0,1,0,1,2.5894,50.0
+MR00148,1992,Summer,Spain,Russia,Europe/Asia,Swimming,Aquatics,11,3,0,0,3,2.5894,27.27
+MR00149,1992,Summer,Spain,Russia,Europe/Asia,Table Tennis,Racquet Sports,4,0,1,0,1,2.5894,25.0
+MR00150,1992,Summer,Spain,Russia,Europe/Asia,Taekwondo,Combat Sports,3,0,1,0,1,2.5894,33.33
+MR00151,1992,Summer,Spain,Russia,Europe/Asia,Track & Field,Athletics,11,0,0,1,1,2.5894,9.09
+MR00152,1992,Summer,Spain,Russia,Europe/Asia,Triathlon,Individual Skill & Endurance,4,1,0,0,1,2.5894,25.0
+MR00153,1992,Summer,Spain,Russia,Europe/Asia,Volleyball,Team Sports,12,0,1,0,1,2.5894,8.33
+MR00154,1992,Summer,Spain,Russia,Europe/Asia,Weightlifting,Individual Skill & Endurance,3,2,0,1,3,2.5894,100.0
+MR00155,1992,Summer,Spain,Russia,Europe/Asia,Wrestling,Combat Sports,4,0,1,1,2,2.5894,50.0
+MR00156,1992,Summer,Spain,Serbia,Europe,Archery,Shooting,1,0,0,1,1,3.9544,100.0
+MR00157,1992,Summer,Spain,Serbia,Europe,Swimming,Aquatics,6,1,0,0,1,3.9544,16.67
+MR00158,1992,Summer,Spain,Slovakia,Europe,Wrestling,Combat Sports,3,1,0,0,1,2.7404,33.33
+MR00159,1992,Summer,Spain,South Africa,Africa,Swimming,Aquatics,6,0,0,1,1,4.3084,16.67
+MR00160,1992,Summer,Spain,South Africa,Africa,Track & Field,Athletics,7,2,1,0,3,4.3084,42.86
+MR00161,1992,Summer,Spain,South Korea,Asia,Archery,Shooting,3,0,0,1,1,5.8595,33.33
+MR00162,1992,Winter,Spain,South Korea,Asia,Figure Skating,Winter Ice Sports,2,0,0,1,1,5.8595,50.0
+MR00163,1992,Winter,Spain,South Korea,Asia,Freestyle Skiing,Winter Snow Sports,2,0,0,1,1,5.8595,50.0
+MR00164,1992,Winter,Spain,South Korea,Asia,Ski Jumping,Winter Snow Sports,4,1,0,0,1,5.8595,25.0
+MR00165,1992,Winter,Spain,South Korea,Asia,Speed Skating,Winter Ice Sports,4,1,0,1,2,5.8595,50.0
+MR00166,1992,Summer,Spain,South Korea,Asia,Swimming,Aquatics,8,2,0,0,2,5.8595,25.0
+MR00167,1992,Summer,Spain,Spain,Europe,Basketball,Team Sports,12,0,1,0,1,5.52,8.33
+MR00168,1992,Summer,Spain,Spain,Europe,Boxing,Combat Sports,4,0,0,1,1,5.52,25.0
+MR00169,1992,Summer,Spain,Spain,Europe,Diving,Aquatics,3,0,1,0,1,5.52,33.33
+MR00170,1992,Summer,Spain,Spain,Europe,Judo,Combat Sports,4,0,2,0,2,5.52,50.0
+MR00171,1992,Summer,Spain,Spain,Europe,Sailing,Individual Skill & Endurance,3,0,3,0,3,5.52,100.0
+MR00172,1992,Summer,Spain,Spain,Europe,Tennis,Racquet Sports,2,2,0,1,3,5.52,100.0
+MR00173,1992,Summer,Spain,Spain,Europe,Track & Field,Athletics,9,1,0,2,3,5.52,33.33
+MR00174,1992,Summer,Spain,Spain,Europe,Track Cycling,Cycling,3,1,0,0,1,5.52,33.33
+MR00175,1992,Summer,Spain,Spain,Europe,Weightlifting,Individual Skill & Endurance,1,0,0,1,1,5.52,100.0
+MR00176,1992,Summer,Spain,Spain,Europe,Wrestling,Combat Sports,3,0,1,0,1,5.52,33.33
+MR00177,1992,Summer,Spain,Sweden,Europe,Artistic Swimming,Aquatics,8,0,0,1,1,3.0009,12.5
+MR00178,1992,Winter,Spain,Sweden,Europe,Biathlon,Winter Snow Sports,3,0,1,0,1,3.0009,33.33
+MR00179,1992,Summer,Spain,Sweden,Europe,Sailing,Individual Skill & Endurance,3,0,1,0,1,3.0009,33.33
+MR00180,1992,Summer,Spain,Sweden,Europe,Track & Field,Athletics,4,0,0,1,1,3.0009,25.0
+MR00181,1992,Summer,Spain,Switzerland,Europe,Artistic Gymnastics,Gymnastics,4,1,0,0,1,3.1922,25.0
+MR00182,1992,Winter,Spain,Switzerland,Europe,Cross-Country Skiing,Winter Snow Sports,4,0,1,0,1,3.1922,25.0
+MR00183,1992,Summer,Spain,Switzerland,Europe,Rhythmic Gymnastics,Gymnastics,3,1,0,0,1,3.1922,33.33
+MR00184,1992,Summer,Spain,Switzerland,Europe,Swimming,Aquatics,6,0,1,0,1,3.1922,16.67
+MR00185,1992,Summer,Spain,Turkey,Europe/Asia,Badminton,Racquet Sports,2,1,0,0,1,2.9995,50.0
+MR00186,1992,Summer,Spain,Turkey,Europe/Asia,Canoe Slalom,Rowing,1,0,0,1,1,2.9995,100.0
+MR00187,1992,Summer,Spain,Turkey,Europe/Asia,Marathon,Athletics,2,1,0,0,1,2.9995,50.0
+MR00188,1992,Summer,Spain,Ukraine,Europe,Archery,Shooting,1,1,0,0,1,7.7919,100.0
+MR00189,1992,Summer,Spain,Ukraine,Europe,Weightlifting,Individual Skill & Endurance,1,1,0,0,1,7.7919,100.0
+MR00190,1992,Summer,Spain,United States,North America,Artistic Gymnastics,Gymnastics,4,0,2,0,2,4.373,50.0
+MR00191,1992,Summer,Spain,United States,North America,Badminton,Racquet Sports,4,1,0,0,1,4.373,25.0
+MR00192,1992,Summer,Spain,United States,North America,Basketball,Team Sports,22,0,0,2,2,4.373,9.09
+MR00193,1992,Summer,Spain,United States,North America,Boxing,Combat Sports,5,3,1,0,4,4.373,80.0
+MR00194,1992,Summer,Spain,United States,North America,Canoe Slalom,Rowing,3,2,0,0,2,4.373,66.67
+MR00195,1992,Winter,Spain,United States,North America,Curling,Winter Ice Sports,5,1,0,0,1,4.373,20.0
+MR00196,1992,Summer,Spain,United States,North America,Diving,Aquatics,5,0,1,0,1,4.373,20.0
+MR00197,1992,Summer,Spain,United States,North America,Equestrian,Individual Skill & Endurance,3,1,0,0,1,4.373,33.33
+MR00198,1992,Summer,Spain,United States,North America,Fencing,Combat Sports,5,0,0,1,1,4.373,20.0
+MR00199,1992,Summer,Spain,United States,North America,Football,Team Sports,17,1,0,0,1,4.373,5.88
+MR00200,1992,Summer,Spain,United States,North America,Modern Pentathlon,Shooting,4,0,0,1,1,4.373,25.0
+MR00201,1992,Summer,Spain,United States,North America,Race Walking,Athletics,3,1,0,0,1,4.373,33.33
+MR00202,1992,Summer,Spain,United States,North America,Rhythmic Gymnastics,Gymnastics,3,1,0,0,1,4.373,33.33
+MR00203,1992,Summer,Spain,United States,North America,Road Cycling,Cycling,4,0,0,1,1,4.373,25.0
+MR00204,1992,Summer,Spain,United States,North America,Shooting,Shooting,3,0,1,0,1,4.373,33.33
+MR00205,1992,Winter,Spain,United States,North America,Speed Skating,Winter Ice Sports,8,0,1,0,1,4.373,12.5
+MR00206,1992,Summer,Spain,United States,North America,Swimming,Aquatics,8,4,6,5,15,4.373,100.0
+MR00207,1992,Summer,Spain,United States,North America,Table Tennis,Racquet Sports,4,1,0,0,1,4.373,25.0
+MR00208,1992,Summer,Spain,United States,North America,Track & Field,Athletics,12,5,4,0,9,4.373,75.0
+MR00209,1992,Summer,Spain,United States,North America,Track Cycling,Cycling,6,1,1,0,2,4.373,33.33
+MR00210,1992,Summer,Spain,United States,North America,Water Polo,Aquatics,25,0,1,1,2,4.373,8.0
+MR00211,1992,Summer,Spain,United States,North America,Weightlifting,Individual Skill & Endurance,3,3,0,2,5,4.373,100.0
+MR00212,1992,Summer,Spain,United States,North America,Wrestling,Combat Sports,4,1,0,0,1,4.373,25.0
+MR00213,1992,Summer,Spain,Uzbekistan,Asia,Sailing,Individual Skill & Endurance,3,0,1,0,1,10.2592,33.33
+MR00214,1996,Summer,United States,Argentina,South America,Track & Field,Athletics,7,1,0,0,1,16.4607,14.29
+MR00215,1996,Summer,United States,Australia,Oceania,Artistic Gymnastics,Gymnastics,4,0,1,0,1,3.6993,25.0
+MR00216,1996,Summer,United States,Australia,Oceania,Boxing,Combat Sports,4,0,1,0,1,3.6993,25.0
+MR00217,1996,Summer,United States,Australia,Oceania,Canoe Slalom,Rowing,2,1,0,0,1,3.6993,50.0
+MR00218,1996,Summer,United States,Australia,Oceania,Canoe Sprint,Rowing,5,1,0,0,1,3.6993,20.0
+MR00219,1996,Summer,United States,Australia,Oceania,Diving,Aquatics,2,0,1,1,2,3.6993,100.0
+MR00220,1996,Summer,United States,Australia,Oceania,Judo,Combat Sports,5,1,0,1,2,3.6993,40.0
+MR00221,1996,Summer,United States,Australia,Oceania,Road Cycling,Cycling,5,1,0,0,1,3.6993,20.0
+MR00222,1996,Summer,United States,Australia,Oceania,Volleyball,Team Sports,11,0,0,1,1,3.6993,9.09
+MR00223,1996,Summer,United States,Australia,Oceania,Water Polo,Aquatics,12,0,0,1,1,3.6993,8.33
+MR00224,1996,Summer,United States,Australia,Oceania,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,3.6993,50.0
+MR00225,1996,Summer,United States,Australia,Oceania,Wrestling,Combat Sports,5,0,2,0,2,3.6993,40.0
+MR00226,1996,Summer,United States,Belgium,Europe,Swimming,Aquatics,6,0,1,0,1,16.6221,16.67
+MR00227,1996,Summer,United States,Brazil,South America,Diving,Aquatics,3,0,1,0,1,8.9712,33.33
+MR00228,1996,Summer,United States,Brazil,South America,Shooting,Shooting,2,0,1,0,1,8.9712,50.0
+MR00229,1996,Summer,United States,Canada,North America,Canoe Slalom,Rowing,2,0,1,0,1,12.8121,50.0
+MR00230,1996,Summer,United States,Canada,North America,Swimming,Aquatics,9,1,0,0,1,12.8121,11.11
+MR00231,1996,Summer,United States,Canada,North America,Table Tennis,Racquet Sports,3,1,0,0,1,12.8121,33.33
+MR00232,1996,Summer,United States,Canada,North America,Track & Field,Athletics,5,1,0,0,1,12.8121,20.0
+MR00233,1996,Summer,United States,Chile,South America,Swimming,Aquatics,4,0,1,0,1,7.5839,25.0
+MR00234,1996,Summer,United States,China,Asia,Artistic Gymnastics,Gymnastics,7,0,1,2,3,10.3965,42.86
+MR00235,1996,Summer,United States,China,Asia,Artistic Swimming,Aquatics,8,0,1,0,1,10.3965,12.5
+MR00236,1996,Summer,United States,China,Asia,Badminton,Racquet Sports,3,1,0,0,1,10.3965,33.33
+MR00237,1996,Summer,United States,China,Asia,Equestrian,Individual Skill & Endurance,4,0,1,0,1,10.3965,25.0
+MR00238,1996,Summer,United States,China,Asia,Road Cycling,Cycling,6,0,0,1,1,10.3965,16.67
+MR00239,1996,Winter,United States,China,Asia,Speed Skating,Winter Ice Sports,6,1,0,0,1,10.3965,16.67
+MR00240,1996,Summer,United States,China,Asia,Swimming,Aquatics,11,1,0,0,1,10.3965,9.09
+MR00241,1996,Summer,United States,China,Asia,Table Tennis,Racquet Sports,5,0,2,0,2,10.3965,40.0
+MR00242,1996,Summer,United States,China,Asia,Track & Field,Athletics,13,1,2,0,3,10.3965,23.08
+MR00243,1996,Summer,United States,China,Asia,Wrestling,Combat Sports,7,0,1,0,1,10.3965,14.29
+MR00244,1996,Summer,United States,Chinese Taipei,Asia,Judo,Combat Sports,2,0,0,1,1,10.6769,50.0
+MR00245,1996,Summer,United States,Colombia,South America,Track Cycling,Cycling,2,0,1,0,1,9.479,50.0
+MR00246,1996,Summer,United States,Cuba,North America,Shooting,Shooting,1,0,1,0,1,5.6781,100.0
+MR00247,1996,Summer,United States,Cuba,North America,Table Tennis,Racquet Sports,2,0,0,1,1,5.6781,50.0
+MR00248,1996,Summer,United States,Czech Republic,Europe,Sailing,Individual Skill & Endurance,3,1,0,0,1,13.4846,33.33
+MR00249,1996,Summer,United States,Egypt,Africa,Diving,Aquatics,2,0,1,0,1,8.1788,50.0
+MR00250,1996,Winter,United States,France,Europe,Alpine Skiing,Winter Snow Sports,3,1,0,1,2,3.5173,66.67
+MR00251,1996,Summer,United States,France,Europe,Artistic Gymnastics,Gymnastics,4,0,2,1,3,3.5173,75.0
+MR00252,1996,Summer,United States,France,Europe,Canoe Slalom,Rowing,2,1,0,0,1,3.5173,50.0
+MR00253,1996,Summer,United States,France,Europe,Fencing,Combat Sports,5,0,1,2,3,3.5173,60.0
+MR00254,1996,Winter,United States,France,Europe,Figure Skating,Winter Ice Sports,3,0,1,0,1,3.5173,33.33
+MR00255,1996,Winter,United States,France,Europe,Ice Hockey,Winter Ice Sports,20,0,0,1,1,3.5173,5.0
+MR00256,1996,Summer,United States,France,Europe,Marathon,Athletics,3,1,0,0,1,3.5173,33.33
+MR00257,1996,Summer,United States,France,Europe,Sailing,Individual Skill & Endurance,3,1,0,0,1,3.5173,33.33
+MR00258,1996,Summer,United States,France,Europe,Swimming,Aquatics,10,1,0,0,1,3.5173,10.0
+MR00259,1996,Summer,United States,Germany,Europe,BMX,Cycling,2,0,0,1,1,4.0278,50.0
+MR00260,1996,Summer,United States,Germany,Europe,Boxing,Combat Sports,4,1,1,1,3,4.0278,75.0
+MR00261,1996,Summer,United States,Germany,Europe,Canoe Slalom,Rowing,3,1,0,0,1,4.0278,33.33
+MR00262,1996,Summer,United States,Germany,Europe,Diving,Aquatics,4,1,0,0,1,4.0278,25.0
+MR00263,1996,Summer,United States,Germany,Europe,Football,Team Sports,18,0,0,1,1,4.0278,5.56
+MR00264,1996,Summer,United States,Germany,Europe,Golf,Individual Skill & Endurance,2,0,0,1,1,4.0278,50.0
+MR00265,1996,Summer,United States,Germany,Europe,Judo,Combat Sports,4,0,0,2,2,4.0278,50.0
+MR00266,1996,Summer,United States,Germany,Europe,Rhythmic Gymnastics,Gymnastics,5,1,0,0,1,4.0278,20.0
+MR00267,1996,Summer,United States,Germany,Europe,Rowing,Rowing,12,1,0,0,1,4.0278,8.33
+MR00268,1996,Summer,United States,Germany,Europe,Rugby Sevens,Team Sports,11,0,1,0,1,4.0278,9.09
+MR00269,1996,Winter,United States,Germany,Europe,Speed Skating,Winter Ice Sports,3,0,0,3,3,4.0278,100.0
+MR00270,1996,Summer,United States,Germany,Europe,Swimming,Aquatics,12,1,1,1,3,4.0278,25.0
+MR00271,1996,Summer,United States,Germany,Europe,Taekwondo,Combat Sports,4,0,1,0,1,4.0278,25.0
+MR00272,1996,Summer,United States,Germany,Europe,Track Cycling,Cycling,4,2,0,0,2,4.0278,50.0
+MR00273,1996,Summer,United States,Germany,Europe,Volleyball,Team Sports,11,0,0,1,1,4.0278,9.09
+MR00274,1996,Summer,United States,Germany,Europe,Weightlifting,Individual Skill & Endurance,3,0,1,0,1,4.0278,33.33
+MR00275,1996,Summer,United States,Great Britain,Europe,Artistic Gymnastics,Gymnastics,4,1,0,0,1,7.3933,25.0
+MR00276,1996,Summer,United States,Great Britain,Europe,BMX,Cycling,2,0,1,0,1,7.3933,50.0
+MR00277,1996,Summer,United States,Great Britain,Europe,Fencing,Combat Sports,3,1,0,0,1,7.3933,33.33
+MR00278,1996,Summer,United States,Great Britain,Europe,Rhythmic Gymnastics,Gymnastics,3,1,0,0,1,7.3933,33.33
+MR00279,1996,Summer,United States,Great Britain,Europe,Sailing,Individual Skill & Endurance,4,1,1,2,4,7.3933,100.0
+MR00280,1996,Summer,United States,Great Britain,Europe,Skateboarding,Individual Skill & Endurance,3,1,1,0,2,7.3933,66.67
+MR00281,1996,Summer,United States,Great Britain,Europe,Taekwondo,Combat Sports,4,1,1,0,2,7.3933,50.0
+MR00282,1996,Summer,United States,Great Britain,Europe,Track & Field,Athletics,10,0,0,1,1,7.3933,10.0
+MR00283,1996,Summer,United States,Greece,Europe,Artistic Gymnastics,Gymnastics,3,1,1,0,2,7.8453,66.67
+MR00284,1996,Summer,United States,Greece,Europe,Rhythmic Gymnastics,Gymnastics,2,1,0,0,1,7.8453,50.0
+MR00285,1996,Summer,United States,Hungary,Europe,Swimming,Aquatics,8,0,0,1,1,22.6306,12.5
+MR00286,1996,Summer,United States,Iran,Asia,Artistic Gymnastics,Gymnastics,4,0,1,0,1,4.4526,25.0
+MR00287,1996,Summer,United States,Iran,Asia,Equestrian,Individual Skill & Endurance,2,0,1,0,1,4.4526,50.0
+MR00288,1996,Summer,United States,Iran,Asia,Swimming,Aquatics,6,0,1,0,1,4.4526,16.67
+MR00289,1996,Winter,United States,Italy,Europe,Biathlon,Winter Snow Sports,5,0,1,0,1,6.7387,20.0
+MR00290,1996,Summer,United States,Italy,Europe,Boxing,Combat Sports,4,1,0,0,1,6.7387,25.0
+MR00291,1996,Summer,United States,Italy,Europe,Football,Team Sports,17,1,0,0,1,6.7387,5.88
+MR00292,1996,Summer,United States,Italy,Europe,Judo,Combat Sports,5,0,0,1,1,6.7387,20.0
+MR00293,1996,Summer,United States,Italy,Europe,Swimming,Aquatics,11,1,0,0,1,6.7387,9.09
+MR00294,1996,Summer,United States,Italy,Europe,Wrestling,Combat Sports,3,0,1,0,1,6.7387,33.33
+MR00295,1996,Summer,United States,Jamaica,North America,Track & Field,Athletics,5,1,0,0,1,2.1858,20.0
+MR00296,1996,Summer,United States,Jamaica,North America,Track Cycling,Cycling,3,0,0,1,1,2.1858,33.33
+MR00297,1996,Summer,United States,Japan,Asia,Archery,Shooting,3,0,1,0,1,8.5229,33.33
+MR00298,1996,Summer,United States,Japan,Asia,Equestrian,Individual Skill & Endurance,5,0,0,1,1,8.5229,20.0
+MR00299,1996,Summer,United States,Japan,Asia,Judo,Combat Sports,7,3,0,1,4,8.5229,57.14
+MR00300,1996,Summer,United States,Japan,Asia,Rugby Sevens,Team Sports,11,1,0,0,1,8.5229,9.09
+MR00301,1996,Summer,United States,Japan,Asia,Swimming,Aquatics,8,2,0,2,4,8.5229,50.0
+MR00302,1996,Summer,United States,Japan,Asia,Tennis,Racquet Sports,2,0,1,0,1,8.5229,50.0
+MR00303,1996,Summer,United States,Japan,Asia,Track & Field,Athletics,7,3,0,0,3,8.5229,42.86
+MR00304,1996,Summer,United States,Japan,Asia,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,8.5229,50.0
+MR00305,1996,Summer,United States,Japan,Asia,Wrestling,Combat Sports,4,1,1,0,2,8.5229,50.0
+MR00306,1996,Summer,United States,Kenya,Africa,Rowing,Rowing,7,0,0,1,1,3.4859,14.29
+MR00307,1996,Summer,United States,Kenya,Africa,Track & Field,Athletics,6,1,0,0,1,3.4859,16.67
+MR00308,1996,Summer,United States,Mexico,North America,Judo,Combat Sports,3,1,0,0,1,7.1023,33.33
+MR00309,1996,Summer,United States,Mexico,North America,Road Cycling,Cycling,2,1,0,0,1,7.1023,50.0
+MR00310,1996,Summer,United States,Mexico,North America,Swimming,Aquatics,7,0,1,0,1,7.1023,14.29
+MR00311,1996,Summer,United States,Netherlands,Europe,Diving,Aquatics,2,1,0,0,1,18.3404,50.0
+MR00312,1996,Summer,United States,Netherlands,Europe,Marathon,Athletics,2,0,0,1,1,18.3404,50.0
+MR00313,1996,Summer,United States,Netherlands,Europe,Rowing,Rowing,10,1,0,0,1,18.3404,10.0
+MR00314,1996,Summer,United States,New Zealand,Oceania,Road Cycling,Cycling,2,1,0,0,1,5.2694,50.0
+MR00315,1996,Summer,United States,New Zealand,Oceania,Swimming,Aquatics,5,1,0,0,1,5.2694,20.0
+MR00316,1996,Summer,United States,New Zealand,Oceania,Track Cycling,Cycling,4,0,1,0,1,5.2694,25.0
+MR00317,1996,Summer,United States,New Zealand,Oceania,Volleyball,Team Sports,11,1,0,0,1,5.2694,9.09
+MR00318,1996,Summer,United States,Nigeria,Africa,Track Cycling,Cycling,3,1,0,0,1,7.0688,33.33
+MR00319,1996,Winter,United States,Norway,Europe,Biathlon,Winter Snow Sports,4,0,0,1,1,7.1646,25.0
+MR00320,1996,Summer,United States,Norway,Europe,Sailing,Individual Skill & Endurance,3,1,0,0,1,7.1646,33.33
+MR00321,1996,Winter,United States,Norway,Europe,Speed Skating,Winter Ice Sports,3,0,1,0,1,7.1646,33.33
+MR00322,1996,Winter,United States,Poland,Europe,Alpine Skiing,Winter Snow Sports,2,0,1,0,1,8.6124,50.0
+MR00323,1996,Winter,United States,Poland,Europe,Ski Jumping,Winter Snow Sports,2,1,0,0,1,8.6124,50.0
+MR00324,1996,Summer,United States,Russia,Europe/Asia,Artistic Gymnastics,Gymnastics,6,1,1,0,2,6.3326,33.33
+MR00325,1996,Summer,United States,Russia,Europe/Asia,Fencing,Combat Sports,6,1,0,0,1,6.3326,16.67
+MR00326,1996,Summer,United States,Russia,Europe/Asia,Field Hockey,Team Sports,16,1,0,0,1,6.3326,6.25
+MR00327,1996,Winter,United States,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,3,2,0,0,2,6.3326,66.67
+MR00328,1996,Summer,United States,Russia,Europe/Asia,Judo,Combat Sports,6,0,0,1,1,6.3326,16.67
+MR00329,1996,Summer,United States,Russia,Europe/Asia,Shooting,Shooting,3,1,0,0,1,6.3326,33.33
+MR00330,1996,Summer,United States,Russia,Europe/Asia,Swimming,Aquatics,11,0,1,0,1,6.3326,9.09
+MR00331,1996,Summer,United States,Russia,Europe/Asia,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,6.3326,50.0
+MR00332,1996,Summer,United States,South Korea,Asia,Archery,Shooting,2,1,1,1,3,2.8971,100.0
+MR00333,1996,Winter,United States,South Korea,Asia,Biathlon,Winter Snow Sports,5,1,0,0,1,2.8971,20.0
+MR00334,1996,Summer,United States,South Korea,Asia,Equestrian,Individual Skill & Endurance,3,1,0,0,1,2.8971,33.33
+MR00335,1996,Winter,United States,South Korea,Asia,Figure Skating,Winter Ice Sports,3,1,0,0,1,2.8971,33.33
+MR00336,1996,Winter,United States,South Korea,Asia,Freestyle Skiing,Winter Snow Sports,4,0,0,1,1,2.8971,25.0
+MR00337,1996,Summer,United States,South Korea,Asia,Judo,Combat Sports,5,0,0,1,1,2.8971,20.0
+MR00338,1996,Summer,United States,South Korea,Asia,Rhythmic Gymnastics,Gymnastics,4,0,1,0,1,2.8971,25.0
+MR00339,1996,Summer,United States,South Korea,Asia,Rowing,Rowing,7,1,0,0,1,2.8971,14.29
+MR00340,1996,Summer,United States,South Korea,Asia,Sailing,Individual Skill & Endurance,4,0,0,1,1,2.8971,25.0
+MR00341,1996,Summer,United States,South Korea,Asia,Track & Field,Athletics,6,0,0,1,1,2.8971,16.67
+MR00342,1996,Summer,United States,South Korea,Asia,Water Polo,Aquatics,12,0,0,1,1,2.8971,8.33
+MR00343,1996,Summer,United States,South Korea,Asia,Wrestling,Combat Sports,6,0,0,1,1,2.8971,16.67
+MR00344,1996,Summer,United States,Spain,Europe,Boxing,Combat Sports,2,1,0,0,1,9.6695,50.0
+MR00345,1996,Summer,United States,Spain,Europe,Tennis,Racquet Sports,2,1,0,0,1,9.6695,50.0
+MR00346,1996,Summer,United States,Spain,Europe,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,9.6695,50.0
+MR00347,1996,Summer,United States,Sweden,Europe,BMX,Cycling,2,0,0,1,1,4.5914,50.0
+MR00348,1996,Winter,United States,Sweden,Europe,Ice Hockey,Winter Ice Sports,20,0,0,1,1,4.5914,5.0
+MR00349,1996,Winter,United States,Switzerland,Europe,Alpine Skiing,Winter Snow Sports,2,0,1,0,1,4.3916,50.0
+MR00350,1996,Summer,United States,Switzerland,Europe,Skateboarding,Individual Skill & Endurance,2,1,0,0,1,4.3916,50.0
+MR00351,1996,Winter,United States,Switzerland,Europe,Snowboard,Winter Snow Sports,2,1,0,0,1,4.3916,50.0
+MR00352,1996,Summer,United States,Switzerland,Europe,Track & Field,Athletics,9,1,0,1,2,4.3916,22.22
+MR00353,1996,Summer,United States,Turkey,Europe/Asia,Canoe Slalom,Rowing,2,1,0,0,1,4.2671,50.0
+MR00354,1996,Summer,United States,Turkey,Europe/Asia,Road Cycling,Cycling,4,0,1,0,1,4.2671,25.0
+MR00355,1996,Summer,United States,Turkey,Europe/Asia,Rowing,Rowing,6,0,0,1,1,4.2671,16.67
+MR00356,1996,Summer,United States,Turkey,Europe/Asia,Shooting,Shooting,2,0,1,0,1,4.2671,50.0
+MR00357,1996,Summer,United States,Ukraine,Europe,Equestrian,Individual Skill & Endurance,3,0,0,1,1,6.029,33.33
+MR00358,1996,Summer,United States,Ukraine,Europe,Modern Pentathlon,Shooting,2,0,0,1,1,6.029,50.0
+MR00359,1996,Summer,United States,Ukraine,Europe,Weightlifting,Individual Skill & Endurance,1,1,0,0,1,6.029,100.0
+MR00360,1996,Winter,United States,United States,North America,Alpine Skiing,Winter Snow Sports,6,1,0,0,1,3.9609,16.67
+MR00361,1996,Summer,United States,United States,North America,Archery,Shooting,3,0,1,0,1,3.9609,33.33
+MR00362,1996,Summer,United States,United States,North America,Artistic Gymnastics,Gymnastics,8,2,2,3,7,3.9609,87.5
+MR00363,1996,Summer,United States,United States,North America,BMX,Cycling,2,0,0,1,1,3.9609,50.0
+MR00364,1996,Summer,United States,United States,North America,Badminton,Racquet Sports,6,0,0,2,2,3.9609,33.33
+MR00365,1996,Summer,United States,United States,North America,Basketball,Team Sports,24,1,1,0,2,3.9609,8.33
+MR00366,1996,Summer,United States,United States,North America,Boxing,Combat Sports,4,0,1,0,1,3.9609,25.0
+MR00367,1996,Summer,United States,United States,North America,Canoe Slalom,Rowing,2,2,1,2,5,3.9609,100.0
+MR00368,1996,Summer,United States,United States,North America,Canoe Sprint,Rowing,5,0,2,0,2,3.9609,40.0
+MR00369,1996,Winter,United States,United States,North America,Cross-Country Skiing,Winter Snow Sports,8,0,0,1,1,3.9609,12.5
+MR00370,1996,Summer,United States,United States,North America,Diving,Aquatics,4,1,0,0,1,3.9609,25.0
+MR00371,1996,Summer,United States,United States,North America,Equestrian,Individual Skill & Endurance,4,2,2,0,4,3.9609,100.0
+MR00372,1996,Summer,United States,United States,North America,Field Hockey,Team Sports,14,1,0,0,1,3.9609,7.14
+MR00373,1996,Summer,United States,United States,North America,Football,Team Sports,34,2,0,0,2,3.9609,5.88
+MR00374,1996,Summer,United States,United States,North America,Golf,Individual Skill & Endurance,4,1,0,0,1,3.9609,25.0
+MR00375,1996,Summer,United States,United States,North America,Handball,Team Sports,27,2,0,0,2,3.9609,7.41
+MR00376,1996,Summer,United States,United States,North America,Marathon,Athletics,2,1,0,1,2,3.9609,100.0
+MR00377,1996,Summer,United States,United States,North America,Modern Pentathlon,Shooting,4,1,0,1,2,3.9609,50.0
+MR00378,1996,Summer,United States,United States,North America,Race Walking,Athletics,3,1,0,0,1,3.9609,33.33
+MR00379,1996,Summer,United States,United States,North America,Rhythmic Gymnastics,Gymnastics,5,2,3,0,5,3.9609,100.0
+MR00380,1996,Summer,United States,United States,North America,Rowing,Rowing,12,1,0,0,1,3.9609,8.33
+MR00381,1996,Summer,United States,United States,North America,Sailing,Individual Skill & Endurance,4,0,1,0,1,3.9609,25.0
+MR00382,1996,Summer,United States,United States,North America,Shooting,Shooting,4,3,4,1,8,3.9609,100.0
+MR00383,1996,Summer,United States,United States,North America,Skateboarding,Individual Skill & Endurance,4,2,1,0,3,3.9609,75.0
+MR00384,1996,Winter,United States,United States,North America,Ski Jumping,Winter Snow Sports,4,0,1,0,1,3.9609,25.0
+MR00385,1996,Winter,United States,United States,North America,Snowboard,Winter Snow Sports,5,1,1,1,3,3.9609,60.0
+MR00386,1996,Winter,United States,United States,North America,Speed Skating,Winter Ice Sports,6,1,4,3,8,3.9609,100.0
+MR00387,1996,Summer,United States,United States,North America,Swimming,Aquatics,15,14,15,7,36,3.9609,100.0
+MR00388,1996,Summer,United States,United States,North America,Track & Field,Athletics,10,4,1,1,6,3.9609,60.0
+MR00389,1996,Summer,United States,United States,North America,Track Cycling,Cycling,6,1,1,1,3,3.9609,50.0
+MR00390,1996,Summer,United States,United States,North America,Trampoline,Gymnastics,2,0,0,1,1,3.9609,50.0
+MR00391,1996,Summer,United States,United States,North America,Water Polo,Aquatics,13,1,0,0,1,3.9609,7.69
+MR00392,1996,Summer,United States,United States,North America,Weightlifting,Individual Skill & Endurance,3,3,4,4,11,3.9609,100.0
+MR00393,1996,Summer,United States,United States,North America,Wrestling,Combat Sports,7,5,1,1,7,3.9609,100.0
+MR00394,1996,Summer,United States,Uzbekistan,Asia,Track Cycling,Cycling,2,0,0,1,1,8.8245,50.0
+MR00395,2000,Summer,Australia,Argentina,South America,Archery,Shooting,2,0,1,0,1,7.3277,50.0
+MR00396,2000,Summer,Australia,Argentina,South America,Swimming,Aquatics,6,1,0,0,1,7.3277,16.67
+MR00397,2000,Summer,Australia,Argentina,South America,Taekwondo,Combat Sports,2,1,0,0,1,7.3277,50.0
+MR00398,2000,Summer,Australia,Argentina,South America,Track & Field,Athletics,5,1,0,0,1,7.3277,20.0
+MR00399,2000,Winter,Australia,Australia,Oceania,Alpine Skiing,Winter Snow Sports,3,0,1,0,1,3.4409,33.33
+MR00400,2000,Summer,Australia,Australia,Oceania,Archery,Shooting,2,0,1,0,1,3.4409,50.0
+MR00401,2000,Summer,Australia,Australia,Oceania,Artistic Gymnastics,Gymnastics,3,2,0,0,2,3.4409,66.67
+MR00402,2000,Summer,Australia,Australia,Oceania,Badminton,Racquet Sports,4,1,1,0,2,3.4409,50.0
+MR00403,2000,Winter,Australia,Australia,Oceania,Biathlon,Winter Snow Sports,4,1,0,0,1,3.4409,25.0
+MR00404,2000,Summer,Australia,Australia,Oceania,Boxing,Combat Sports,4,1,1,1,3,3.4409,75.0
+MR00405,2000,Summer,Australia,Australia,Oceania,Canoe Sprint,Rowing,5,2,3,0,5,3.4409,100.0
+MR00406,2000,Summer,Australia,Australia,Oceania,Diving,Aquatics,2,0,0,1,1,3.4409,50.0
+MR00407,2000,Summer,Australia,Australia,Oceania,Equestrian,Individual Skill & Endurance,2,0,1,0,1,3.4409,50.0
+MR00408,2000,Summer,Australia,Australia,Oceania,Fencing,Combat Sports,5,1,1,1,3,3.4409,60.0
+MR00409,2000,Summer,Australia,Australia,Oceania,Judo,Combat Sports,7,1,0,1,2,3.4409,28.57
+MR00410,2000,Summer,Australia,Australia,Oceania,Road Cycling,Cycling,4,2,0,0,2,3.4409,50.0
+MR00411,2000,Summer,Australia,Australia,Oceania,Rowing,Rowing,12,1,1,0,2,3.4409,16.67
+MR00412,2000,Summer,Australia,Australia,Oceania,Sailing,Individual Skill & Endurance,3,0,1,0,1,3.4409,33.33
+MR00413,2000,Summer,Australia,Australia,Oceania,Shooting,Shooting,2,1,0,0,1,3.4409,50.0
+MR00414,2000,Summer,Australia,Australia,Oceania,Skateboarding,Individual Skill & Endurance,2,0,1,0,1,3.4409,50.0
+MR00415,2000,Winter,Australia,Australia,Oceania,Snowboard,Winter Snow Sports,3,1,0,0,1,3.4409,33.33
+MR00416,2000,Summer,Australia,Australia,Oceania,Swimming,Aquatics,11,2,1,1,4,3.4409,36.36
+MR00417,2000,Summer,Australia,Australia,Oceania,Track & Field,Athletics,9,0,1,0,1,3.4409,11.11
+MR00418,2000,Summer,Australia,Australia,Oceania,Trampoline,Gymnastics,2,1,0,0,1,3.4409,50.0
+MR00419,2000,Summer,Australia,Australia,Oceania,Water Polo,Aquatics,24,0,0,2,2,3.4409,8.33
+MR00420,2000,Summer,Australia,Australia,Oceania,Wrestling,Combat Sports,5,0,1,0,1,3.4409,20.0
+MR00421,2000,Summer,Australia,Belgium,Europe,Canoe Slalom,Rowing,1,1,0,0,1,7.1296,100.0
+MR00422,2000,Summer,Australia,Belgium,Europe,Tennis,Racquet Sports,1,0,0,1,1,7.1296,100.0
+MR00423,2000,Summer,Australia,Brazil,South America,Rhythmic Gymnastics,Gymnastics,3,0,1,0,1,9.3936,33.33
+MR00424,2000,Summer,Australia,Brazil,South America,Volleyball,Team Sports,12,1,0,0,1,9.3936,8.33
+MR00425,2000,Summer,Australia,Canada,North America,Fencing,Combat Sports,5,0,0,1,1,10.8867,20.0
+MR00426,2000,Summer,Australia,Canada,North America,Road Cycling,Cycling,4,0,1,0,1,10.8867,25.0
+MR00427,2000,Summer,Australia,Canada,North America,Rowing,Rowing,8,0,1,0,1,10.8867,12.5
+MR00428,2000,Winter,Australia,Canada,North America,Snowboard,Winter Snow Sports,3,1,0,0,1,10.8867,33.33
+MR00429,2000,Summer,Australia,Canada,North America,Table Tennis,Racquet Sports,3,0,0,1,1,10.8867,33.33
+MR00430,2000,Summer,Australia,China,Asia,Artistic Gymnastics,Gymnastics,8,0,2,1,3,16.4469,37.5
+MR00431,2000,Summer,Australia,China,Asia,Boxing,Combat Sports,4,1,0,0,1,16.4469,25.0
+MR00432,2000,Summer,Australia,China,Asia,Canoe Sprint,Rowing,4,1,0,0,1,16.4469,25.0
+MR00433,2000,Summer,Australia,China,Asia,Diving,Aquatics,5,1,0,0,1,16.4469,20.0
+MR00434,2000,Summer,Australia,China,Asia,Handball,Team Sports,13,0,1,0,1,16.4469,7.69
+MR00435,2000,Winter,Australia,China,Asia,Ski Jumping,Winter Snow Sports,6,1,0,0,1,16.4469,16.67
+MR00436,2000,Summer,Australia,China,Asia,Swimming,Aquatics,10,1,0,1,2,16.4469,20.0
+MR00437,2000,Summer,Australia,China,Asia,Track & Field,Athletics,11,0,1,2,3,16.4469,27.27
+MR00438,2000,Summer,Australia,China,Asia,Wrestling,Combat Sports,5,0,1,0,1,16.4469,20.0
+MR00439,2000,Summer,Australia,Cuba,North America,Beach Volleyball,Team Sports,4,1,0,0,1,4.8238,25.0
+MR00440,2000,Summer,Australia,Cuba,North America,Boxing,Combat Sports,2,1,0,0,1,4.8238,50.0
+MR00441,2000,Summer,Australia,Cuba,North America,Shooting,Shooting,2,0,1,0,1,4.8238,50.0
+MR00442,2000,Summer,Australia,Cuba,North America,Table Tennis,Racquet Sports,3,0,0,2,2,4.8238,66.67
+MR00443,2000,Summer,Australia,Denmark,Europe,BMX,Cycling,1,1,0,0,1,3.2999,100.0
+MR00444,2000,Summer,Australia,Denmark,Europe,Equestrian,Individual Skill & Endurance,3,1,0,1,2,3.2999,66.67
+MR00445,2000,Summer,Australia,Denmark,Europe,Track Cycling,Cycling,4,1,0,0,1,3.2999,25.0
+MR00446,2000,Summer,Australia,Dominican Republic,North America,Boxing,Combat Sports,2,0,1,0,1,8.3528,50.0
+MR00447,2000,Summer,Australia,Finland,Europe,Badminton,Racquet Sports,2,1,0,0,1,11.6481,50.0
+MR00448,2000,Summer,Australia,France,Europe,Archery,Shooting,3,1,0,0,1,4.0324,33.33
+MR00449,2000,Summer,Australia,France,Europe,Artistic Gymnastics,Gymnastics,4,1,1,1,3,4.0324,75.0
+MR00450,2000,Summer,Australia,France,Europe,Canoe Sprint,Rowing,6,0,0,1,1,4.0324,16.67
+MR00451,2000,Summer,Australia,France,Europe,Diving,Aquatics,2,1,0,0,1,4.0324,50.0
+MR00452,2000,Summer,Australia,France,Europe,Fencing,Combat Sports,6,0,1,1,2,4.0324,33.33
+MR00453,2000,Summer,Australia,France,Europe,Rowing,Rowing,8,0,1,0,1,4.0324,12.5
+MR00454,2000,Summer,Australia,France,Europe,Swimming,Aquatics,10,0,1,0,1,4.0324,10.0
+MR00455,2000,Summer,Australia,France,Europe,Track Cycling,Cycling,4,1,0,0,1,4.0324,25.0
+MR00456,2000,Summer,Australia,France,Europe,Water Polo,Aquatics,13,1,0,0,1,4.0324,7.69
+MR00457,2000,Summer,Australia,France,Europe,Wrestling,Combat Sports,3,1,0,1,2,4.0324,66.67
+MR00458,2000,Winter,Australia,Germany,Europe,Alpine Skiing,Winter Snow Sports,3,1,0,0,1,4.4575,33.33
+MR00459,2000,Summer,Australia,Germany,Europe,Archery,Shooting,2,1,0,0,1,4.4575,50.0
+MR00460,2000,Summer,Australia,Germany,Europe,BMX,Cycling,3,0,0,1,1,4.4575,33.33
+MR00461,2000,Summer,Australia,Germany,Europe,Badminton,Racquet Sports,4,1,0,0,1,4.4575,25.0
+MR00462,2000,Summer,Australia,Germany,Europe,Beach Volleyball,Team Sports,4,0,1,0,1,4.4575,25.0
+MR00463,2000,Summer,Australia,Germany,Europe,Boxing,Combat Sports,5,0,0,1,1,4.4575,20.0
+MR00464,2000,Summer,Australia,Germany,Europe,Equestrian,Individual Skill & Endurance,4,0,0,1,1,4.4575,25.0
+MR00465,2000,Summer,Australia,Germany,Europe,Field Hockey,Team Sports,15,1,0,0,1,4.4575,6.67
+MR00466,2000,Summer,Australia,Germany,Europe,Football,Team Sports,16,1,0,0,1,4.4575,6.25
+MR00467,2000,Summer,Australia,Germany,Europe,Modern Pentathlon,Shooting,3,0,0,1,1,4.4575,33.33
+MR00468,2000,Summer,Australia,Germany,Europe,Rhythmic Gymnastics,Gymnastics,4,0,0,1,1,4.4575,25.0
+MR00469,2000,Summer,Australia,Germany,Europe,Rowing,Rowing,6,3,0,0,3,4.4575,50.0
+MR00470,2000,Summer,Australia,Germany,Europe,Swimming,Aquatics,8,3,1,0,4,4.4575,50.0
+MR00471,2000,Summer,Australia,Germany,Europe,Table Tennis,Racquet Sports,3,0,0,1,1,4.4575,33.33
+MR00472,2000,Summer,Australia,Germany,Europe,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,4.4575,50.0
+MR00473,2000,Summer,Australia,Germany,Europe,Wrestling,Combat Sports,6,0,0,1,1,4.4575,16.67
+MR00474,2000,Summer,Australia,Great Britain,Europe,Fencing,Combat Sports,5,1,0,1,2,10.9807,40.0
+MR00475,2000,Summer,Australia,Great Britain,Europe,Judo,Combat Sports,6,0,0,1,1,10.9807,16.67
+MR00476,2000,Summer,Australia,Great Britain,Europe,Sailing,Individual Skill & Endurance,4,1,1,1,3,10.9807,75.0
+MR00477,2000,Summer,Australia,Great Britain,Europe,Swimming,Aquatics,9,1,0,2,3,10.9807,33.33
+MR00478,2000,Summer,Australia,Great Britain,Europe,Table Tennis,Racquet Sports,5,0,0,1,1,10.9807,20.0
+MR00479,2000,Summer,Australia,Great Britain,Europe,Wrestling,Combat Sports,6,1,0,0,1,10.9807,16.67
+MR00480,2000,Summer,Australia,Hungary,Europe,Artistic Gymnastics,Gymnastics,3,0,1,0,1,8.7037,33.33
+MR00481,2000,Summer,Australia,Hungary,Europe,Field Hockey,Team Sports,15,0,0,1,1,8.7037,6.67
+MR00482,2000,Summer,Australia,Hungary,Europe,Weightlifting,Individual Skill & Endurance,1,1,2,1,4,8.7037,100.0
+MR00483,2000,Summer,Australia,India,Asia,Fencing,Combat Sports,3,0,1,0,1,4.769,33.33
+MR00484,2000,Summer,Australia,India,Asia,Weightlifting,Individual Skill & Endurance,1,1,0,0,1,4.769,100.0
+MR00485,2000,Summer,Australia,Italy,Europe,Boxing,Combat Sports,2,1,0,0,1,7.8533,50.0
+MR00486,2000,Summer,Australia,Italy,Europe,Fencing,Combat Sports,3,0,1,0,1,7.8533,33.33
+MR00487,2000,Winter,Australia,Italy,Europe,Ski Jumping,Winter Snow Sports,3,1,0,0,1,7.8533,33.33
+MR00488,2000,Winter,Australia,Italy,Europe,Snowboard,Winter Snow Sports,2,1,1,0,2,7.8533,100.0
+MR00489,2000,Summer,Australia,Italy,Europe,Track & Field,Athletics,10,0,0,1,1,7.8533,10.0
+MR00490,2000,Summer,Australia,Italy,Europe,Weightlifting,Individual Skill & Endurance,3,0,1,0,1,7.8533,33.33
+MR00491,2000,Summer,Australia,Italy,Europe,Wrestling,Combat Sports,5,1,0,1,2,7.8533,40.0
+MR00492,2000,Summer,Australia,Jamaica,North America,Track & Field,Athletics,7,1,1,1,3,5.8814,42.86
+MR00493,2000,Summer,Australia,Japan,Asia,Golf,Individual Skill & Endurance,3,0,1,0,1,12.8846,33.33
+MR00494,2000,Summer,Australia,Japan,Asia,Judo,Combat Sports,6,1,1,0,2,12.8846,33.33
+MR00495,2000,Summer,Australia,Japan,Asia,Race Walking,Athletics,2,1,0,0,1,12.8846,50.0
+MR00496,2000,Summer,Australia,Japan,Asia,Rowing,Rowing,9,1,0,0,1,12.8846,11.11
+MR00497,2000,Summer,Australia,Japan,Asia,Shooting,Shooting,2,0,1,0,1,12.8846,50.0
+MR00498,2000,Summer,Australia,Japan,Asia,Skateboarding,Individual Skill & Endurance,2,1,0,0,1,12.8846,50.0
+MR00499,2000,Winter,Australia,Japan,Asia,Speed Skating,Winter Ice Sports,5,0,1,1,2,12.8846,40.0
+MR00500,2000,Summer,Australia,Japan,Asia,Swimming,Aquatics,8,2,1,0,3,12.8846,37.5
+MR00501,2000,Summer,Australia,Japan,Asia,Tennis,Racquet Sports,3,0,1,0,1,12.8846,33.33
+MR00502,2000,Summer,Australia,Japan,Asia,Track & Field,Athletics,11,1,2,1,4,12.8846,36.36
+MR00503,2000,Summer,Australia,Japan,Asia,Weightlifting,Individual Skill & Endurance,2,0,1,1,2,12.8846,100.0
+MR00504,2000,Summer,Australia,Japan,Asia,Wrestling,Combat Sports,6,1,1,0,2,12.8846,33.33
+MR00505,2000,Summer,Australia,Kazakhstan,Europe/Asia,Boxing,Combat Sports,3,0,1,0,1,11.1339,33.33
+MR00506,2000,Summer,Australia,Kenya,Africa,Rowing,Rowing,6,0,1,0,1,4.452,16.67
+MR00507,2000,Summer,Australia,Kenya,Africa,Skateboarding,Individual Skill & Endurance,2,0,1,0,1,4.452,50.0
+MR00508,2000,Summer,Australia,Mexico,North America,Modern Pentathlon,Shooting,2,0,1,0,1,14.7682,50.0
+MR00509,2000,Summer,Australia,Mongolia,Asia,Wrestling,Combat Sports,3,0,0,1,1,7.8341,33.33
+MR00510,2000,Summer,Australia,Netherlands,Europe,Artistic Gymnastics,Gymnastics,4,1,0,0,1,4.4891,25.0
+MR00511,2000,Winter,Australia,Netherlands,Europe,Curling,Winter Ice Sports,5,0,0,1,1,4.4891,20.0
+MR00512,2000,Summer,Australia,Netherlands,Europe,Rowing,Rowing,10,0,0,2,2,4.4891,20.0
+MR00513,2000,Winter,Australia,Netherlands,Europe,Snowboard,Winter Snow Sports,3,1,0,0,1,4.4891,33.33
+MR00514,2000,Summer,Australia,Netherlands,Europe,Tennis,Racquet Sports,2,0,0,1,1,4.4891,50.0
+MR00515,2000,Summer,Australia,Netherlands,Europe,Track & Field,Athletics,7,1,0,0,1,4.4891,14.29
+MR00516,2000,Winter,Australia,New Zealand,Oceania,Speed Skating,Winter Ice Sports,5,0,0,1,1,10.0559,20.0
+MR00517,2000,Summer,Australia,New Zealand,Oceania,Swimming,Aquatics,6,0,0,1,1,10.0559,16.67
+MR00518,2000,Summer,Australia,Nigeria,Africa,Artistic Gymnastics,Gymnastics,3,0,0,1,1,9.501,33.33
+MR00519,2000,Summer,Australia,North Korea,Asia,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,11.631,50.0
+MR00520,2000,Summer,Australia,Norway,Europe,Rowing,Rowing,8,1,0,0,1,23.6552,12.5
+MR00521,2000,Summer,Australia,Poland,Europe,Archery,Shooting,2,0,1,0,1,3.5807,50.0
+MR00522,2000,Summer,Australia,Poland,Europe,Race Walking,Athletics,2,0,0,1,1,3.5807,50.0
+MR00523,2000,Summer,Australia,Poland,Europe,Sailing,Individual Skill & Endurance,3,1,0,0,1,3.5807,33.33
+MR00524,2000,Summer,Australia,Poland,Europe,Swimming,Aquatics,6,0,1,0,1,3.5807,16.67
+MR00525,2000,Summer,Australia,Romania,Europe,Track & Field,Athletics,7,0,1,0,1,11.1069,14.29
+MR00526,2000,Winter,Australia,Russia,Europe/Asia,Alpine Skiing,Winter Snow Sports,3,1,0,0,1,2.5767,33.33
+MR00527,2000,Summer,Australia,Russia,Europe/Asia,Archery,Shooting,2,1,0,1,2,2.5767,100.0
+MR00528,2000,Summer,Australia,Russia,Europe/Asia,Artistic Swimming,Aquatics,15,0,2,0,2,2.5767,13.33
+MR00529,2000,Summer,Australia,Russia,Europe/Asia,BMX,Cycling,3,0,0,1,1,2.5767,33.33
+MR00530,2000,Summer,Australia,Russia,Europe/Asia,Badminton,Racquet Sports,3,1,0,0,1,2.5767,33.33
+MR00531,2000,Summer,Australia,Russia,Europe/Asia,Boxing,Combat Sports,4,1,0,1,2,2.5767,50.0
+MR00532,2000,Summer,Australia,Russia,Europe/Asia,Canoe Slalom,Rowing,3,0,1,0,1,2.5767,33.33
+MR00533,2000,Summer,Australia,Russia,Europe/Asia,Canoe Sprint,Rowing,4,2,1,0,3,2.5767,75.0
+MR00534,2000,Summer,Australia,Russia,Europe/Asia,Diving,Aquatics,4,0,0,1,1,2.5767,25.0
+MR00535,2000,Summer,Australia,Russia,Europe/Asia,Equestrian,Individual Skill & Endurance,4,1,0,1,2,2.5767,50.0
+MR00536,2000,Winter,Australia,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,5,2,1,0,3,2.5767,60.0
+MR00537,2000,Winter,Australia,Russia,Europe/Asia,Freestyle Skiing,Winter Snow Sports,2,0,0,1,1,2.5767,50.0
+MR00538,2000,Summer,Australia,Russia,Europe/Asia,Race Walking,Athletics,3,0,0,1,1,2.5767,33.33
+MR00539,2000,Summer,Australia,Russia,Europe/Asia,Rhythmic Gymnastics,Gymnastics,3,0,0,2,2,2.5767,66.67
+MR00540,2000,Summer,Australia,Russia,Europe/Asia,Rowing,Rowing,11,1,0,0,1,2.5767,9.09
+MR00541,2000,Summer,Australia,Russia,Europe/Asia,Shooting,Shooting,2,0,0,1,1,2.5767,50.0
+MR00542,2000,Winter,Australia,Russia,Europe/Asia,Ski Jumping,Winter Snow Sports,4,0,1,0,1,2.5767,25.0
+MR00543,2000,Summer,Australia,Russia,Europe/Asia,Swimming,Aquatics,12,1,1,0,2,2.5767,16.67
+MR00544,2000,Summer,Australia,Russia,Europe/Asia,Table Tennis,Racquet Sports,3,0,0,1,1,2.5767,33.33
+MR00545,2000,Summer,Australia,Russia,Europe/Asia,Track & Field,Athletics,7,1,0,0,1,2.5767,14.29
+MR00546,2000,Summer,Australia,South Africa,Africa,Swimming,Aquatics,5,0,0,2,2,5.7247,40.0
+MR00547,2000,Summer,Australia,South Africa,Africa,Track & Field,Athletics,7,0,2,0,2,5.7247,28.57
+MR00548,2000,Winter,Australia,South Korea,Asia,Alpine Skiing,Winter Snow Sports,4,1,0,0,1,9.4023,25.0
+MR00549,2000,Summer,Australia,South Korea,Asia,Archery,Shooting,2,1,1,0,2,9.4023,100.0
+MR00550,2000,Winter,Australia,South Korea,Asia,Curling,Winter Ice Sports,5,1,0,0,1,9.4023,20.0
+MR00551,2000,Summer,Australia,South Korea,Asia,Equestrian,Individual Skill & Endurance,3,0,1,0,1,9.4023,33.33
+MR00552,2000,Winter,Australia,South Korea,Asia,Snowboard,Winter Snow Sports,3,1,0,0,1,9.4023,33.33
+MR00553,2000,Summer,Australia,South Korea,Asia,Track & Field,Athletics,8,1,1,3,5,9.4023,62.5
+MR00554,2000,Summer,Australia,South Korea,Asia,Track Cycling,Cycling,5,0,1,0,1,9.4023,20.0
+MR00555,2000,Summer,Australia,Spain,Europe,Canoe Sprint,Rowing,3,0,1,0,1,6.9146,33.33
+MR00556,2000,Summer,Australia,Spain,Europe,Diving,Aquatics,3,0,0,1,1,6.9146,33.33
+MR00557,2000,Summer,Australia,Spain,Europe,Sailing,Individual Skill & Endurance,2,1,0,0,1,6.9146,50.0
+MR00558,2000,Summer,Australia,Spain,Europe,Tennis,Racquet Sports,2,0,1,0,1,6.9146,50.0
+MR00559,2000,Summer,Australia,Spain,Europe,Wrestling,Combat Sports,4,1,0,0,1,6.9146,25.0
+MR00560,2000,Summer,Australia,Sweden,Europe,Weightlifting,Individual Skill & Endurance,1,1,0,0,1,18.3459,100.0
+MR00561,2000,Summer,Australia,Thailand,Asia,Swimming,Aquatics,6,0,0,1,1,9.3206,16.67
+MR00562,2000,Summer,Australia,Turkey,Europe/Asia,Judo,Combat Sports,4,1,0,0,1,17.2472,25.0
+MR00563,2000,Summer,Australia,Ukraine,Europe,Swimming,Aquatics,9,0,1,1,2,19.6404,22.22
+MR00564,2000,Summer,Australia,United States,North America,Archery,Shooting,4,1,0,0,1,7.0314,25.0
+MR00565,2000,Summer,Australia,United States,North America,Artistic Gymnastics,Gymnastics,7,2,0,0,2,7.0314,28.57
+MR00566,2000,Summer,Australia,United States,North America,Artistic Swimming,Aquatics,7,0,0,1,1,7.0314,14.29
+MR00567,2000,Summer,Australia,United States,North America,BMX,Cycling,3,0,0,1,1,7.0314,33.33
+MR00568,2000,Summer,Australia,United States,North America,Basketball,Team Sports,23,1,1,0,2,7.0314,8.7
+MR00569,2000,Summer,Australia,United States,North America,Beach Volleyball,Team Sports,8,0,1,1,2,7.0314,25.0
+MR00570,2000,Summer,Australia,United States,North America,Boxing,Combat Sports,4,0,1,0,1,7.0314,25.0
+MR00571,2000,Summer,Australia,United States,North America,Canoe Sprint,Rowing,6,2,0,0,2,7.0314,33.33
+MR00572,2000,Summer,Australia,United States,North America,Diving,Aquatics,6,1,0,0,1,7.0314,16.67
+MR00573,2000,Summer,Australia,United States,North America,Equestrian,Individual Skill & Endurance,4,0,0,1,1,7.0314,25.0
+MR00574,2000,Summer,Australia,United States,North America,Field Hockey,Team Sports,16,1,0,0,1,7.0314,6.25
+MR00575,2000,Summer,Australia,United States,North America,Football,Team Sports,17,0,1,0,1,7.0314,5.88
+MR00576,2000,Summer,Australia,United States,North America,Judo,Combat Sports,6,0,2,2,4,7.0314,66.67
+MR00577,2000,Summer,Australia,United States,North America,Modern Pentathlon,Shooting,3,1,1,0,2,7.0314,66.67
+MR00578,2000,Summer,Australia,United States,North America,Race Walking,Athletics,3,1,1,0,2,7.0314,66.67
+MR00579,2000,Summer,Australia,United States,North America,Rhythmic Gymnastics,Gymnastics,4,2,0,0,2,7.0314,50.0
+MR00580,2000,Summer,Australia,United States,North America,Shooting,Shooting,3,0,1,0,1,7.0314,33.33
+MR00581,2000,Summer,Australia,United States,North America,Skateboarding,Individual Skill & Endurance,4,1,0,0,1,7.0314,25.0
+MR00582,2000,Winter,Australia,United States,North America,Snowboard,Winter Snow Sports,5,1,0,0,1,7.0314,20.0
+MR00583,2000,Summer,Australia,United States,North America,Swimming,Aquatics,14,9,3,4,16,7.0314,100.0
+MR00584,2000,Summer,Australia,United States,North America,Tennis,Racquet Sports,3,0,1,0,1,7.0314,33.33
+MR00585,2000,Summer,Australia,United States,North America,Track & Field,Athletics,13,1,1,1,3,7.0314,23.08
+MR00586,2000,Summer,Australia,United States,North America,Track Cycling,Cycling,5,0,0,1,1,7.0314,20.0
+MR00587,2000,Summer,Australia,United States,North America,Trampoline,Gymnastics,2,1,0,0,1,7.0314,50.0
+MR00588,2000,Summer,Australia,United States,North America,Weightlifting,Individual Skill & Endurance,4,3,2,2,7,7.0314,100.0
+MR00589,2000,Summer,Australia,United States,North America,Wrestling,Combat Sports,7,2,1,0,3,7.0314,42.86
+MR00590,2000,Summer,Australia,Uzbekistan,Asia,Boxing,Combat Sports,2,0,0,1,1,7.2828,50.0
+MR00591,2000,Summer,Australia,Uzbekistan,Asia,Shooting,Shooting,2,0,0,1,1,7.2828,50.0
+MR00592,2004,Summer,Greece,Australia,Oceania,Boxing,Combat Sports,3,1,3,0,4,7.1048,100.0
+MR00593,2004,Summer,Greece,Australia,Oceania,Diving,Aquatics,3,1,0,0,1,7.1048,33.33
+MR00594,2004,Summer,Greece,Australia,Oceania,Fencing,Combat Sports,3,0,1,0,1,7.1048,33.33
+MR00595,2004,Winter,Greece,Australia,Oceania,Ice Hockey,Winter Ice Sports,19,1,0,0,1,7.1048,5.26
+MR00596,2004,Summer,Greece,Australia,Oceania,Rowing,Rowing,11,0,1,0,1,7.1048,9.09
+MR00597,2004,Summer,Greece,Australia,Oceania,Swimming,Aquatics,11,2,0,1,3,7.1048,27.27
+MR00598,2004,Summer,Greece,Australia,Oceania,Track & Field,Athletics,11,0,1,1,2,7.1048,18.18
+MR00599,2004,Summer,Greece,Australia,Oceania,Triathlon,Individual Skill & Endurance,4,0,1,0,1,7.1048,25.0
+MR00600,2004,Summer,Greece,Australia,Oceania,Wrestling,Combat Sports,5,0,1,0,1,7.1048,20.0
+MR00601,2004,Winter,Greece,Austria,Europe,Speed Skating,Winter Ice Sports,2,1,0,0,1,11.1684,50.0
+MR00602,2004,Summer,Greece,Belgium,Europe,Swimming,Aquatics,5,1,0,1,2,17.506,40.0
+MR00603,2004,Summer,Greece,Brazil,South America,Badminton,Racquet Sports,3,0,1,0,1,8.0198,33.33
+MR00604,2004,Summer,Greece,Brazil,South America,Judo,Combat Sports,6,0,0,1,1,8.0198,16.67
+MR00605,2004,Summer,Greece,Brazil,South America,Road Cycling,Cycling,5,0,1,0,1,8.0198,20.0
+MR00606,2004,Summer,Greece,Canada,North America,Artistic Gymnastics,Gymnastics,5,0,0,1,1,10.9454,20.0
+MR00607,2004,Summer,Greece,Canada,North America,Boxing,Combat Sports,3,1,0,0,1,10.9454,33.33
+MR00608,2004,Summer,Greece,Canada,North America,Diving,Aquatics,2,0,0,1,1,10.9454,50.0
+MR00609,2004,Summer,Greece,Canada,North America,Football,Team Sports,17,0,0,1,1,10.9454,5.88
+MR00610,2004,Winter,Greece,Canada,North America,Ice Hockey,Winter Ice Sports,19,1,0,0,1,10.9454,5.26
+MR00611,2004,Summer,Greece,Canada,North America,Table Tennis,Racquet Sports,3,1,0,0,1,10.9454,33.33
+MR00612,2004,Summer,Greece,Canada,North America,Track & Field,Athletics,8,0,1,0,1,10.9454,12.5
+MR00613,2004,Summer,Greece,Canada,North America,Track Cycling,Cycling,4,1,0,1,2,10.9454,50.0
+MR00614,2004,Summer,Greece,Chile,South America,Track Cycling,Cycling,2,0,1,0,1,7.1205,50.0
+MR00615,2004,Summer,Greece,China,Asia,Artistic Gymnastics,Gymnastics,6,1,2,1,4,8.0476,66.67
+MR00616,2004,Summer,Greece,China,Asia,Badminton,Racquet Sports,5,1,0,1,2,8.0476,40.0
+MR00617,2004,Summer,Greece,China,Asia,Canoe Slalom,Rowing,3,1,1,0,2,8.0476,66.67
+MR00618,2004,Winter,Greece,China,Asia,Cross-Country Skiing,Winter Snow Sports,4,1,0,0,1,8.0476,25.0
+MR00619,2004,Summer,Greece,China,Asia,Fencing,Combat Sports,6,1,0,0,1,8.0476,16.67
+MR00620,2004,Summer,Greece,China,Asia,Football,Team Sports,17,0,0,1,1,8.0476,5.88
+MR00621,2004,Summer,Greece,China,Asia,Rhythmic Gymnastics,Gymnastics,3,0,1,0,1,8.0476,33.33
+MR00622,2004,Summer,Greece,China,Asia,Skateboarding,Individual Skill & Endurance,2,0,1,0,1,8.0476,50.0
+MR00623,2004,Winter,Greece,China,Asia,Snowboard,Winter Snow Sports,5,1,0,0,1,8.0476,20.0
+MR00624,2004,Winter,Greece,China,Asia,Speed Skating,Winter Ice Sports,4,2,0,0,2,8.0476,50.0
+MR00625,2004,Summer,Greece,China,Asia,Swimming,Aquatics,10,1,3,3,7,8.0476,70.0
+MR00626,2004,Summer,Greece,China,Asia,Table Tennis,Racquet Sports,5,2,2,0,4,8.0476,80.0
+MR00627,2004,Summer,Greece,China,Asia,Track & Field,Athletics,11,2,2,1,5,8.0476,45.45
+MR00628,2004,Summer,Greece,China,Asia,Track Cycling,Cycling,6,0,0,1,1,8.0476,16.67
+MR00629,2004,Summer,Greece,China,Asia,Wrestling,Combat Sports,7,0,0,1,1,8.0476,14.29
+MR00630,2004,Summer,Greece,Chinese Taipei,Asia,Diving,Aquatics,2,0,1,0,1,8.8388,50.0
+MR00631,2004,Summer,Greece,Colombia,South America,Weightlifting,Individual Skill & Endurance,1,1,0,0,1,14.4725,100.0
+MR00632,2004,Summer,Greece,Croatia,Europe,Track & Field,Athletics,4,0,1,1,2,14.0283,50.0
+MR00633,2004,Summer,Greece,Cuba,North America,Boxing,Combat Sports,3,0,0,1,1,7.6198,33.33
+MR00634,2004,Summer,Greece,Cuba,North America,Rhythmic Gymnastics,Gymnastics,2,0,1,0,1,7.6198,50.0
+MR00635,2004,Summer,Greece,Dominican Republic,North America,Taekwondo,Combat Sports,1,0,1,0,1,7.5643,100.0
+MR00636,2004,Summer,Greece,Ecuador,South America,Field Hockey,Team Sports,15,0,0,1,1,6.284,6.67
+MR00637,2004,Summer,Greece,Ethiopia,Africa,Marathon,Athletics,2,1,0,0,1,4.9554,50.0
+MR00638,2004,Winter,Greece,Finland,Europe,Speed Skating,Winter Ice Sports,3,0,0,1,1,12.9773,33.33
+MR00639,2004,Winter,Greece,France,Europe,Alpine Skiing,Winter Snow Sports,4,0,1,0,1,3.7638,25.0
+MR00640,2004,Summer,Greece,France,Europe,Archery,Shooting,3,0,1,0,1,3.7638,33.33
+MR00641,2004,Summer,Greece,France,Europe,Artistic Gymnastics,Gymnastics,4,0,0,1,1,3.7638,25.0
+MR00642,2004,Summer,Greece,France,Europe,BMX,Cycling,3,1,1,0,2,3.7638,66.67
+MR00643,2004,Summer,Greece,France,Europe,Badminton,Racquet Sports,4,1,0,1,2,3.7638,50.0
+MR00644,2004,Summer,Greece,France,Europe,Boxing,Combat Sports,3,0,0,1,1,3.7638,33.33
+MR00645,2004,Summer,Greece,France,Europe,Canoe Sprint,Rowing,5,1,0,0,1,3.7638,20.0
+MR00646,2004,Summer,Greece,France,Europe,Fencing,Combat Sports,5,1,0,2,3,3.7638,60.0
+MR00647,2004,Summer,Greece,France,Europe,Golf,Individual Skill & Endurance,2,0,1,0,1,3.7638,50.0
+MR00648,2004,Winter,Greece,France,Europe,Snowboard,Winter Snow Sports,3,0,1,0,1,3.7638,33.33
+MR00649,2004,Winter,Greece,France,Europe,Speed Skating,Winter Ice Sports,4,1,0,0,1,3.7638,25.0
+MR00650,2004,Summer,Greece,France,Europe,Swimming,Aquatics,10,0,2,0,2,3.7638,20.0
+MR00651,2004,Summer,Greece,France,Europe,Track Cycling,Cycling,6,1,0,1,2,3.7638,33.33
+MR00652,2004,Summer,Greece,France,Europe,Water Polo,Aquatics,12,0,0,1,1,3.7638,8.33
+MR00653,2004,Summer,Greece,France,Europe,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,3.7638,50.0
+MR00654,2004,Summer,Greece,France,Europe,Wrestling,Combat Sports,4,3,1,0,4,3.7638,100.0
+MR00655,2004,Summer,Greece,Georgia,Europe/Asia,Table Tennis,Racquet Sports,2,1,0,0,1,1.8781,50.0
+MR00656,2004,Summer,Greece,Georgia,Europe/Asia,Track & Field,Athletics,6,0,1,0,1,1.8781,16.67
+MR00657,2004,Winter,Greece,Germany,Europe,Alpine Skiing,Winter Snow Sports,3,1,0,0,1,8.2283,33.33
+MR00658,2004,Summer,Greece,Germany,Europe,Archery,Shooting,2,0,1,0,1,8.2283,50.0
+MR00659,2004,Summer,Greece,Germany,Europe,Beach Volleyball,Team Sports,4,1,0,0,1,8.2283,25.0
+MR00660,2004,Summer,Greece,Germany,Europe,Equestrian,Individual Skill & Endurance,4,0,0,1,1,8.2283,25.0
+MR00661,2004,Winter,Greece,Germany,Europe,Speed Skating,Winter Ice Sports,6,0,0,1,1,8.2283,16.67
+MR00662,2004,Summer,Greece,Germany,Europe,Swimming,Aquatics,9,3,1,1,5,8.2283,55.56
+MR00663,2004,Summer,Greece,Germany,Europe,Taekwondo,Combat Sports,3,0,0,1,1,8.2283,33.33
+MR00664,2004,Summer,Greece,Germany,Europe,Track Cycling,Cycling,5,0,0,1,1,8.2283,20.0
+MR00665,2004,Summer,Greece,Germany,Europe,Wrestling,Combat Sports,4,0,1,0,1,8.2283,25.0
+MR00666,2004,Summer,Greece,Great Britain,Europe,BMX,Cycling,3,0,2,0,2,3.7892,66.67
+MR00667,2004,Summer,Greece,Great Britain,Europe,Badminton,Racquet Sports,4,0,0,1,1,3.7892,25.0
+MR00668,2004,Summer,Greece,Great Britain,Europe,Boxing,Combat Sports,4,0,1,0,1,3.7892,25.0
+MR00669,2004,Summer,Greece,Great Britain,Europe,Canoe Sprint,Rowing,4,2,0,0,2,3.7892,50.0
+MR00670,2004,Summer,Greece,Great Britain,Europe,Diving,Aquatics,3,0,1,0,1,3.7892,33.33
+MR00671,2004,Summer,Greece,Great Britain,Europe,Fencing,Combat Sports,3,1,1,2,4,3.7892,100.0
+MR00672,2004,Winter,Greece,Great Britain,Europe,Ice Hockey,Winter Ice Sports,20,0,1,0,1,3.7892,5.0
+MR00673,2004,Summer,Greece,Great Britain,Europe,Judo,Combat Sports,5,1,1,2,4,3.7892,80.0
+MR00674,2004,Summer,Greece,Great Britain,Europe,Road Cycling,Cycling,3,0,0,1,1,3.7892,33.33
+MR00675,2004,Summer,Greece,Great Britain,Europe,Rowing,Rowing,7,0,1,0,1,3.7892,14.29
+MR00676,2004,Summer,Greece,Great Britain,Europe,Sailing,Individual Skill & Endurance,4,1,0,1,2,3.7892,50.0
+MR00677,2004,Summer,Greece,Great Britain,Europe,Swimming,Aquatics,9,1,1,1,3,3.7892,33.33
+MR00678,2004,Summer,Greece,Great Britain,Europe,Table Tennis,Racquet Sports,4,1,0,0,1,3.7892,25.0
+MR00679,2004,Summer,Greece,Great Britain,Europe,Track & Field,Athletics,9,1,0,1,2,3.7892,22.22
+MR00680,2004,Summer,Greece,Great Britain,Europe,Track Cycling,Cycling,5,0,1,0,1,3.7892,20.0
+MR00681,2004,Summer,Greece,Great Britain,Europe,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,3.7892,50.0
+MR00682,2004,Summer,Greece,Greece,Europe,Road Cycling,Cycling,4,0,0,1,1,4.7847,25.0
+MR00683,2004,Summer,Greece,Greece,Europe,Rowing,Rowing,5,0,0,1,1,4.7847,20.0
+MR00684,2004,Summer,Greece,Greece,Europe,Track & Field,Athletics,4,0,1,0,1,4.7847,25.0
+MR00685,2004,Summer,Greece,Greece,Europe,Track Cycling,Cycling,4,0,1,0,1,4.7847,25.0
+MR00686,2004,Summer,Greece,Greece,Europe,Weightlifting,Individual Skill & Endurance,1,0,1,0,1,4.7847,100.0
+MR00687,2004,Summer,Greece,Hungary,Europe,Track Cycling,Cycling,4,0,1,0,1,23.273,25.0
+MR00688,2004,Summer,Greece,Iran,Asia,Skateboarding,Individual Skill & Endurance,1,0,0,1,1,17.6994,100.0
+MR00689,2004,Summer,Greece,Italy,Europe,Artistic Gymnastics,Gymnastics,4,0,1,1,2,5.2611,50.0
+MR00690,2004,Winter,Greece,Italy,Europe,Biathlon,Winter Snow Sports,3,0,1,0,1,5.2611,33.33
+MR00691,2004,Summer,Greece,Italy,Europe,Fencing,Combat Sports,3,0,1,0,1,5.2611,33.33
+MR00692,2004,Summer,Greece,Italy,Europe,Football,Team Sports,17,0,1,0,1,5.2611,5.88
+MR00693,2004,Summer,Greece,Italy,Europe,Judo,Combat Sports,5,1,0,0,1,5.2611,20.0
+MR00694,2004,Summer,Greece,Italy,Europe,Marathon,Athletics,2,1,0,0,1,5.2611,50.0
+MR00695,2004,Summer,Greece,Italy,Europe,Swimming,Aquatics,11,1,1,0,2,5.2611,18.18
+MR00696,2004,Summer,Greece,Italy,Europe,Track & Field,Athletics,9,0,0,1,1,5.2611,11.11
+MR00697,2004,Summer,Greece,Italy,Europe,Trampoline,Gymnastics,2,0,1,0,1,5.2611,50.0
+MR00698,2004,Summer,Greece,Japan,Asia,Marathon,Athletics,2,0,0,1,1,10.2514,50.0
+MR00699,2004,Summer,Greece,Japan,Asia,Sailing,Individual Skill & Endurance,4,1,0,0,1,10.2514,25.0
+MR00700,2004,Summer,Greece,Japan,Asia,Shooting,Shooting,3,1,0,0,1,10.2514,33.33
+MR00701,2004,Summer,Greece,Japan,Asia,Swimming,Aquatics,9,2,1,2,5,10.2514,55.56
+MR00702,2004,Summer,Greece,Japan,Asia,Table Tennis,Racquet Sports,3,1,0,0,1,10.2514,33.33
+MR00703,2004,Summer,Greece,Japan,Asia,Tennis,Racquet Sports,2,0,0,1,1,10.2514,50.0
+MR00704,2004,Summer,Greece,Japan,Asia,Track & Field,Athletics,12,1,0,0,1,10.2514,8.33
+MR00705,2004,Summer,Greece,Japan,Asia,Triathlon,Individual Skill & Endurance,5,1,0,0,1,10.2514,20.0
+MR00706,2004,Summer,Greece,Japan,Asia,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,10.2514,50.0
+MR00707,2004,Summer,Greece,Japan,Asia,Wrestling,Combat Sports,7,3,0,0,3,10.2514,42.86
+MR00708,2004,Summer,Greece,Kazakhstan,Europe/Asia,Canoe Sprint,Rowing,4,1,0,0,1,8.4422,25.0
+MR00709,2004,Summer,Greece,Kazakhstan,Europe/Asia,Fencing,Combat Sports,3,1,0,0,1,8.4422,33.33
+MR00710,2004,Summer,Greece,Kenya,Africa,Equestrian,Individual Skill & Endurance,3,0,0,1,1,8.1616,33.33
+MR00711,2004,Summer,Greece,Mexico,North America,Race Walking,Athletics,1,0,0,1,1,9.7217,100.0
+MR00712,2004,Summer,Greece,Mexico,North America,Tennis,Racquet Sports,2,0,0,1,1,9.7217,50.0
+MR00713,2004,Summer,Greece,Netherlands,Europe,Artistic Gymnastics,Gymnastics,4,0,0,1,1,5.2917,25.0
+MR00714,2004,Summer,Greece,Netherlands,Europe,Badminton,Racquet Sports,3,0,0,1,1,5.2917,33.33
+MR00715,2004,Winter,Greece,Netherlands,Europe,Figure Skating,Winter Ice Sports,4,0,1,0,1,5.2917,25.0
+MR00716,2004,Summer,Greece,Netherlands,Europe,Judo,Combat Sports,6,1,0,1,2,5.2917,33.33
+MR00717,2004,Summer,Greece,Netherlands,Europe,Shooting,Shooting,2,0,2,0,2,5.2917,100.0
+MR00718,2004,Summer,Greece,New Zealand,Oceania,Artistic Gymnastics,Gymnastics,3,1,0,0,1,5.3686,33.33
+MR00719,2004,Summer,Greece,New Zealand,Oceania,Track & Field,Athletics,7,1,0,0,1,5.3686,14.29
+MR00720,2004,Summer,Greece,New Zealand,Oceania,Triathlon,Individual Skill & Endurance,3,0,1,0,1,5.3686,33.33
+MR00721,2004,Summer,Greece,New Zealand,Oceania,Wrestling,Combat Sports,4,0,0,1,1,5.3686,25.0
+MR00722,2004,Summer,Greece,Nigeria,Africa,Archery,Shooting,1,0,1,0,1,3.3167,100.0
+MR00723,2004,Summer,Greece,Nigeria,Africa,Swimming,Aquatics,4,0,1,0,1,3.3167,25.0
+MR00724,2004,Summer,Greece,Norway,Europe,Artistic Gymnastics,Gymnastics,5,0,1,0,1,3.5914,20.0
+MR00725,2004,Summer,Greece,Norway,Europe,Football,Team Sports,17,1,0,0,1,3.5914,5.88
+MR00726,2004,Winter,Greece,Norway,Europe,Freestyle Skiing,Winter Snow Sports,2,0,0,1,1,3.5914,50.0
+MR00727,2004,Winter,Greece,Norway,Europe,Snowboard,Winter Snow Sports,3,0,1,0,1,3.5914,33.33
+MR00728,2004,Summer,Greece,Norway,Europe,Swimming,Aquatics,8,0,0,1,1,3.5914,12.5
+MR00729,2004,Summer,Greece,Norway,Europe,Wrestling,Combat Sports,3,0,0,1,1,3.5914,33.33
+MR00730,2004,Summer,Greece,Poland,Europe,Marathon,Athletics,1,0,0,1,1,11.0762,100.0
+MR00731,2004,Summer,Greece,Poland,Europe,Swimming,Aquatics,5,0,1,0,1,11.0762,20.0
+MR00732,2004,Summer,Greece,Romania,Europe,Swimming,Aquatics,7,0,1,0,1,12.726,14.29
+MR00733,2004,Winter,Greece,Russia,Europe/Asia,Alpine Skiing,Winter Snow Sports,4,1,0,0,1,5.1182,25.0
+MR00734,2004,Summer,Greece,Russia,Europe/Asia,Archery,Shooting,2,0,1,0,1,5.1182,50.0
+MR00735,2004,Summer,Greece,Russia,Europe/Asia,Artistic Swimming,Aquatics,8,1,0,0,1,5.1182,12.5
+MR00736,2004,Summer,Greece,Russia,Europe/Asia,Beach Volleyball,Team Sports,4,1,0,0,1,5.1182,25.0
+MR00737,2004,Summer,Greece,Russia,Europe/Asia,Canoe Slalom,Rowing,3,0,0,1,1,5.1182,33.33
+MR00738,2004,Summer,Greece,Russia,Europe/Asia,Canoe Sprint,Rowing,6,1,1,1,3,5.1182,50.0
+MR00739,2004,Summer,Greece,Russia,Europe/Asia,Equestrian,Individual Skill & Endurance,4,0,0,1,1,5.1182,25.0
+MR00740,2004,Summer,Greece,Russia,Europe/Asia,Fencing,Combat Sports,4,0,1,0,1,5.1182,25.0
+MR00741,2004,Winter,Greece,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,4,1,0,0,1,5.1182,25.0
+MR00742,2004,Summer,Greece,Russia,Europe/Asia,Judo,Combat Sports,6,0,0,1,1,5.1182,16.67
+MR00743,2004,Summer,Greece,Russia,Europe/Asia,Rhythmic Gymnastics,Gymnastics,3,0,0,1,1,5.1182,33.33
+MR00744,2004,Summer,Greece,Russia,Europe/Asia,Rowing,Rowing,6,0,1,0,1,5.1182,16.67
+MR00745,2004,Summer,Greece,Russia,Europe/Asia,Shooting,Shooting,2,1,1,2,4,5.1182,100.0
+MR00746,2004,Winter,Greece,Russia,Europe/Asia,Speed Skating,Winter Ice Sports,6,0,1,0,1,5.1182,16.67
+MR00747,2004,Summer,Greece,Russia,Europe/Asia,Swimming,Aquatics,8,3,0,0,3,5.1182,37.5
+MR00748,2004,Summer,Greece,Russia,Europe/Asia,Table Tennis,Racquet Sports,3,0,0,1,1,5.1182,33.33
+MR00749,2004,Summer,Greece,Russia,Europe/Asia,Track & Field,Athletics,12,0,1,0,1,5.1182,8.33
+MR00750,2004,Summer,Greece,Russia,Europe/Asia,Weightlifting,Individual Skill & Endurance,3,0,0,2,2,5.1182,66.67
+MR00751,2004,Summer,Greece,Russia,Europe/Asia,Wrestling,Combat Sports,3,2,0,1,3,5.1182,100.0
+MR00752,2004,Summer,Greece,Serbia,Europe,Water Polo,Aquatics,12,0,0,1,1,4.4166,8.33
+MR00753,2004,Summer,Greece,Serbia,Europe,Weightlifting,Individual Skill & Endurance,2,0,0,1,1,4.4166,50.0
+MR00754,2004,Summer,Greece,Slovakia,Europe,Boxing,Combat Sports,2,0,1,0,1,3.0882,50.0
+MR00755,2004,Summer,Greece,South Africa,Africa,Boxing,Combat Sports,3,1,0,0,1,3.7518,33.33
+MR00756,2004,Summer,Greece,South Africa,Africa,Football,Team Sports,18,1,0,0,1,3.7518,5.56
+MR00757,2004,Summer,Greece,South Africa,Africa,Skateboarding,Individual Skill & Endurance,1,0,1,0,1,3.7518,100.0
+MR00758,2004,Summer,Greece,South Africa,Africa,Track & Field,Athletics,6,0,0,1,1,3.7518,16.67
+MR00759,2004,Summer,Greece,South Korea,Asia,Archery,Shooting,2,2,0,0,2,6.8736,100.0
+MR00760,2004,Winter,Greece,South Korea,Asia,Curling,Winter Ice Sports,5,0,1,0,1,6.8736,20.0
+MR00761,2004,Summer,Greece,South Korea,Asia,Equestrian,Individual Skill & Endurance,3,1,0,0,1,6.8736,33.33
+MR00762,2004,Summer,Greece,South Korea,Asia,Fencing,Combat Sports,4,1,1,0,2,6.8736,50.0
+MR00763,2004,Summer,Greece,South Korea,Asia,Rugby Sevens,Team Sports,11,0,0,1,1,6.8736,9.09
+MR00764,2004,Summer,Greece,South Korea,Asia,Swimming,Aquatics,10,0,2,0,2,6.8736,20.0
+MR00765,2004,Summer,Greece,South Korea,Asia,Taekwondo,Combat Sports,4,0,1,0,1,6.8736,25.0
+MR00766,2004,Summer,Greece,Spain,Europe,Artistic Gymnastics,Gymnastics,4,0,0,1,1,40.8847,25.0
+MR00767,2004,Summer,Greece,Switzerland,Europe,Track & Field,Athletics,6,0,2,0,2,27.5288,33.33
+MR00768,2004,Summer,Greece,Tunisia,Africa,Track & Field,Athletics,6,1,0,0,1,7.5672,16.67
+MR00769,2004,Summer,Greece,Turkey,Europe/Asia,Archery,Shooting,1,0,1,0,1,6.1332,100.0
+MR00770,2004,Summer,Greece,Turkey,Europe/Asia,Boxing,Combat Sports,2,0,0,1,1,6.1332,50.0
+MR00771,2004,Summer,Greece,Uganda,Africa,Marathon,Athletics,1,0,1,0,1,2.3222,100.0
+MR00772,2004,Summer,Greece,Ukraine,Europe,Rowing,Rowing,8,0,1,0,1,12.0563,12.5
+MR00773,2004,Summer,Greece,Ukraine,Europe,Track & Field,Athletics,6,0,1,0,1,12.0563,16.67
+MR00774,2004,Winter,Greece,United States,North America,Alpine Skiing,Winter Snow Sports,4,1,0,0,1,3.8756,25.0
+MR00775,2004,Summer,Greece,United States,North America,Archery,Shooting,2,0,0,1,1,3.8756,50.0
+MR00776,2004,Summer,Greece,United States,North America,BMX,Cycling,4,1,0,0,1,3.8756,25.0
+MR00777,2004,Summer,Greece,United States,North America,Badminton,Racquet Sports,4,0,2,0,2,3.8756,50.0
+MR00778,2004,Summer,Greece,United States,North America,Basketball,Team Sports,23,0,0,2,2,3.8756,8.7
+MR00779,2004,Summer,Greece,United States,North America,Canoe Slalom,Rowing,3,0,1,3,4,3.8756,100.0
+MR00780,2004,Summer,Greece,United States,North America,Canoe Sprint,Rowing,6,1,1,0,2,3.8756,33.33
+MR00781,2004,Winter,Greece,United States,North America,Cross-Country Skiing,Winter Snow Sports,5,0,1,0,1,3.8756,20.0
+MR00782,2004,Summer,Greece,United States,North America,Diving,Aquatics,4,0,1,0,1,3.8756,25.0
+MR00783,2004,Summer,Greece,United States,North America,Fencing,Combat Sports,8,1,0,0,1,3.8756,12.5
+MR00784,2004,Summer,Greece,United States,North America,Field Hockey,Team Sports,31,0,1,1,2,3.8756,6.45
+MR00785,2004,Winter,Greece,United States,North America,Figure Skating,Winter Ice Sports,5,0,1,1,2,3.8756,40.0
+MR00786,2004,Summer,Greece,United States,North America,Football,Team Sports,17,0,0,1,1,3.8756,5.88
+MR00787,2004,Summer,Greece,United States,North America,Golf,Individual Skill & Endurance,3,1,1,0,2,3.8756,66.67
+MR00788,2004,Summer,Greece,United States,North America,Handball,Team Sports,27,1,1,0,2,3.8756,7.41
+MR00789,2004,Summer,Greece,United States,North America,Judo,Combat Sports,6,1,2,1,4,3.8756,66.67
+MR00790,2004,Summer,Greece,United States,North America,Modern Pentathlon,Shooting,2,1,0,0,1,3.8756,50.0
+MR00791,2004,Summer,Greece,United States,North America,Rhythmic Gymnastics,Gymnastics,4,0,1,1,2,3.8756,50.0
+MR00792,2004,Summer,Greece,United States,North America,Road Cycling,Cycling,6,1,0,0,1,3.8756,16.67
+MR00793,2004,Summer,Greece,United States,North America,Rowing,Rowing,16,0,0,1,1,3.8756,6.25
+MR00794,2004,Summer,Greece,United States,North America,Shooting,Shooting,3,0,1,2,3,3.8756,100.0
+MR00795,2004,Summer,Greece,United States,North America,Skateboarding,Individual Skill & Endurance,3,0,1,0,1,3.8756,33.33
+MR00796,2004,Winter,Greece,United States,North America,Speed Skating,Winter Ice Sports,6,1,0,1,2,3.8756,33.33
+MR00797,2004,Summer,Greece,United States,North America,Swimming,Aquatics,10,5,6,4,15,3.8756,100.0
+MR00798,2004,Summer,Greece,United States,North America,Track & Field,Athletics,9,1,7,1,9,3.8756,100.0
+MR00799,2004,Summer,Greece,United States,North America,Triathlon,Individual Skill & Endurance,5,1,0,0,1,3.8756,20.0
+MR00800,2004,Summer,Greece,United States,North America,Weightlifting,Individual Skill & Endurance,2,0,1,2,3,3.8756,100.0
+MR00801,2004,Summer,Greece,United States,North America,Wrestling,Combat Sports,5,3,0,0,3,3.8756,60.0
+MR00802,2004,Summer,Greece,Venezuela,South America,Swimming,Aquatics,6,0,0,1,1,14.4204,16.67
+MR00803,2008,Summer,China,Argentina,South America,Track & Field,Athletics,5,0,1,0,1,20.4999,20.0
+MR00804,2008,Summer,China,Australia,Oceania,Boxing,Combat Sports,4,0,1,0,1,8.6673,25.0
+MR00805,2008,Summer,China,Australia,Oceania,Equestrian,Individual Skill & Endurance,3,1,0,0,1,8.6673,33.33
+MR00806,2008,Summer,China,Australia,Oceania,Rhythmic Gymnastics,Gymnastics,3,1,0,1,2,8.6673,66.67
+MR00807,2008,Summer,China,Australia,Oceania,Rowing,Rowing,11,1,0,1,2,8.6673,18.18
+MR00808,2008,Summer,China,Australia,Oceania,Swimming,Aquatics,7,0,1,1,2,8.6673,28.57
+MR00809,2008,Summer,China,Australia,Oceania,Track & Field,Athletics,9,0,1,0,1,8.6673,11.11
+MR00810,2008,Summer,China,Australia,Oceania,Track Cycling,Cycling,3,0,1,0,1,8.6673,33.33
+MR00811,2008,Summer,China,Australia,Oceania,Water Polo,Aquatics,12,0,0,1,1,8.6673,8.33
+MR00812,2008,Summer,China,Australia,Oceania,Wrestling,Combat Sports,4,0,0,1,1,8.6673,25.0
+MR00813,2008,Summer,China,Austria,Europe,Artistic Gymnastics,Gymnastics,3,0,1,0,1,23.2004,33.33
+MR00814,2008,Summer,China,Azerbaijan,Europe/Asia,Race Walking,Athletics,1,1,0,0,1,10.8772,100.0
+MR00815,2008,Summer,China,Brazil,South America,Golf,Individual Skill & Endurance,2,1,0,0,1,15.4279,50.0
+MR00816,2008,Summer,China,Brazil,South America,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,15.4279,50.0
+MR00817,2008,Summer,China,Canada,North America,Basketball,Team Sports,12,0,0,1,1,6.7458,8.33
+MR00818,2008,Winter,China,Canada,North America,Cross-Country Skiing,Winter Snow Sports,4,1,0,0,1,6.7458,25.0
+MR00819,2008,Summer,China,Canada,North America,Diving,Aquatics,3,1,0,0,1,6.7458,33.33
+MR00820,2008,Summer,China,Canada,North America,Fencing,Combat Sports,5,1,1,1,3,6.7458,60.0
+MR00821,2008,Summer,China,Canada,North America,Shooting,Shooting,2,1,0,0,1,6.7458,50.0
+MR00822,2008,Winter,China,Canada,North America,Ski Jumping,Winter Snow Sports,4,0,1,0,1,6.7458,25.0
+MR00823,2008,Summer,China,Canada,North America,Swimming,Aquatics,10,1,0,0,1,6.7458,10.0
+MR00824,2008,Summer,China,Canada,North America,Track & Field,Athletics,6,1,0,0,1,6.7458,16.67
+MR00825,2008,Summer,China,Canada,North America,Track Cycling,Cycling,4,0,1,0,1,6.7458,25.0
+MR00826,2008,Summer,China,Canada,North America,Trampoline,Gymnastics,1,0,0,1,1,6.7458,100.0
+MR00827,2008,Summer,China,Canada,North America,Triathlon,Individual Skill & Endurance,2,1,0,0,1,6.7458,50.0
+MR00828,2008,Summer,China,Canada,North America,Wrestling,Combat Sports,5,1,0,0,1,6.7458,20.0
+MR00829,2008,Winter,China,China,Asia,Alpine Skiing,Winter Snow Sports,3,1,1,1,3,6.2801,100.0
+MR00830,2008,Summer,China,China,Asia,Archery,Shooting,3,0,1,1,2,6.2801,66.67
+MR00831,2008,Summer,China,China,Asia,Artistic Gymnastics,Gymnastics,8,3,5,3,11,6.2801,100.0
+MR00832,2008,Summer,China,China,Asia,Badminton,Racquet Sports,5,4,1,3,8,6.2801,100.0
+MR00833,2008,Summer,China,China,Asia,Basketball,Team Sports,22,0,2,0,2,6.2801,9.09
+MR00834,2008,Summer,China,China,Asia,Beach Volleyball,Team Sports,4,0,1,0,1,6.2801,25.0
+MR00835,2008,Winter,China,China,Asia,Biathlon,Winter Snow Sports,4,0,2,0,2,6.2801,50.0
+MR00836,2008,Summer,China,China,Asia,Boxing,Combat Sports,3,1,2,1,4,6.2801,100.0
+MR00837,2008,Summer,China,China,Asia,Canoe Slalom,Rowing,2,0,2,0,2,6.2801,100.0
+MR00838,2008,Summer,China,China,Asia,Canoe Sprint,Rowing,5,2,1,1,4,6.2801,80.0
+MR00839,2008,Winter,China,China,Asia,Cross-Country Skiing,Winter Snow Sports,8,0,1,1,2,6.2801,25.0
+MR00840,2008,Winter,China,China,Asia,Curling,Winter Ice Sports,5,1,0,0,1,6.2801,20.0
+MR00841,2008,Summer,China,China,Asia,Diving,Aquatics,5,0,3,3,6,6.2801,100.0
+MR00842,2008,Summer,China,China,Asia,Equestrian,Individual Skill & Endurance,4,1,1,1,3,6.2801,75.0
+MR00843,2008,Summer,China,China,Asia,Fencing,Combat Sports,7,2,0,2,4,6.2801,57.14
+MR00844,2008,Summer,China,China,Asia,Field Hockey,Team Sports,15,0,1,0,1,6.2801,6.67
+MR00845,2008,Winter,China,China,Asia,Freestyle Skiing,Winter Snow Sports,5,1,0,1,2,6.2801,40.0
+MR00846,2008,Summer,China,China,Asia,Judo,Combat Sports,7,0,1,2,3,6.2801,42.86
+MR00847,2008,Summer,China,China,Asia,Race Walking,Athletics,3,0,1,1,2,6.2801,66.67
+MR00848,2008,Summer,China,China,Asia,Rhythmic Gymnastics,Gymnastics,6,2,0,1,3,6.2801,50.0
+MR00849,2008,Summer,China,China,Asia,Road Cycling,Cycling,4,3,1,1,5,6.2801,100.0
+MR00850,2008,Summer,China,China,Asia,Rowing,Rowing,10,0,2,1,3,6.2801,30.0
+MR00851,2008,Summer,China,China,Asia,Sailing,Individual Skill & Endurance,5,2,1,0,3,6.2801,60.0
+MR00852,2008,Summer,China,China,Asia,Shooting,Shooting,3,1,0,1,2,6.2801,66.67
+MR00853,2008,Summer,China,China,Asia,Skateboarding,Individual Skill & Endurance,4,0,0,1,1,6.2801,25.0
+MR00854,2008,Winter,China,China,Asia,Snowboard,Winter Snow Sports,5,1,0,0,1,6.2801,20.0
+MR00855,2008,Winter,China,China,Asia,Speed Skating,Winter Ice Sports,5,0,1,0,1,6.2801,20.0
+MR00856,2008,Summer,China,China,Asia,Swimming,Aquatics,14,9,5,2,16,6.2801,100.0
+MR00857,2008,Summer,China,China,Asia,Table Tennis,Racquet Sports,4,5,3,1,9,6.2801,100.0
+MR00858,2008,Summer,China,China,Asia,Taekwondo,Combat Sports,6,1,0,0,1,6.2801,16.67
+MR00859,2008,Summer,China,China,Asia,Track & Field,Athletics,16,13,8,4,25,6.2801,100.0
+MR00860,2008,Summer,China,China,Asia,Track Cycling,Cycling,7,0,0,2,2,6.2801,28.57
+MR00861,2008,Summer,China,China,Asia,Triathlon,Individual Skill & Endurance,3,0,0,1,1,6.2801,33.33
+MR00862,2008,Summer,China,China,Asia,Volleyball,Team Sports,11,0,0,1,1,6.2801,9.09
+MR00863,2008,Summer,China,China,Asia,Wrestling,Combat Sports,6,3,1,0,4,6.2801,66.67
+MR00864,2008,Summer,China,Czech Republic,Europe,Canoe Sprint,Rowing,3,0,0,1,1,6.6509,33.33
+MR00865,2008,Summer,China,Czech Republic,Europe,Swimming,Aquatics,6,0,0,1,1,6.6509,16.67
+MR00866,2008,Summer,China,Czech Republic,Europe,Track Cycling,Cycling,2,0,0,1,1,6.6509,50.0
+MR00867,2008,Winter,China,Finland,Europe,Cross-Country Skiing,Winter Snow Sports,2,0,0,1,1,25.5384,50.0
+MR00868,2008,Summer,China,France,Europe,Judo,Combat Sports,7,0,1,1,2,29.031,28.57
+MR00869,2008,Summer,China,France,Europe,Taekwondo,Combat Sports,2,1,0,0,1,29.031,50.0
+MR00870,2008,Summer,China,Germany,Europe,Basketball,Team Sports,11,0,0,1,1,5.457,9.09
+MR00871,2008,Summer,China,Germany,Europe,Canoe Slalom,Rowing,2,0,1,0,1,5.457,50.0
+MR00872,2008,Summer,China,Germany,Europe,Football,Team Sports,17,1,0,0,1,5.457,5.88
+MR00873,2008,Summer,China,Germany,Europe,Golf,Individual Skill & Endurance,2,0,0,1,1,5.457,50.0
+MR00874,2008,Summer,China,Germany,Europe,Judo,Combat Sports,5,0,0,1,1,5.457,20.0
+MR00875,2008,Summer,China,Germany,Europe,Rowing,Rowing,7,0,0,1,1,5.457,14.29
+MR00876,2008,Winter,China,Germany,Europe,Speed Skating,Winter Ice Sports,6,0,1,1,2,5.457,33.33
+MR00877,2008,Summer,China,Germany,Europe,Swimming,Aquatics,10,1,1,1,3,5.457,30.0
+MR00878,2008,Summer,China,Germany,Europe,Weightlifting,Individual Skill & Endurance,3,1,0,0,1,5.457,33.33
+MR00879,2008,Summer,China,Great Britain,Europe,Badminton,Racquet Sports,4,0,1,0,1,8.5378,25.0
+MR00880,2008,Summer,China,Great Britain,Europe,Canoe Sprint,Rowing,4,0,1,0,1,8.5378,25.0
+MR00881,2008,Summer,China,Great Britain,Europe,Equestrian,Individual Skill & Endurance,4,0,0,1,1,8.5378,25.0
+MR00882,2008,Summer,China,Great Britain,Europe,Judo,Combat Sports,7,1,0,0,1,8.5378,14.29
+MR00883,2008,Summer,China,Great Britain,Europe,Rowing,Rowing,11,1,0,0,1,8.5378,9.09
+MR00884,2008,Summer,China,Great Britain,Europe,Sailing,Individual Skill & Endurance,4,0,1,0,1,8.5378,25.0
+MR00885,2008,Summer,China,Great Britain,Europe,Swimming,Aquatics,8,1,0,1,2,8.5378,25.0
+MR00886,2008,Summer,China,Great Britain,Europe,Tennis,Racquet Sports,2,0,1,0,1,8.5378,50.0
+MR00887,2008,Summer,China,Great Britain,Europe,Track & Field,Athletics,9,1,0,0,1,8.5378,11.11
+MR00888,2008,Summer,China,Hungary,Europe,Swimming,Aquatics,8,2,0,0,2,33.147,25.0
+MR00889,2008,Summer,China,Indonesia,Asia,Taekwondo,Combat Sports,3,0,0,1,1,10.7033,33.33
+MR00890,2008,Winter,China,Italy,Europe,Alpine Skiing,Winter Snow Sports,3,1,0,0,1,13.1435,33.33
+MR00891,2008,Summer,China,Italy,Europe,Archery,Shooting,2,1,0,0,1,13.1435,50.0
+MR00892,2008,Summer,China,Italy,Europe,Artistic Gymnastics,Gymnastics,4,1,0,0,1,13.1435,25.0
+MR00893,2008,Summer,China,Italy,Europe,Rowing,Rowing,8,0,0,1,1,13.1435,12.5
+MR00894,2008,Winter,China,Italy,Europe,Snowboard,Winter Snow Sports,4,2,0,0,2,13.1435,50.0
+MR00895,2008,Summer,China,Jamaica,North America,Road Cycling,Cycling,3,1,0,0,1,7.3771,33.33
+MR00896,2008,Winter,China,Japan,Asia,Alpine Skiing,Winter Snow Sports,3,0,1,0,1,9.5718,33.33
+MR00897,2008,Summer,China,Japan,Asia,Artistic Gymnastics,Gymnastics,4,1,0,0,1,9.5718,25.0
+MR00898,2008,Summer,China,Japan,Asia,Basketball,Team Sports,11,0,0,1,1,9.5718,9.09
+MR00899,2008,Summer,China,Japan,Asia,Boxing,Combat Sports,3,0,0,1,1,9.5718,33.33
+MR00900,2008,Summer,China,Japan,Asia,Fencing,Combat Sports,5,0,2,0,2,9.5718,40.0
+MR00901,2008,Summer,China,Japan,Asia,Judo,Combat Sports,5,1,1,1,3,9.5718,60.0
+MR00902,2008,Summer,China,Japan,Asia,Modern Pentathlon,Shooting,2,0,0,1,1,9.5718,50.0
+MR00903,2008,Summer,China,Japan,Asia,Sailing,Individual Skill & Endurance,3,0,1,0,1,9.5718,33.33
+MR00904,2008,Summer,China,Japan,Asia,Skateboarding,Individual Skill & Endurance,3,0,1,0,1,9.5718,33.33
+MR00905,2008,Winter,China,Japan,Asia,Speed Skating,Winter Ice Sports,5,0,1,0,1,9.5718,20.0
+MR00906,2008,Summer,China,Japan,Asia,Swimming,Aquatics,7,3,2,2,7,9.5718,100.0
+MR00907,2008,Summer,China,Japan,Asia,Taekwondo,Combat Sports,3,0,1,1,2,9.5718,66.67
+MR00908,2008,Summer,China,Japan,Asia,Track & Field,Athletics,12,2,1,1,4,9.5718,33.33
+MR00909,2008,Summer,China,Japan,Asia,Weightlifting,Individual Skill & Endurance,2,0,0,1,1,9.5718,50.0
+MR00910,2008,Summer,China,Kazakhstan,Europe/Asia,Artistic Gymnastics,Gymnastics,2,0,0,1,1,3.555,50.0
+MR00911,2008,Summer,China,Kazakhstan,Europe/Asia,Canoe Sprint,Rowing,3,0,0,1,1,3.555,33.33
+MR00912,2008,Summer,China,Kazakhstan,Europe/Asia,Rowing,Rowing,7,1,0,0,1,3.555,14.29
+MR00913,2008,Summer,China,Kenya,Africa,Track & Field,Athletics,7,0,1,0,1,8.7358,14.29
+MR00914,2008,Winter,China,Netherlands,Europe,Alpine Skiing,Winter Snow Sports,2,0,0,1,1,12.2809,50.0
+MR00915,2008,Summer,China,Netherlands,Europe,Rowing,Rowing,7,1,0,0,1,12.2809,14.29
+MR00916,2008,Summer,China,Netherlands,Europe,Shooting,Shooting,2,0,1,0,1,12.2809,50.0
+MR00917,2008,Summer,China,Netherlands,Europe,Swimming,Aquatics,9,0,0,1,1,12.2809,11.11
+MR00918,2008,Summer,China,New Zealand,Oceania,Rhythmic Gymnastics,Gymnastics,3,1,0,0,1,28.4238,33.33
+MR00919,2008,Summer,China,North Korea,Asia,Boxing,Combat Sports,2,1,0,0,1,6.436,50.0
+MR00920,2008,Summer,China,North Korea,Asia,Track & Field,Athletics,4,1,0,0,1,6.436,25.0
+MR00921,2008,Summer,China,Norway,Europe,Canoe Sprint,Rowing,4,1,0,0,1,14.1728,25.0
+MR00922,2008,Winter,China,Norway,Europe,Curling,Winter Ice Sports,5,0,1,0,1,14.1728,20.0
+MR00923,2008,Winter,China,Norway,Europe,Freestyle Skiing,Winter Snow Sports,4,0,0,1,1,14.1728,25.0
+MR00924,2008,Summer,China,Norway,Europe,Golf,Individual Skill & Endurance,2,1,0,0,1,14.1728,50.0
+MR00925,2008,Summer,China,Poland,Europe,Water Polo,Aquatics,12,0,0,1,1,18.9948,8.33
+MR00926,2008,Summer,China,Russia,Europe/Asia,Archery,Shooting,3,0,1,0,1,9.6174,33.33
+MR00927,2008,Summer,China,Russia,Europe/Asia,Artistic Gymnastics,Gymnastics,6,1,1,0,2,9.6174,33.33
+MR00928,2008,Summer,China,Russia,Europe/Asia,Artistic Swimming,Aquatics,7,1,0,0,1,9.6174,14.29
+MR00929,2008,Summer,China,Russia,Europe/Asia,Canoe Sprint,Rowing,5,1,0,0,1,9.6174,20.0
+MR00930,2008,Winter,China,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,4,0,3,0,3,9.6174,75.0
+MR00931,2008,Winter,China,Russia,Europe/Asia,Freestyle Skiing,Winter Snow Sports,3,0,1,0,1,9.6174,33.33
+MR00932,2008,Summer,China,Russia,Europe/Asia,Judo,Combat Sports,7,0,1,1,2,9.6174,28.57
+MR00933,2008,Summer,China,Russia,Europe/Asia,Shooting,Shooting,3,1,0,0,1,9.6174,33.33
+MR00934,2008,Summer,China,Russia,Europe/Asia,Track & Field,Athletics,7,1,1,1,3,9.6174,42.86
+MR00935,2008,Summer,China,Russia,Europe/Asia,Weightlifting,Individual Skill & Endurance,3,0,2,0,2,9.6174,66.67
+MR00936,2008,Summer,China,Serbia,Europe,Track Cycling,Cycling,3,1,0,0,1,10.2135,33.33
+MR00937,2008,Summer,China,South Korea,Asia,Basketball,Team Sports,11,1,0,0,1,11.0049,9.09
+MR00938,2008,Winter,China,South Korea,Asia,Figure Skating,Winter Ice Sports,3,1,0,0,1,11.0049,33.33
+MR00939,2008,Summer,China,South Korea,Asia,Rowing,Rowing,11,0,1,0,1,11.0049,9.09
+MR00940,2008,Winter,China,South Korea,Asia,Ski Jumping,Winter Snow Sports,4,0,0,1,1,11.0049,25.0
+MR00941,2008,Summer,China,South Korea,Asia,Track & Field,Athletics,9,1,0,0,1,11.0049,11.11
+MR00942,2008,Summer,China,South Korea,Asia,Track Cycling,Cycling,4,1,0,0,1,11.0049,25.0
+MR00943,2008,Summer,China,Spain,Europe,Diving,Aquatics,2,1,0,0,1,6.3845,50.0
+MR00944,2008,Summer,China,Spain,Europe,Fencing,Combat Sports,3,0,0,1,1,6.3845,33.33
+MR00945,2008,Winter,China,Spain,Europe,Speed Skating,Winter Ice Sports,5,0,1,0,1,6.3845,20.0
+MR00946,2008,Summer,China,Spain,Europe,Track & Field,Athletics,7,0,0,1,1,6.3845,14.29
+MR00947,2008,Summer,China,Spain,Europe,Wrestling,Combat Sports,4,1,0,0,1,6.3845,25.0
+MR00948,2008,Winter,China,Sweden,Europe,Freestyle Skiing,Winter Snow Sports,2,1,0,0,1,8.6094,50.0
+MR00949,2008,Summer,China,Sweden,Europe,Shooting,Shooting,2,1,0,0,1,8.6094,50.0
+MR00950,2008,Summer,China,Thailand,Asia,Swimming,Aquatics,6,1,0,0,1,11.8839,16.67
+MR00951,2008,Summer,China,Turkey,Europe/Asia,Judo,Combat Sports,3,0,1,0,1,5.21,33.33
+MR00952,2008,Summer,China,Turkey,Europe/Asia,Rowing,Rowing,6,0,0,1,1,5.21,16.67
+MR00953,2008,Summer,China,Turkey,Europe/Asia,Shooting,Shooting,2,0,1,0,1,5.21,50.0
+MR00954,2008,Summer,China,Uganda,Africa,Swimming,Aquatics,5,0,1,0,1,3.7885,20.0
+MR00955,2008,Summer,China,Ukraine,Europe,Artistic Gymnastics,Gymnastics,4,1,0,0,1,3.1717,25.0
+MR00956,2008,Summer,China,Ukraine,Europe,BMX,Cycling,1,1,0,0,1,3.1717,100.0
+MR00957,2008,Summer,China,Ukraine,Europe,Canoe Sprint,Rowing,2,1,0,0,1,3.1717,50.0
+MR00958,2008,Summer,China,Ukraine,Europe,Modern Pentathlon,Shooting,2,0,1,0,1,3.1717,50.0
+MR00959,2008,Summer,China,Ukraine,Europe,Sailing,Individual Skill & Endurance,3,1,0,0,1,3.1717,33.33
+MR00960,2008,Summer,China,Ukraine,Europe,Track & Field,Athletics,6,0,0,1,1,3.1717,16.67
+MR00961,2008,Winter,China,United States,North America,Alpine Skiing,Winter Snow Sports,5,0,1,0,1,6.0178,20.0
+MR00962,2008,Summer,China,United States,North America,Artistic Gymnastics,Gymnastics,5,0,1,1,2,6.0178,40.0
+MR00963,2008,Summer,China,United States,North America,Basketball,Team Sports,22,0,2,0,2,6.0178,9.09
+MR00964,2008,Summer,China,United States,North America,Boxing,Combat Sports,4,2,0,0,2,6.0178,50.0
+MR00965,2008,Summer,China,United States,North America,Diving,Aquatics,4,1,0,0,1,6.0178,25.0
+MR00966,2008,Summer,China,United States,North America,Equestrian,Individual Skill & Endurance,3,0,1,0,1,6.0178,33.33
+MR00967,2008,Summer,China,United States,North America,Football,Team Sports,17,0,0,1,1,6.0178,5.88
+MR00968,2008,Winter,China,United States,North America,Freestyle Skiing,Winter Snow Sports,4,1,0,0,1,6.0178,25.0
+MR00969,2008,Summer,China,United States,North America,Modern Pentathlon,Shooting,3,1,0,0,1,6.0178,33.33
+MR00970,2008,Summer,China,United States,North America,Race Walking,Athletics,3,1,0,0,1,6.0178,33.33
+MR00971,2008,Summer,China,United States,North America,Rhythmic Gymnastics,Gymnastics,4,1,0,0,1,6.0178,25.0
+MR00972,2008,Summer,China,United States,North America,Rugby Sevens,Team Sports,11,0,0,1,1,6.0178,9.09
+MR00973,2008,Summer,China,United States,North America,Shooting,Shooting,4,1,1,1,3,6.0178,75.0
+MR00974,2008,Summer,China,United States,North America,Skateboarding,Individual Skill & Endurance,3,0,1,0,1,6.0178,33.33
+MR00975,2008,Winter,China,United States,North America,Snowboard,Winter Snow Sports,4,0,0,1,1,6.0178,25.0
+MR00976,2008,Summer,China,United States,North America,Swimming,Aquatics,13,6,3,1,10,6.0178,76.92
+MR00977,2008,Summer,China,United States,North America,Table Tennis,Racquet Sports,6,0,0,1,1,6.0178,16.67
+MR00978,2008,Summer,China,United States,North America,Track & Field,Athletics,9,3,3,2,8,6.0178,88.89
+MR00979,2008,Summer,China,United States,North America,Volleyball,Team Sports,11,0,1,0,1,6.0178,9.09
+MR00980,2008,Summer,China,United States,North America,Weightlifting,Individual Skill & Endurance,3,3,1,0,4,6.0178,100.0
+MR00981,2008,Summer,China,United States,North America,Wrestling,Combat Sports,8,2,2,2,6,6.0178,75.0
+MR00982,2008,Summer,China,Uzbekistan,Asia,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,8.7918,50.0
+MR00983,2008,Summer,China,Venezuela,South America,Track & Field,Athletics,4,1,0,0,1,12.2887,25.0
+MR00984,2012,Summer,Great Britain,Argentina,South America,BMX,Cycling,1,1,0,0,1,31.0551,100.0
+MR00985,2012,Summer,Great Britain,Australia,Oceania,Canoe Sprint,Rowing,4,0,0,1,1,10.9554,25.0
+MR00986,2012,Summer,Great Britain,Australia,Oceania,Fencing,Combat Sports,6,0,2,0,2,10.9554,33.33
+MR00987,2012,Summer,Great Britain,Australia,Oceania,Shooting,Shooting,2,0,0,2,2,10.9554,100.0
+MR00988,2012,Summer,Great Britain,Australia,Oceania,Skateboarding,Individual Skill & Endurance,2,0,1,0,1,10.9554,50.0
+MR00989,2012,Summer,Great Britain,Australia,Oceania,Swimming,Aquatics,8,0,1,0,1,10.9554,12.5
+MR00990,2012,Summer,Great Britain,Australia,Oceania,Track & Field,Athletics,11,1,1,0,2,10.9554,18.18
+MR00991,2012,Summer,Great Britain,Australia,Oceania,Wrestling,Combat Sports,3,1,0,0,1,10.9554,33.33
+MR00992,2012,Summer,Great Britain,Austria,Europe,Artistic Swimming,Aquatics,8,0,0,1,1,21.3575,12.5
+MR00993,2012,Winter,Great Britain,Belgium,Europe,Alpine Skiing,Winter Snow Sports,3,0,1,0,1,4.6713,33.33
+MR00994,2012,Summer,Great Britain,Belgium,Europe,BMX,Cycling,2,0,0,1,1,4.6713,50.0
+MR00995,2012,Summer,Great Britain,Belgium,Europe,Tennis,Racquet Sports,2,0,0,1,1,4.6713,50.0
+MR00996,2012,Summer,Great Britain,Belgium,Europe,Wrestling,Combat Sports,2,1,0,0,1,4.6713,50.0
+MR00997,2012,Summer,Great Britain,Brazil,South America,Football,Team Sports,18,1,0,0,1,31.7716,5.56
+MR00998,2012,Summer,Great Britain,Canada,North America,Boxing,Combat Sports,2,0,0,1,1,10.8499,50.0
+MR00999,2012,Winter,Great Britain,Canada,North America,Cross-Country Skiing,Winter Snow Sports,3,1,1,1,3,10.8499,100.0
+MR01000,2012,Winter,Great Britain,Canada,North America,Figure Skating,Winter Ice Sports,3,0,1,0,1,10.8499,33.33
+MR01001,2012,Winter,Great Britain,Canada,North America,Freestyle Skiing,Winter Snow Sports,3,0,1,0,1,10.8499,33.33
+MR01002,2012,Summer,Great Britain,Canada,North America,Track & Field,Athletics,8,2,0,0,2,10.8499,25.0
+MR01003,2012,Summer,Great Britain,China,Asia,Archery,Shooting,2,1,0,0,1,8.3595,50.0
+MR01004,2012,Summer,Great Britain,China,Asia,Artistic Gymnastics,Gymnastics,5,6,1,2,9,8.3595,100.0
+MR01005,2012,Summer,Great Britain,China,Asia,Badminton,Racquet Sports,5,2,1,0,3,8.3595,60.0
+MR01006,2012,Summer,Great Britain,China,Asia,Boxing,Combat Sports,5,1,0,0,1,8.3595,20.0
+MR01007,2012,Summer,Great Britain,China,Asia,Canoe Slalom,Rowing,3,1,0,0,1,8.3595,33.33
+MR01008,2012,Summer,Great Britain,China,Asia,Canoe Sprint,Rowing,5,2,1,1,4,8.3595,80.0
+MR01009,2012,Summer,Great Britain,China,Asia,Diving,Aquatics,3,0,2,2,4,8.3595,100.0
+MR01010,2012,Summer,Great Britain,China,Asia,Field Hockey,Team Sports,30,1,0,1,2,8.3595,6.67
+MR01011,2012,Winter,Great Britain,China,Asia,Figure Skating,Winter Ice Sports,4,1,2,0,3,8.3595,75.0
+MR01012,2012,Winter,Great Britain,China,Asia,Freestyle Skiing,Winter Snow Sports,6,0,0,1,1,8.3595,16.67
+MR01013,2012,Summer,Great Britain,China,Asia,Judo,Combat Sports,7,0,0,1,1,8.3595,14.29
+MR01014,2012,Summer,Great Britain,China,Asia,Skateboarding,Individual Skill & Endurance,3,1,0,0,1,8.3595,33.33
+MR01015,2012,Summer,Great Britain,China,Asia,Swimming,Aquatics,14,7,2,0,9,8.3595,64.29
+MR01016,2012,Summer,Great Britain,China,Asia,Table Tennis,Racquet Sports,4,1,4,3,8,8.3595,100.0
+MR01017,2012,Summer,Great Britain,China,Asia,Track & Field,Athletics,11,5,4,1,10,8.3595,90.91
+MR01018,2012,Summer,Great Britain,China,Asia,Track Cycling,Cycling,4,0,0,1,1,8.3595,25.0
+MR01019,2012,Summer,Great Britain,China,Asia,Volleyball,Team Sports,22,0,2,0,2,8.3595,9.09
+MR01020,2012,Summer,Great Britain,China,Asia,Wrestling,Combat Sports,6,1,0,0,1,8.3595,16.67
+MR01021,2012,Summer,Great Britain,Colombia,South America,Wrestling,Combat Sports,3,0,1,0,1,17.833,33.33
+MR01022,2012,Summer,Great Britain,Croatia,Europe,Swimming,Aquatics,7,1,0,0,1,17.4466,14.29
+MR01023,2012,Summer,Great Britain,Cuba,North America,Archery,Shooting,1,1,0,0,1,4.4175,100.0
+MR01024,2012,Summer,Great Britain,Cuba,North America,Boxing,Combat Sports,3,0,0,1,1,4.4175,33.33
+MR01025,2012,Summer,Great Britain,Cuba,North America,Judo,Combat Sports,4,1,0,0,1,4.4175,25.0
+MR01026,2012,Summer,Great Britain,Cuba,North America,Marathon,Athletics,2,1,1,0,2,4.4175,100.0
+MR01027,2012,Summer,Great Britain,Czech Republic,Europe,Track & Field,Athletics,5,0,0,1,1,17.4727,20.0
+MR01028,2012,Summer,Great Britain,Denmark,Europe,Track & Field,Athletics,5,0,1,0,1,14.3554,20.0
+MR01029,2012,Summer,Great Britain,Egypt,Africa,Triathlon,Individual Skill & Endurance,2,0,0,1,1,9.6713,50.0
+MR01030,2012,Summer,Great Britain,Ethiopia,Africa,Badminton,Racquet Sports,3,1,0,0,1,5.3823,33.33
+MR01031,2012,Winter,Great Britain,France,Europe,Alpine Skiing,Winter Snow Sports,3,0,0,1,1,4.1874,33.33
+MR01032,2012,Summer,Great Britain,France,Europe,Artistic Gymnastics,Gymnastics,5,0,0,2,2,4.1874,40.0
+MR01033,2012,Summer,Great Britain,France,Europe,Diving,Aquatics,3,0,0,1,1,4.1874,33.33
+MR01034,2012,Summer,Great Britain,France,Europe,Fencing,Combat Sports,5,1,0,0,1,4.1874,20.0
+MR01035,2012,Summer,Great Britain,France,Europe,Judo,Combat Sports,7,1,0,0,1,4.1874,14.29
+MR01036,2012,Summer,Great Britain,France,Europe,Shooting,Shooting,3,0,1,0,1,4.1874,33.33
+MR01037,2012,Winter,Great Britain,France,Europe,Speed Skating,Winter Ice Sports,5,0,1,0,1,4.1874,20.0
+MR01038,2012,Summer,Great Britain,France,Europe,Tennis,Racquet Sports,2,1,0,0,1,4.1874,50.0
+MR01039,2012,Summer,Great Britain,France,Europe,Track Cycling,Cycling,5,0,1,1,2,4.1874,40.0
+MR01040,2012,Summer,Great Britain,France,Europe,Trampoline,Gymnastics,2,1,0,0,1,4.1874,50.0
+MR01041,2012,Summer,Great Britain,France,Europe,Wrestling,Combat Sports,6,0,0,1,1,4.1874,16.67
+MR01042,2012,Summer,Great Britain,Georgia,Europe/Asia,Swimming,Aquatics,6,1,0,0,1,3.8462,16.67
+MR01043,2012,Summer,Great Britain,Germany,Europe,Canoe Sprint,Rowing,5,0,1,0,1,9.2488,20.0
+MR01044,2012,Winter,Great Britain,Germany,Europe,Cross-Country Skiing,Winter Snow Sports,5,0,1,1,2,9.2488,40.0
+MR01045,2012,Summer,Great Britain,Germany,Europe,Diving,Aquatics,4,0,1,0,1,9.2488,25.0
+MR01046,2012,Summer,Great Britain,Germany,Europe,Equestrian,Individual Skill & Endurance,4,1,1,0,2,9.2488,50.0
+MR01047,2012,Summer,Great Britain,Germany,Europe,Judo,Combat Sports,6,0,1,0,1,9.2488,16.67
+MR01048,2012,Summer,Great Britain,Germany,Europe,Rowing,Rowing,8,1,0,0,1,9.2488,12.5
+MR01049,2012,Summer,Great Britain,Germany,Europe,Shooting,Shooting,2,0,1,0,1,9.2488,50.0
+MR01050,2012,Summer,Great Britain,Germany,Europe,Swimming,Aquatics,10,0,0,1,1,9.2488,10.0
+MR01051,2012,Summer,Great Britain,Germany,Europe,Track & Field,Athletics,10,0,1,0,1,9.2488,10.0
+MR01052,2012,Summer,Great Britain,Germany,Europe,Water Polo,Aquatics,26,0,1,1,2,9.2488,7.69
+MR01053,2012,Summer,Great Britain,Germany,Europe,Weightlifting,Individual Skill & Endurance,2,2,0,0,2,9.2488,100.0
+MR01054,2012,Summer,Great Britain,Great Britain,Europe,BMX,Cycling,3,1,0,1,2,7.5775,66.67
+MR01055,2012,Summer,Great Britain,Great Britain,Europe,Boxing,Combat Sports,3,1,0,0,1,7.5775,33.33
+MR01056,2012,Summer,Great Britain,Great Britain,Europe,Diving,Aquatics,4,1,1,0,2,7.5775,50.0
+MR01057,2012,Summer,Great Britain,Great Britain,Europe,Fencing,Combat Sports,3,1,1,0,2,7.5775,66.67
+MR01058,2012,Winter,Great Britain,Great Britain,Europe,Figure Skating,Winter Ice Sports,3,0,1,0,1,7.5775,33.33
+MR01059,2012,Summer,Great Britain,Great Britain,Europe,Judo,Combat Sports,5,1,0,1,2,7.5775,40.0
+MR01060,2012,Summer,Great Britain,Great Britain,Europe,Modern Pentathlon,Shooting,2,0,0,1,1,7.5775,50.0
+MR01061,2012,Summer,Great Britain,Great Britain,Europe,Rowing,Rowing,10,2,0,0,2,7.5775,20.0
+MR01062,2012,Summer,Great Britain,Great Britain,Europe,Rugby Sevens,Team Sports,11,0,1,0,1,7.5775,9.09
+MR01063,2012,Summer,Great Britain,Great Britain,Europe,Sailing,Individual Skill & Endurance,2,6,1,2,9,7.5775,100.0
+MR01064,2012,Summer,Great Britain,Great Britain,Europe,Shooting,Shooting,3,0,1,0,1,7.5775,33.33
+MR01065,2012,Winter,Great Britain,Great Britain,Europe,Speed Skating,Winter Ice Sports,4,0,1,0,1,7.5775,25.0
+MR01066,2012,Summer,Great Britain,Great Britain,Europe,Swimming,Aquatics,8,1,2,2,5,7.5775,62.5
+MR01067,2012,Summer,Great Britain,Great Britain,Europe,Table Tennis,Racquet Sports,4,1,0,0,1,7.5775,25.0
+MR01068,2012,Summer,Great Britain,Great Britain,Europe,Track & Field,Athletics,6,0,1,1,2,7.5775,33.33
+MR01069,2012,Summer,Great Britain,Great Britain,Europe,Track Cycling,Cycling,5,0,0,2,2,7.5775,40.0
+MR01070,2012,Summer,Great Britain,Great Britain,Europe,Triathlon,Individual Skill & Endurance,4,2,0,0,2,7.5775,50.0
+MR01071,2012,Summer,Great Britain,Great Britain,Europe,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,7.5775,50.0
+MR01072,2012,Summer,Great Britain,Great Britain,Europe,Wrestling,Combat Sports,4,1,0,0,1,7.5775,25.0
+MR01073,2012,Summer,Great Britain,Greece,Europe,Artistic Gymnastics,Gymnastics,2,0,0,1,1,19.3604,50.0
+MR01074,2012,Summer,Great Britain,Hungary,Europe,Canoe Sprint,Rowing,3,0,1,0,1,6.9484,33.33
+MR01075,2012,Summer,Great Britain,Hungary,Europe,Shooting,Shooting,1,0,0,1,1,6.9484,100.0
+MR01076,2012,Summer,Great Britain,Hungary,Europe,Swimming,Aquatics,8,0,0,1,1,6.9484,12.5
+MR01077,2012,Summer,Great Britain,India,Asia,Artistic Gymnastics,Gymnastics,3,0,0,1,1,20.7062,33.33
+MR01078,2012,Summer,Great Britain,Indonesia,Asia,Swimming,Aquatics,5,0,1,0,1,6.3357,20.0
+MR01079,2012,Summer,Great Britain,Iran,Asia,Race Walking,Athletics,1,0,0,1,1,11.5387,100.0
+MR01080,2012,Summer,Great Britain,Iran,Asia,Weightlifting,Individual Skill & Endurance,2,1,0,1,2,11.5387,100.0
+MR01081,2012,Summer,Great Britain,Italy,Europe,Artistic Gymnastics,Gymnastics,4,1,0,0,1,7.2048,25.0
+MR01082,2012,Summer,Great Britain,Italy,Europe,Boxing,Combat Sports,3,0,1,0,1,7.2048,33.33
+MR01083,2012,Summer,Great Britain,Italy,Europe,Fencing,Combat Sports,3,0,1,0,1,7.2048,33.33
+MR01084,2012,Winter,Great Britain,Italy,Europe,Freestyle Skiing,Winter Snow Sports,2,1,0,0,1,7.2048,50.0
+MR01085,2012,Summer,Great Britain,Italy,Europe,Rhythmic Gymnastics,Gymnastics,2,0,1,0,1,7.2048,50.0
+MR01086,2012,Summer,Great Britain,Italy,Europe,Sailing,Individual Skill & Endurance,4,0,1,0,1,7.2048,25.0
+MR01087,2012,Summer,Great Britain,Italy,Europe,Swimming,Aquatics,6,1,1,0,2,7.2048,33.33
+MR01088,2012,Summer,Great Britain,Italy,Europe,Table Tennis,Racquet Sports,4,1,0,0,1,7.2048,25.0
+MR01089,2012,Summer,Great Britain,Jamaica,North America,Table Tennis,Racquet Sports,3,0,0,1,1,2.9117,33.33
+MR01090,2012,Summer,Great Britain,Jamaica,North America,Track & Field,Athletics,6,0,1,0,1,2.9117,16.67
+MR01091,2012,Summer,Great Britain,Jamaica,North America,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,2.9117,50.0
+MR01092,2012,Summer,Great Britain,Japan,Asia,Badminton,Racquet Sports,4,1,0,0,1,14.2961,25.0
+MR01093,2012,Summer,Great Britain,Japan,Asia,Equestrian,Individual Skill & Endurance,5,0,1,1,2,14.2961,40.0
+MR01094,2012,Summer,Great Britain,Japan,Asia,Fencing,Combat Sports,4,1,0,0,1,14.2961,25.0
+MR01095,2012,Summer,Great Britain,Japan,Asia,Judo,Combat Sports,6,1,1,1,3,14.2961,50.0
+MR01096,2012,Winter,Great Britain,Japan,Asia,Speed Skating,Winter Ice Sports,3,0,0,2,2,14.2961,66.67
+MR01097,2012,Summer,Great Britain,Japan,Asia,Swimming,Aquatics,13,3,2,0,5,14.2961,38.46
+MR01098,2012,Summer,Great Britain,Japan,Asia,Taekwondo,Combat Sports,4,0,1,0,1,14.2961,25.0
+MR01099,2012,Summer,Great Britain,Japan,Asia,Track & Field,Athletics,7,1,1,1,3,14.2961,42.86
+MR01100,2012,Summer,Great Britain,Japan,Asia,Trampoline,Gymnastics,2,0,1,0,1,14.2961,50.0
+MR01101,2012,Summer,Great Britain,Japan,Asia,Wrestling,Combat Sports,4,1,1,1,3,14.2961,75.0
+MR01102,2012,Summer,Great Britain,Kazakhstan,Europe/Asia,Canoe Sprint,Rowing,2,1,0,0,1,8.7452,50.0
+MR01103,2012,Summer,Great Britain,Kazakhstan,Europe/Asia,Wrestling,Combat Sports,3,0,1,0,1,8.7452,33.33
+MR01104,2012,Summer,Great Britain,Mexico,North America,Boxing,Combat Sports,2,0,0,1,1,35.6821,50.0
+MR01105,2012,Summer,Great Britain,Mongolia,Asia,Swimming,Aquatics,6,0,0,1,1,9.632,16.67
+MR01106,2012,Summer,Great Britain,Netherlands,Europe,Rhythmic Gymnastics,Gymnastics,4,1,0,0,1,14.3141,25.0
+MR01107,2012,Summer,Great Britain,Netherlands,Europe,Rowing,Rowing,6,0,0,1,1,14.3141,16.67
+MR01108,2012,Summer,Great Britain,Netherlands,Europe,Triathlon,Individual Skill & Endurance,3,1,0,0,1,14.3141,33.33
+MR01109,2012,Summer,Great Britain,New Zealand,Oceania,Fencing,Combat Sports,4,1,0,0,1,16.4301,25.0
+MR01110,2012,Summer,Great Britain,New Zealand,Oceania,Swimming,Aquatics,8,0,2,0,2,16.4301,25.0
+MR01111,2012,Summer,Great Britain,Norway,Europe,Artistic Gymnastics,Gymnastics,3,0,1,0,1,9.3234,33.33
+MR01112,2012,Winter,Great Britain,Norway,Europe,Snowboard,Winter Snow Sports,3,1,0,0,1,9.3234,33.33
+MR01113,2012,Summer,Great Britain,Norway,Europe,Weightlifting,Individual Skill & Endurance,1,0,1,0,1,9.3234,100.0
+MR01114,2012,Summer,Great Britain,Norway,Europe,Wrestling,Combat Sports,3,1,0,0,1,9.3234,33.33
+MR01115,2012,Winter,Great Britain,Poland,Europe,Biathlon,Winter Snow Sports,3,1,0,0,1,15.1534,33.33
+MR01116,2012,Summer,Great Britain,Poland,Europe,Golf,Individual Skill & Endurance,2,0,0,1,1,15.1534,50.0
+MR01117,2012,Summer,Great Britain,Romania,Europe,Boxing,Combat Sports,2,1,0,0,1,10.1695,50.0
+MR01118,2012,Summer,Great Britain,Romania,Europe,Sailing,Individual Skill & Endurance,2,0,0,1,1,10.1695,50.0
+MR01119,2012,Summer,Great Britain,Russia,Europe/Asia,Archery,Shooting,2,2,0,0,2,9.8142,100.0
+MR01120,2012,Summer,Great Britain,Russia,Europe/Asia,BMX,Cycling,2,0,1,0,1,9.8142,50.0
+MR01121,2012,Summer,Great Britain,Russia,Europe/Asia,Boxing,Combat Sports,4,1,1,0,2,9.8142,50.0
+MR01122,2012,Summer,Great Britain,Russia,Europe/Asia,Equestrian,Individual Skill & Endurance,3,0,1,0,1,9.8142,33.33
+MR01123,2012,Winter,Great Britain,Russia,Europe/Asia,Ice Hockey,Winter Ice Sports,19,1,0,0,1,9.8142,5.26
+MR01124,2012,Summer,Great Britain,Russia,Europe/Asia,Rhythmic Gymnastics,Gymnastics,4,1,0,0,1,9.8142,25.0
+MR01125,2012,Summer,Great Britain,Russia,Europe/Asia,Rowing,Rowing,12,0,0,1,1,9.8142,8.33
+MR01126,2012,Winter,Great Britain,Russia,Europe/Asia,Ski Jumping,Winter Snow Sports,2,1,0,0,1,9.8142,50.0
+MR01127,2012,Summer,Great Britain,Russia,Europe/Asia,Swimming,Aquatics,11,0,1,0,1,9.8142,9.09
+MR01128,2012,Summer,Great Britain,Russia,Europe/Asia,Track & Field,Athletics,8,1,0,0,1,9.8142,12.5
+MR01129,2012,Summer,Great Britain,Russia,Europe/Asia,Volleyball,Team Sports,11,1,0,0,1,9.8142,9.09
+MR01130,2012,Summer,Great Britain,Serbia,Europe,Track & Field,Athletics,5,1,0,0,1,17.363,20.0
+MR01131,2012,Winter,Great Britain,Slovakia,Europe,Biathlon,Winter Snow Sports,4,1,0,0,1,1.4797,25.0
+MR01132,2012,Summer,Great Britain,Slovakia,Europe,Canoe Slalom,Rowing,2,0,0,1,1,1.4797,50.0
+MR01133,2012,Winter,Great Britain,Slovakia,Europe,Cross-Country Skiing,Winter Snow Sports,3,0,1,0,1,1.4797,33.33
+MR01134,2012,Summer,Great Britain,South Korea,Asia,Archery,Shooting,2,0,1,1,2,5.414,100.0
+MR01135,2012,Summer,Great Britain,South Korea,Asia,Badminton,Racquet Sports,2,1,0,1,2,5.414,100.0
+MR01136,2012,Winter,Great Britain,South Korea,Asia,Biathlon,Winter Snow Sports,6,0,0,1,1,5.414,16.67
+MR01137,2012,Summer,Great Britain,South Korea,Asia,Canoe Sprint,Rowing,4,1,0,0,1,5.414,25.0
+MR01138,2012,Winter,Great Britain,South Korea,Asia,Cross-Country Skiing,Winter Snow Sports,3,0,0,1,1,5.414,33.33
+MR01139,2012,Winter,Great Britain,South Korea,Asia,Curling,Winter Ice Sports,5,1,0,0,1,5.414,20.0
+MR01140,2012,Summer,Great Britain,South Korea,Asia,Equestrian,Individual Skill & Endurance,4,2,0,0,2,5.414,50.0
+MR01141,2012,Summer,Great Britain,South Korea,Asia,Judo,Combat Sports,7,0,1,0,1,5.414,14.29
+MR01142,2012,Summer,Great Britain,South Korea,Asia,Rhythmic Gymnastics,Gymnastics,4,0,1,0,1,5.414,25.0
+MR01143,2012,Summer,Great Britain,South Korea,Asia,Rowing,Rowing,8,0,0,1,1,5.414,12.5
+MR01144,2012,Winter,Great Britain,South Korea,Asia,Speed Skating,Winter Ice Sports,3,0,0,1,1,5.414,33.33
+MR01145,2012,Summer,Great Britain,South Korea,Asia,Swimming,Aquatics,9,0,1,1,2,5.414,22.22
+MR01146,2012,Summer,Great Britain,South Korea,Asia,Track & Field,Athletics,8,1,1,0,2,5.414,25.0
+MR01147,2012,Summer,Great Britain,South Korea,Asia,Track Cycling,Cycling,3,0,1,0,1,5.414,33.33
+MR01148,2012,Summer,Great Britain,South Korea,Asia,Water Polo,Aquatics,13,0,1,0,1,5.414,7.69
+MR01149,2012,Summer,Great Britain,Spain,Europe,Basketball,Team Sports,11,0,0,1,1,17.648,9.09
+MR01150,2012,Summer,Great Britain,Spain,Europe,Canoe Sprint,Rowing,5,1,0,0,1,17.648,20.0
+MR01151,2012,Summer,Great Britain,Spain,Europe,Judo,Combat Sports,4,0,1,0,1,17.648,25.0
+MR01152,2012,Summer,Great Britain,Sweden,Europe,BMX,Cycling,1,1,0,0,1,8.3778,100.0
+MR01153,2012,Winter,Great Britain,Sweden,Europe,Cross-Country Skiing,Winter Snow Sports,4,0,1,0,1,8.3778,25.0
+MR01154,2012,Summer,Great Britain,Sweden,Europe,Track Cycling,Cycling,3,0,1,0,1,8.3778,33.33
+MR01155,2012,Summer,Great Britain,Switzerland,Europe,Artistic Gymnastics,Gymnastics,2,0,1,0,1,7.9504,50.0
+MR01156,2012,Winter,Great Britain,Switzerland,Europe,Cross-Country Skiing,Winter Snow Sports,3,0,1,0,1,7.9504,33.33
+MR01157,2012,Summer,Great Britain,Switzerland,Europe,Rhythmic Gymnastics,Gymnastics,2,1,0,0,1,7.9504,50.0
+MR01158,2012,Summer,Great Britain,Thailand,Asia,Sailing,Individual Skill & Endurance,2,1,0,0,1,9.6592,50.0
+MR01159,2012,Winter,Great Britain,Ukraine,Europe,Speed Skating,Winter Ice Sports,4,0,0,1,1,12.2896,25.0
+MR01160,2012,Summer,Great Britain,Ukraine,Europe,Weightlifting,Individual Skill & Endurance,1,0,1,0,1,12.2896,100.0
+MR01161,2012,Winter,Great Britain,United States,North America,Alpine Skiing,Winter Snow Sports,4,0,0,1,1,3.872,25.0
+MR01162,2012,Summer,Great Britain,United States,North America,Artistic Gymnastics,Gymnastics,8,1,2,0,3,3.872,37.5
+MR01163,2012,Summer,Great Britain,United States,North America,Basketball,Team Sports,22,1,0,1,2,3.872,9.09
+MR01164,2012,Winter,Great Britain,United States,North America,Biathlon,Winter Snow Sports,7,0,1,1,2,3.872,28.57
+MR01165,2012,Summer,Great Britain,United States,North America,Boxing,Combat Sports,5,1,0,0,1,3.872,20.0
+MR01166,2012,Summer,Great Britain,United States,North America,Canoe Sprint,Rowing,5,3,1,0,4,3.872,80.0
+MR01167,2012,Summer,Great Britain,United States,North America,Equestrian,Individual Skill & Endurance,5,0,0,1,1,3.872,20.0
+MR01168,2012,Summer,Great Britain,United States,North America,Football,Team Sports,35,1,1,0,2,3.872,5.71
+MR01169,2012,Summer,Great Britain,United States,North America,Golf,Individual Skill & Endurance,4,1,1,0,2,3.872,50.0
+MR01170,2012,Summer,Great Britain,United States,North America,Handball,Team Sports,13,0,1,0,1,3.872,7.69
+MR01171,2012,Summer,Great Britain,United States,North America,Judo,Combat Sports,9,0,1,0,1,3.872,11.11
+MR01172,2012,Summer,Great Britain,United States,North America,Modern Pentathlon,Shooting,4,1,0,0,1,3.872,25.0
+MR01173,2012,Summer,Great Britain,United States,North America,Road Cycling,Cycling,8,1,0,0,1,3.872,12.5
+MR01174,2012,Summer,Great Britain,United States,North America,Rowing,Rowing,14,1,0,0,1,3.872,7.14
+MR01175,2012,Summer,Great Britain,United States,North America,Sailing,Individual Skill & Endurance,6,1,0,0,1,3.872,16.67
+MR01176,2012,Summer,Great Britain,United States,North America,Shooting,Shooting,3,0,2,0,2,3.872,66.67
+MR01177,2012,Winter,Great Britain,United States,North America,Snowboard,Winter Snow Sports,6,1,1,0,2,3.872,33.33
+MR01178,2012,Winter,Great Britain,United States,North America,Speed Skating,Winter Ice Sports,7,1,0,0,1,3.872,14.29
+MR01179,2012,Summer,Great Britain,United States,North America,Swimming,Aquatics,12,8,4,1,13,3.872,100.0
+MR01180,2012,Summer,Great Britain,United States,North America,Track & Field,Athletics,14,3,0,1,4,3.872,28.57
+MR01181,2012,Summer,Great Britain,United States,North America,Track Cycling,Cycling,7,0,2,1,3,3.872,42.86
+MR01182,2012,Summer,Great Britain,United States,North America,Triathlon,Individual Skill & Endurance,4,1,0,0,1,3.872,25.0
+MR01183,2012,Summer,Great Britain,United States,North America,Water Polo,Aquatics,13,1,0,0,1,3.872,7.69
+MR01184,2012,Summer,Great Britain,United States,North America,Weightlifting,Individual Skill & Endurance,3,2,2,2,6,3.872,100.0
+MR01185,2012,Summer,Great Britain,United States,North America,Wrestling,Combat Sports,5,2,4,1,7,3.872,100.0
+MR01186,2016,Summer,Brazil,Argentina,South America,Rowing,Rowing,5,0,0,1,1,13.5334,20.0
+MR01187,2016,Summer,Brazil,Argentina,South America,Swimming,Aquatics,7,0,1,0,1,13.5334,14.29
+MR01188,2016,Summer,Brazil,Argentina,South America,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,13.5334,50.0
+MR01189,2016,Summer,Brazil,Australia,Oceania,Canoe Slalom,Rowing,2,0,1,0,1,8.7728,50.0
+MR01190,2016,Summer,Brazil,Australia,Oceania,Diving,Aquatics,3,1,0,0,1,8.7728,33.33
+MR01191,2016,Summer,Brazil,Australia,Oceania,Road Cycling,Cycling,4,1,0,0,1,8.7728,25.0
+MR01192,2016,Summer,Brazil,Australia,Oceania,Skateboarding,Individual Skill & Endurance,2,1,0,0,1,8.7728,50.0
+MR01193,2016,Summer,Brazil,Australia,Oceania,Swimming,Aquatics,11,0,1,1,2,8.7728,18.18
+MR01194,2016,Summer,Brazil,Australia,Oceania,Tennis,Racquet Sports,3,1,0,0,1,8.7728,33.33
+MR01195,2016,Summer,Brazil,Australia,Oceania,Wrestling,Combat Sports,4,0,1,0,1,8.7728,25.0
+MR01196,2016,Summer,Brazil,Austria,Europe,Track Cycling,Cycling,4,0,0,1,1,21.1263,25.0
+MR01197,2016,Summer,Brazil,Azerbaijan,Europe/Asia,Artistic Gymnastics,Gymnastics,3,1,0,0,1,15.598,33.33
+MR01198,2016,Summer,Brazil,Brazil,South America,Archery,Shooting,2,0,1,0,1,5.5324,50.0
+MR01199,2016,Summer,Brazil,Brazil,South America,Artistic Gymnastics,Gymnastics,3,0,1,0,1,5.5324,33.33
+MR01200,2016,Summer,Brazil,Brazil,South America,Badminton,Racquet Sports,3,1,0,0,1,5.5324,33.33
+MR01201,2016,Summer,Brazil,Brazil,South America,Canoe Slalom,Rowing,2,1,0,0,1,5.5324,50.0
+MR01202,2016,Summer,Brazil,Brazil,South America,Canoe Sprint,Rowing,3,0,1,0,1,5.5324,33.33
+MR01203,2016,Summer,Brazil,Brazil,South America,Diving,Aquatics,3,1,0,0,1,5.5324,33.33
+MR01204,2016,Summer,Brazil,Brazil,South America,Fencing,Combat Sports,4,0,1,0,1,5.5324,25.0
+MR01205,2016,Summer,Brazil,Brazil,South America,Football,Team Sports,16,0,0,1,1,5.5324,6.25
+MR01206,2016,Summer,Brazil,Brazil,South America,Handball,Team Sports,14,1,0,0,1,5.5324,7.14
+MR01207,2016,Summer,Brazil,Brazil,South America,Judo,Combat Sports,5,1,3,2,6,5.5324,100.0
+MR01208,2016,Summer,Brazil,Brazil,South America,Marathon,Athletics,2,1,0,1,2,5.5324,100.0
+MR01209,2016,Summer,Brazil,Brazil,South America,Road Cycling,Cycling,5,0,1,0,1,5.5324,20.0
+MR01210,2016,Summer,Brazil,Brazil,South America,Rowing,Rowing,9,1,0,0,1,5.5324,11.11
+MR01211,2016,Summer,Brazil,Brazil,South America,Track & Field,Athletics,5,1,0,1,2,5.5324,40.0
+MR01212,2016,Summer,Brazil,Brazil,South America,Wrestling,Combat Sports,4,0,1,0,1,5.5324,25.0
+MR01213,2016,Summer,Brazil,Canada,North America,Artistic Gymnastics,Gymnastics,3,1,0,0,1,19.0342,33.33
+MR01214,2016,Summer,Brazil,Canada,North America,Marathon,Athletics,3,1,0,0,1,19.0342,33.33
+MR01215,2016,Summer,Brazil,Canada,North America,Sailing,Individual Skill & Endurance,3,1,0,0,1,19.0342,33.33
+MR01216,2016,Summer,Brazil,Canada,North America,Track & Field,Athletics,9,0,2,0,2,19.0342,22.22
+MR01217,2016,Winter,Brazil,China,Asia,Alpine Skiing,Winter Snow Sports,3,1,0,0,1,11.8098,33.33
+MR01218,2016,Summer,Brazil,China,Asia,Artistic Gymnastics,Gymnastics,6,2,0,1,3,11.8098,50.0
+MR01219,2016,Summer,Brazil,China,Asia,Badminton,Racquet Sports,4,1,1,0,2,11.8098,50.0
+MR01220,2016,Summer,Brazil,China,Asia,Boxing,Combat Sports,5,0,0,1,1,11.8098,20.0
+MR01221,2016,Summer,Brazil,China,Asia,Canoe Slalom,Rowing,4,1,0,2,3,11.8098,75.0
+MR01222,2016,Summer,Brazil,China,Asia,Canoe Sprint,Rowing,5,1,1,0,2,11.8098,40.0
+MR01223,2016,Winter,Brazil,China,Asia,Cross-Country Skiing,Winter Snow Sports,7,1,0,0,1,11.8098,14.29
+MR01224,2016,Summer,Brazil,China,Asia,Diving,Aquatics,5,0,0,2,2,11.8098,40.0
+MR01225,2016,Summer,Brazil,China,Asia,Field Hockey,Team Sports,15,0,0,1,1,11.8098,6.67
+MR01226,2016,Summer,Brazil,China,Asia,Rhythmic Gymnastics,Gymnastics,3,0,1,0,1,11.8098,33.33
+MR01227,2016,Summer,Brazil,China,Asia,Road Cycling,Cycling,6,1,0,1,2,11.8098,33.33
+MR01228,2016,Summer,Brazil,China,Asia,Shooting,Shooting,2,1,0,0,1,11.8098,50.0
+MR01229,2016,Summer,Brazil,China,Asia,Swimming,Aquatics,14,3,1,2,6,11.8098,42.86
+MR01230,2016,Summer,Brazil,China,Asia,Table Tennis,Racquet Sports,6,3,0,1,4,11.8098,66.67
+MR01231,2016,Summer,Brazil,China,Asia,Taekwondo,Combat Sports,4,0,1,0,1,11.8098,25.0
+MR01232,2016,Summer,Brazil,China,Asia,Track & Field,Athletics,8,4,2,4,10,11.8098,100.0
+MR01233,2016,Summer,Brazil,China,Asia,Wrestling,Combat Sports,5,2,0,2,4,11.8098,80.0
+MR01234,2016,Summer,Brazil,Chinese Taipei,Asia,Judo,Combat Sports,3,1,0,0,1,10.8839,33.33
+MR01235,2016,Summer,Brazil,Colombia,South America,Race Walking,Athletics,1,1,0,0,1,3.9721,100.0
+MR01236,2016,Summer,Brazil,Colombia,South America,Rhythmic Gymnastics,Gymnastics,2,0,0,1,1,3.9721,50.0
+MR01237,2016,Summer,Brazil,Colombia,South America,Track Cycling,Cycling,4,0,0,1,1,3.9721,25.0
+MR01238,2016,Summer,Brazil,Colombia,South America,Weightlifting,Individual Skill & Endurance,1,0,1,0,1,3.9721,100.0
+MR01239,2016,Summer,Brazil,Croatia,Europe,Track & Field,Athletics,7,1,0,1,2,14.4786,28.57
+MR01240,2016,Summer,Brazil,Cuba,North America,Rowing,Rowing,5,0,0,1,1,6.3417,20.0
+MR01241,2016,Summer,Brazil,Cuba,North America,Shooting,Shooting,1,1,0,0,1,6.3417,100.0
+MR01242,2016,Summer,Brazil,Cuba,North America,Table Tennis,Racquet Sports,3,0,0,1,1,6.3417,33.33
+MR01243,2016,Summer,Brazil,Czech Republic,Europe,Judo,Combat Sports,3,0,1,0,1,27.2805,33.33
+MR01244,2016,Summer,Brazil,Denmark,Europe,Swimming,Aquatics,7,0,1,0,1,22.0982,14.29
+MR01245,2016,Summer,Brazil,Dominican Republic,North America,Shooting,Shooting,1,1,0,0,1,10.5773,100.0
+MR01246,2016,Summer,Brazil,Egypt,Africa,Race Walking,Athletics,2,1,0,0,1,7.1029,50.0
+MR01247,2016,Summer,Brazil,Egypt,Africa,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,7.1029,50.0
+MR01248,2016,Winter,Brazil,Finland,Europe,Cross-Country Skiing,Winter Snow Sports,4,0,0,1,1,2.9052,25.0
+MR01249,2016,Summer,Brazil,Finland,Europe,Marathon,Athletics,1,1,0,0,1,2.9052,100.0
+MR01250,2016,Summer,Brazil,Finland,Europe,Track Cycling,Cycling,2,0,0,1,1,2.9052,50.0
+MR01251,2016,Summer,Brazil,Finland,Europe,Weightlifting,Individual Skill & Endurance,1,0,0,1,1,2.9052,100.0
+MR01252,2016,Summer,Brazil,France,Europe,Archery,Shooting,2,0,1,0,1,8.9574,50.0
+MR01253,2016,Summer,Brazil,France,Europe,Canoe Sprint,Rowing,6,1,0,0,1,8.9574,16.67
+MR01254,2016,Winter,Brazil,France,Europe,Cross-Country Skiing,Winter Snow Sports,4,1,0,0,1,8.9574,25.0
+MR01255,2016,Summer,Brazil,France,Europe,Fencing,Combat Sports,3,2,1,0,3,8.9574,100.0
+MR01256,2016,Summer,Brazil,France,Europe,Judo,Combat Sports,4,1,0,0,1,8.9574,25.0
+MR01257,2016,Summer,Brazil,France,Europe,Swimming,Aquatics,7,0,0,1,1,8.9574,14.29
+MR01258,2016,Summer,Brazil,France,Europe,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,8.9574,50.0
+MR01259,2016,Summer,Brazil,Georgia,Europe/Asia,Table Tennis,Racquet Sports,3,0,1,0,1,5.9028,33.33
+MR01260,2016,Summer,Brazil,Germany,Europe,Archery,Shooting,3,1,0,0,1,8.2124,33.33
+MR01261,2016,Summer,Brazil,Germany,Europe,Badminton,Racquet Sports,2,0,0,1,1,8.2124,50.0
+MR01262,2016,Summer,Brazil,Germany,Europe,Equestrian,Individual Skill & Endurance,4,0,1,0,1,8.2124,25.0
+MR01263,2016,Summer,Brazil,Germany,Europe,Fencing,Combat Sports,5,0,1,0,1,8.2124,20.0
+MR01264,2016,Summer,Brazil,Germany,Europe,Judo,Combat Sports,4,1,1,0,2,8.2124,50.0
+MR01265,2016,Summer,Brazil,Germany,Europe,Marathon,Athletics,2,1,0,0,1,8.2124,50.0
+MR01266,2016,Summer,Brazil,Germany,Europe,Modern Pentathlon,Shooting,3,0,1,0,1,8.2124,33.33
+MR01267,2016,Summer,Brazil,Germany,Europe,Race Walking,Athletics,2,1,0,0,1,8.2124,50.0
+MR01268,2016,Summer,Brazil,Germany,Europe,Rowing,Rowing,11,0,1,1,2,8.2124,18.18
+MR01269,2016,Summer,Brazil,Germany,Europe,Shooting,Shooting,2,0,1,0,1,8.2124,50.0
+MR01270,2016,Summer,Brazil,Germany,Europe,Swimming,Aquatics,11,1,6,1,8,8.2124,72.73
+MR01271,2016,Summer,Brazil,Germany,Europe,Track & Field,Athletics,11,0,2,0,2,8.2124,18.18
+MR01272,2016,Summer,Brazil,Germany,Europe,Track Cycling,Cycling,6,1,0,0,1,8.2124,16.67
+MR01273,2016,Summer,Brazil,Germany,Europe,Volleyball,Team Sports,11,1,0,0,1,8.2124,9.09
+MR01274,2016,Summer,Brazil,Germany,Europe,Weightlifting,Individual Skill & Endurance,3,1,0,0,1,8.2124,33.33
+MR01275,2016,Summer,Brazil,Germany,Europe,Wrestling,Combat Sports,4,1,2,0,3,8.2124,75.0
+MR01276,2016,Summer,Brazil,Great Britain,Europe,Diving,Aquatics,3,1,0,0,1,15.5258,33.33
+MR01277,2016,Summer,Brazil,Great Britain,Europe,Fencing,Combat Sports,3,2,0,0,2,15.5258,66.67
+MR01278,2016,Summer,Brazil,Great Britain,Europe,Judo,Combat Sports,7,0,0,1,1,15.5258,14.29
+MR01279,2016,Summer,Brazil,Great Britain,Europe,Modern Pentathlon,Shooting,2,1,0,0,1,15.5258,50.0
+MR01280,2016,Summer,Brazil,Great Britain,Europe,Rowing,Rowing,8,1,0,0,1,15.5258,12.5
+MR01281,2016,Summer,Brazil,Great Britain,Europe,Taekwondo,Combat Sports,3,1,0,0,1,15.5258,33.33
+MR01282,2016,Summer,Brazil,Great Britain,Europe,Track & Field,Athletics,11,2,3,1,6,15.5258,54.55
+MR01283,2016,Summer,Brazil,Great Britain,Europe,Wrestling,Combat Sports,6,0,2,1,3,15.5258,50.0
+MR01284,2016,Summer,Brazil,Greece,Europe,Badminton,Racquet Sports,3,0,0,1,1,27.7965,33.33
+MR01285,2016,Summer,Brazil,Hungary,Europe,Canoe Sprint,Rowing,4,1,0,0,1,20.8041,25.0
+MR01286,2016,Summer,Brazil,Hungary,Europe,Swimming,Aquatics,6,1,0,1,2,20.8041,33.33
+MR01287,2016,Summer,Brazil,India,Asia,Artistic Gymnastics,Gymnastics,4,0,0,1,1,13.3957,25.0
+MR01288,2016,Summer,Brazil,Indonesia,Asia,Judo,Combat Sports,4,0,1,0,1,11.7466,25.0
+MR01289,2016,Summer,Brazil,Iran,Asia,Rowing,Rowing,5,0,0,1,1,9.0355,20.0
+MR01290,2016,Summer,Brazil,Iran,Asia,Swimming,Aquatics,6,0,1,0,1,9.0355,16.67
+MR01291,2016,Summer,Brazil,Iran,Asia,Track & Field,Athletics,8,0,1,0,1,9.0355,12.5
+MR01292,2016,Summer,Brazil,Italy,Europe,Canoe Sprint,Rowing,3,0,1,1,2,14.8023,66.67
+MR01293,2016,Summer,Brazil,Italy,Europe,Rugby Sevens,Team Sports,11,0,0,1,1,14.8023,9.09
+MR01294,2016,Winter,Brazil,Italy,Europe,Ski Jumping,Winter Snow Sports,4,1,0,0,1,14.8023,25.0
+MR01295,2016,Winter,Brazil,Italy,Europe,Snowboard,Winter Snow Sports,4,1,0,1,2,14.8023,50.0
+MR01296,2016,Summer,Brazil,Italy,Europe,Swimming,Aquatics,8,1,1,0,2,14.8023,25.0
+MR01297,2016,Summer,Brazil,Italy,Europe,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,14.8023,50.0
+MR01298,2016,Winter,Brazil,Japan,Asia,Alpine Skiing,Winter Snow Sports,3,1,0,0,1,11.3984,33.33
+MR01299,2016,Summer,Brazil,Japan,Asia,Artistic Swimming,Aquatics,7,0,0,1,1,11.3984,14.29
+MR01300,2016,Summer,Brazil,Japan,Asia,Equestrian,Individual Skill & Endurance,5,0,1,0,1,11.3984,20.0
+MR01301,2016,Summer,Brazil,Japan,Asia,Fencing,Combat Sports,3,1,0,0,1,11.3984,33.33
+MR01302,2016,Summer,Brazil,Japan,Asia,Judo,Combat Sports,6,3,0,2,5,11.3984,83.33
+MR01303,2016,Summer,Brazil,Japan,Asia,Marathon,Athletics,3,0,0,1,1,11.3984,33.33
+MR01304,2016,Summer,Brazil,Japan,Asia,Rugby Sevens,Team Sports,11,0,0,1,1,11.3984,9.09
+MR01305,2016,Summer,Brazil,Japan,Asia,Sailing,Individual Skill & Endurance,3,0,2,0,2,11.3984,66.67
+MR01306,2016,Summer,Brazil,Japan,Asia,Skateboarding,Individual Skill & Endurance,3,1,0,0,1,11.3984,33.33
+MR01307,2016,Summer,Brazil,Japan,Asia,Swimming,Aquatics,8,1,0,0,1,11.3984,12.5
+MR01308,2016,Summer,Brazil,Japan,Asia,Track & Field,Athletics,12,2,3,1,6,11.3984,50.0
+MR01309,2016,Summer,Brazil,Japan,Asia,Weightlifting,Individual Skill & Endurance,3,1,0,0,1,11.3984,33.33
+MR01310,2016,Summer,Brazil,Japan,Asia,Wrestling,Combat Sports,5,1,2,1,4,11.3984,80.0
+MR01311,2016,Summer,Brazil,Kenya,Africa,Marathon,Athletics,2,0,1,0,1,4.4454,50.0
+MR01312,2016,Summer,Brazil,Kenya,Africa,Swimming,Aquatics,9,0,1,0,1,4.4454,11.11
+MR01313,2016,Summer,Brazil,Kenya,Africa,Table Tennis,Racquet Sports,2,0,0,1,1,4.4454,50.0
+MR01314,2016,Summer,Brazil,Mexico,North America,Tennis,Racquet Sports,2,1,0,0,1,28.7789,50.0
+MR01315,2016,Summer,Brazil,Morocco,Africa,Diving,Aquatics,1,0,0,1,1,9.5177,100.0
+MR01316,2016,Summer,Brazil,Netherlands,Europe,Road Cycling,Cycling,5,0,0,1,1,24.5624,20.0
+MR01317,2016,Winter,Brazil,Netherlands,Europe,Ski Jumping,Winter Snow Sports,3,0,0,1,1,24.5624,33.33
+MR01318,2016,Summer,Brazil,Netherlands,Europe,Swimming,Aquatics,8,1,0,0,1,24.5624,12.5
+MR01319,2016,Summer,Brazil,New Zealand,Oceania,BMX,Cycling,2,1,0,0,1,6.0146,50.0
+MR01320,2016,Summer,Brazil,New Zealand,Oceania,Sailing,Individual Skill & Endurance,2,0,1,0,1,6.0146,50.0
+MR01321,2016,Summer,Brazil,New Zealand,Oceania,Swimming,Aquatics,5,1,0,0,1,6.0146,20.0
+MR01322,2016,Summer,Brazil,New Zealand,Oceania,Wrestling,Combat Sports,3,1,0,0,1,6.0146,33.33
+MR01323,2016,Summer,Brazil,North Korea,Asia,Weightlifting,Individual Skill & Endurance,1,0,0,1,1,18.5112,100.0
+MR01324,2016,Winter,Brazil,Norway,Europe,Biathlon,Winter Snow Sports,4,1,0,0,1,17.9307,25.0
+MR01325,2016,Summer,Brazil,Norway,Europe,Swimming,Aquatics,8,0,0,1,1,17.9307,12.5
+MR01326,2016,Summer,Brazil,Norway,Europe,Water Polo,Aquatics,12,0,0,1,1,17.9307,8.33
+MR01327,2016,Summer,Brazil,Poland,Europe,Archery,Shooting,1,0,0,1,1,14.0554,100.0
+MR01328,2016,Summer,Brazil,Poland,Europe,Football,Team Sports,16,1,0,0,1,14.0554,6.25
+MR01329,2016,Summer,Brazil,Russia,Europe/Asia,Artistic Swimming,Aquatics,8,1,0,0,1,9.5047,12.5
+MR01330,2016,Summer,Brazil,Russia,Europe/Asia,BMX,Cycling,2,1,0,0,1,9.5047,50.0
+MR01331,2016,Winter,Brazil,Russia,Europe/Asia,Biathlon,Winter Snow Sports,6,0,1,0,1,9.5047,16.67
+MR01332,2016,Summer,Brazil,Russia,Europe/Asia,Canoe Sprint,Rowing,6,0,0,1,1,9.5047,16.67
+MR01333,2016,Summer,Brazil,Russia,Europe/Asia,Equestrian,Individual Skill & Endurance,4,0,1,0,1,9.5047,25.0
+MR01334,2016,Winter,Brazil,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,4,1,0,0,1,9.5047,25.0
+MR01335,2016,Summer,Brazil,Russia,Europe/Asia,Rowing,Rowing,9,0,1,0,1,9.5047,11.11
+MR01336,2016,Winter,Brazil,Russia,Europe/Asia,Speed Skating,Winter Ice Sports,5,1,0,0,1,9.5047,20.0
+MR01337,2016,Summer,Brazil,Russia,Europe/Asia,Swimming,Aquatics,12,0,0,3,3,9.5047,25.0
+MR01338,2016,Summer,Brazil,Russia,Europe/Asia,Track & Field,Athletics,10,0,0,2,2,9.5047,20.0
+MR01339,2016,Summer,Brazil,Russia,Europe/Asia,Weightlifting,Individual Skill & Endurance,3,0,1,0,1,9.5047,33.33
+MR01340,2016,Summer,Brazil,Serbia,Europe,Rhythmic Gymnastics,Gymnastics,2,0,0,1,1,11.3828,50.0
+MR01341,2016,Summer,Brazil,South Africa,Africa,Rugby Sevens,Team Sports,11,1,0,0,1,6.1285,9.09
+MR01342,2016,Summer,Brazil,South Africa,Africa,Swimming,Aquatics,6,0,1,0,1,6.1285,16.67
+MR01343,2016,Summer,Brazil,South Africa,Africa,Track & Field,Athletics,6,1,1,0,2,6.1285,33.33
+MR01344,2016,Summer,Brazil,South Korea,Asia,Archery,Shooting,3,0,0,1,1,4.8433,33.33
+MR01345,2016,Summer,Brazil,South Korea,Asia,Badminton,Racquet Sports,4,0,0,1,1,4.8433,25.0
+MR01346,2016,Summer,Brazil,South Korea,Asia,Canoe Slalom,Rowing,3,0,0,1,1,4.8433,33.33
+MR01347,2016,Summer,Brazil,South Korea,Asia,Equestrian,Individual Skill & Endurance,4,0,0,1,1,4.8433,25.0
+MR01348,2016,Summer,Brazil,South Korea,Asia,Fencing,Combat Sports,4,1,0,0,1,4.8433,25.0
+MR01349,2016,Winter,Brazil,South Korea,Asia,Freestyle Skiing,Winter Snow Sports,3,0,1,0,1,4.8433,33.33
+MR01350,2016,Summer,Brazil,South Korea,Asia,Rowing,Rowing,8,1,0,1,2,4.8433,25.0
+MR01351,2016,Winter,Brazil,South Korea,Asia,Speed Skating,Winter Ice Sports,5,1,0,0,1,4.8433,20.0
+MR01352,2016,Summer,Brazil,South Korea,Asia,Swimming,Aquatics,11,1,0,0,1,4.8433,9.09
+MR01353,2016,Summer,Brazil,South Korea,Asia,Taekwondo,Combat Sports,4,0,1,0,1,4.8433,25.0
+MR01354,2016,Summer,Brazil,South Korea,Asia,Tennis,Racquet Sports,2,0,1,0,1,4.8433,50.0
+MR01355,2016,Summer,Brazil,South Korea,Asia,Track & Field,Athletics,12,0,0,2,2,4.8433,16.67
+MR01356,2016,Summer,Brazil,South Korea,Asia,Water Polo,Aquatics,13,0,1,0,1,4.8433,7.69
+MR01357,2016,Summer,Brazil,Spain,Europe,Badminton,Racquet Sports,3,0,0,1,1,4.1866,33.33
+MR01358,2016,Summer,Brazil,Spain,Europe,Boxing,Combat Sports,3,1,0,0,1,4.1866,33.33
+MR01359,2016,Summer,Brazil,Spain,Europe,Canoe Sprint,Rowing,3,0,0,1,1,4.1866,33.33
+MR01360,2016,Summer,Brazil,Spain,Europe,Fencing,Combat Sports,3,1,0,0,1,4.1866,33.33
+MR01361,2016,Summer,Brazil,Spain,Europe,Judo,Combat Sports,6,1,0,0,1,4.1866,16.67
+MR01362,2016,Summer,Brazil,Spain,Europe,Marathon,Athletics,2,0,1,0,1,4.1866,50.0
+MR01363,2016,Summer,Brazil,Spain,Europe,Sailing,Individual Skill & Endurance,4,0,1,1,2,4.1866,50.0
+MR01364,2016,Summer,Brazil,Spain,Europe,Shooting,Shooting,2,0,0,1,1,4.1866,50.0
+MR01365,2016,Summer,Brazil,Spain,Europe,Swimming,Aquatics,6,0,1,0,1,4.1866,16.67
+MR01366,2016,Summer,Brazil,Spain,Europe,Tennis,Racquet Sports,2,0,0,1,1,4.1866,50.0
+MR01367,2016,Summer,Brazil,Spain,Europe,Track & Field,Athletics,6,0,0,1,1,4.1866,16.67
+MR01368,2016,Summer,Brazil,Spain,Europe,Track Cycling,Cycling,3,1,0,0,1,4.1866,33.33
+MR01369,2016,Summer,Brazil,Sweden,Europe,Badminton,Racquet Sports,3,0,0,1,1,8.6549,33.33
+MR01370,2016,Winter,Brazil,Sweden,Europe,Cross-Country Skiing,Winter Snow Sports,3,1,0,0,1,8.6549,33.33
+MR01371,2016,Summer,Brazil,Sweden,Europe,Judo,Combat Sports,4,0,0,1,1,8.6549,25.0
+MR01372,2016,Summer,Brazil,Switzerland,Europe,Fencing,Combat Sports,4,1,0,0,1,13.9238,25.0
+MR01373,2016,Summer,Brazil,Switzerland,Europe,Track & Field,Athletics,7,0,0,1,1,13.9238,14.29
+MR01374,2016,Summer,Brazil,Thailand,Asia,Wrestling,Combat Sports,3,1,0,0,1,12.8446,33.33
+MR01375,2016,Summer,Brazil,Tunisia,Africa,Shooting,Shooting,1,0,0,1,1,5.8934,100.0
+MR01376,2016,Summer,Brazil,Turkey,Europe/Asia,Archery,Shooting,1,1,0,0,1,5.6723,100.0
+MR01377,2016,Summer,Brazil,Turkey,Europe/Asia,Diving,Aquatics,3,0,1,0,1,5.6723,33.33
+MR01378,2016,Summer,Brazil,Turkey,Europe/Asia,Swimming,Aquatics,7,1,0,0,1,5.6723,14.29
+MR01379,2016,Summer,Brazil,Ukraine,Europe,Artistic Gymnastics,Gymnastics,3,1,0,0,1,4.5478,33.33
+MR01380,2016,Summer,Brazil,Ukraine,Europe,Modern Pentathlon,Shooting,1,0,0,1,1,4.5478,100.0
+MR01381,2016,Summer,Brazil,Ukraine,Europe,Race Walking,Athletics,2,1,0,0,1,4.5478,50.0
+MR01382,2016,Summer,Brazil,Ukraine,Europe,Track & Field,Athletics,5,0,1,0,1,4.5478,20.0
+MR01383,2016,Summer,Brazil,Ukraine,Europe,Wrestling,Combat Sports,4,1,0,0,1,4.5478,25.0
+MR01384,2016,Summer,Brazil,United States,North America,Archery,Shooting,2,0,1,0,1,4.8662,50.0
+MR01385,2016,Summer,Brazil,United States,North America,Artistic Gymnastics,Gymnastics,6,0,1,1,2,4.8662,33.33
+MR01386,2016,Summer,Brazil,United States,North America,BMX,Cycling,3,0,1,1,2,4.8662,66.67
+MR01387,2016,Summer,Brazil,United States,North America,Badminton,Racquet Sports,6,1,0,0,1,4.8662,16.67
+MR01388,2016,Summer,Brazil,United States,North America,Basketball,Team Sports,22,2,0,0,2,4.8662,9.09
+MR01389,2016,Summer,Brazil,United States,North America,Beach Volleyball,Team Sports,7,1,1,0,2,4.8662,28.57
+MR01390,2016,Winter,Brazil,United States,North America,Biathlon,Winter Snow Sports,6,1,0,0,1,4.8662,16.67
+MR01391,2016,Summer,Brazil,United States,North America,Boxing,Combat Sports,6,2,0,2,4,4.8662,66.67
+MR01392,2016,Summer,Brazil,United States,North America,Canoe Slalom,Rowing,3,1,0,0,1,4.8662,33.33
+MR01393,2016,Winter,Brazil,United States,North America,Cross-Country Skiing,Winter Snow Sports,6,1,0,0,1,4.8662,16.67
+MR01394,2016,Summer,Brazil,United States,North America,Diving,Aquatics,3,2,0,0,2,4.8662,66.67
+MR01395,2016,Summer,Brazil,United States,North America,Equestrian,Individual Skill & Endurance,4,1,0,0,1,4.8662,25.0
+MR01396,2016,Winter,Brazil,United States,North America,Figure Skating,Winter Ice Sports,6,2,0,0,2,4.8662,33.33
+MR01397,2016,Summer,Brazil,United States,North America,Football,Team Sports,33,2,0,0,2,4.8662,6.06
+MR01398,2016,Summer,Brazil,United States,North America,Handball,Team Sports,14,0,1,0,1,4.8662,7.14
+MR01399,2016,Summer,Brazil,United States,North America,Race Walking,Athletics,3,1,0,0,1,4.8662,33.33
+MR01400,2016,Summer,Brazil,United States,North America,Road Cycling,Cycling,7,0,2,0,2,4.8662,28.57
+MR01401,2016,Summer,Brazil,United States,North America,Sailing,Individual Skill & Endurance,4,0,0,1,1,4.8662,25.0
+MR01402,2016,Summer,Brazil,United States,North America,Shooting,Shooting,2,0,1,0,1,4.8662,50.0
+MR01403,2016,Winter,Brazil,United States,North America,Snowboard,Winter Snow Sports,5,0,1,0,1,4.8662,20.0
+MR01404,2016,Winter,Brazil,United States,North America,Speed Skating,Winter Ice Sports,5,0,1,0,1,4.8662,20.0
+MR01405,2016,Summer,Brazil,United States,North America,Swimming,Aquatics,12,7,3,8,18,4.8662,100.0
+MR01406,2016,Summer,Brazil,United States,North America,Taekwondo,Combat Sports,4,0,1,0,1,4.8662,25.0
+MR01407,2016,Summer,Brazil,United States,North America,Tennis,Racquet Sports,2,1,0,1,2,4.8662,100.0
+MR01408,2016,Summer,Brazil,United States,North America,Track & Field,Athletics,13,2,3,4,9,4.8662,69.23
+MR01409,2016,Summer,Brazil,United States,North America,Track Cycling,Cycling,7,0,1,0,1,4.8662,14.29
+MR01410,2016,Summer,Brazil,United States,North America,Weightlifting,Individual Skill & Endurance,3,2,3,0,5,4.8662,100.0
+MR01411,2016,Summer,Brazil,United States,North America,Wrestling,Combat Sports,6,1,4,0,5,4.8662,83.33
+MR01412,2016,Summer,Brazil,Uzbekistan,Asia,Swimming,Aquatics,6,0,0,1,1,20.3148,16.67
+MR01413,2020,Summer,Japan,Argentina,South America,Swimming,Aquatics,9,0,1,1,2,33.4844,22.22
+MR01414,2020,Summer,Japan,Australia,Oceania,Artistic Gymnastics,Gymnastics,4,0,1,0,1,10.8577,25.0
+MR01415,2020,Summer,Japan,Australia,Oceania,Artistic Swimming,Aquatics,8,0,0,1,1,10.8577,12.5
+MR01416,2020,Summer,Japan,Australia,Oceania,Road Cycling,Cycling,4,0,0,1,1,10.8577,25.0
+MR01417,2020,Summer,Japan,Australia,Oceania,Shooting,Shooting,2,1,0,1,2,10.8577,100.0
+MR01418,2020,Summer,Japan,Australia,Oceania,Swimming,Aquatics,11,0,1,0,1,10.8577,9.09
+MR01419,2020,Summer,Japan,Australia,Oceania,Triathlon,Individual Skill & Endurance,3,0,1,0,1,10.8577,33.33
+MR01420,2020,Summer,Japan,Austria,Europe,Judo,Combat Sports,5,0,1,0,1,25.9048,20.0
+MR01421,2020,Summer,Japan,Belgium,Europe,Shooting,Shooting,2,0,1,0,1,7.121,50.0
+MR01422,2020,Summer,Japan,Belgium,Europe,Taekwondo,Combat Sports,2,0,0,1,1,7.121,50.0
+MR01423,2020,Summer,Japan,Brazil,South America,Beach Volleyball,Team Sports,4,0,0,1,1,6.512,25.0
+MR01424,2020,Summer,Japan,Brazil,South America,Boxing,Combat Sports,3,0,2,0,2,6.512,66.67
+MR01425,2020,Summer,Japan,Brazil,South America,Race Walking,Athletics,2,0,0,1,1,6.512,50.0
+MR01426,2020,Summer,Japan,Brazil,South America,Rugby Sevens,Team Sports,11,0,0,1,1,6.512,9.09
+MR01427,2020,Summer,Japan,Brazil,South America,Track & Field,Athletics,6,0,1,0,1,6.512,16.67
+MR01428,2020,Summer,Japan,Brazil,South America,Triathlon,Individual Skill & Endurance,2,1,0,0,1,6.512,50.0
+MR01429,2020,Summer,Japan,Brazil,South America,Water Polo,Aquatics,12,1,0,0,1,6.512,8.33
+MR01430,2020,Summer,Japan,Brazil,South America,Wrestling,Combat Sports,4,1,0,1,2,6.512,50.0
+MR01431,2020,Winter,Japan,Canada,North America,Alpine Skiing,Winter Snow Sports,2,1,0,0,1,12.7872,50.0
+MR01432,2020,Winter,Japan,Canada,North America,Freestyle Skiing,Winter Snow Sports,3,1,0,0,1,12.7872,33.33
+MR01433,2020,Summer,Japan,Canada,North America,Track & Field,Athletics,7,0,0,1,1,12.7872,14.29
+MR01434,2020,Summer,Japan,Canada,North America,Track Cycling,Cycling,3,0,1,0,1,12.7872,33.33
+MR01435,2020,Summer,Japan,Canada,North America,Triathlon,Individual Skill & Endurance,3,0,1,0,1,12.7872,33.33
+MR01436,2020,Summer,Japan,China,Asia,Archery,Shooting,3,1,0,0,1,6.3546,33.33
+MR01437,2020,Summer,Japan,China,Asia,Artistic Gymnastics,Gymnastics,6,3,1,0,4,6.3546,66.67
+MR01438,2020,Summer,Japan,China,Asia,Badminton,Racquet Sports,3,1,2,0,3,6.3546,100.0
+MR01439,2020,Summer,Japan,China,Asia,Boxing,Combat Sports,5,2,0,0,2,6.3546,40.0
+MR01440,2020,Summer,Japan,China,Asia,Canoe Slalom,Rowing,2,0,0,1,1,6.3546,50.0
+MR01441,2020,Summer,Japan,China,Asia,Canoe Sprint,Rowing,7,1,4,0,5,6.3546,71.43
+MR01442,2020,Winter,Japan,China,Asia,Curling,Winter Ice Sports,5,0,0,1,1,6.3546,20.0
+MR01443,2020,Summer,Japan,China,Asia,Diving,Aquatics,5,0,1,0,1,6.3546,20.0
+MR01444,2020,Winter,Japan,China,Asia,Freestyle Skiing,Winter Snow Sports,5,1,0,0,1,6.3546,20.0
+MR01445,2020,Summer,Japan,China,Asia,Rhythmic Gymnastics,Gymnastics,5,1,0,0,1,6.3546,20.0
+MR01446,2020,Summer,Japan,China,Asia,Rowing,Rowing,11,1,0,1,2,6.3546,18.18
+MR01447,2020,Winter,Japan,China,Asia,Speed Skating,Winter Ice Sports,4,1,0,0,1,6.3546,25.0
+MR01448,2020,Summer,Japan,China,Asia,Swimming,Aquatics,16,6,7,1,14,6.3546,87.5
+MR01449,2020,Summer,Japan,China,Asia,Table Tennis,Racquet Sports,4,0,0,2,2,6.3546,50.0
+MR01450,2020,Summer,Japan,China,Asia,Track & Field,Athletics,15,3,2,2,7,6.3546,46.67
+MR01451,2020,Summer,Japan,China,Asia,Track Cycling,Cycling,5,1,0,0,1,6.3546,20.0
+MR01452,2020,Summer,Japan,China,Asia,Trampoline,Gymnastics,2,0,1,0,1,6.3546,50.0
+MR01453,2020,Summer,Japan,China,Asia,Weightlifting,Individual Skill & Endurance,4,0,0,1,1,6.3546,25.0
+MR01454,2020,Summer,Japan,China,Asia,Wrestling,Combat Sports,5,1,1,0,2,6.3546,40.0
+MR01455,2020,Summer,Japan,Croatia,Europe,Swimming,Aquatics,7,0,0,1,1,13.603,14.29
+MR01456,2020,Summer,Japan,Cuba,North America,Badminton,Racquet Sports,2,1,0,0,1,8.4693,50.0
+MR01457,2020,Summer,Japan,Cuba,North America,Boxing,Combat Sports,2,0,1,1,2,8.4693,100.0
+MR01458,2020,Summer,Japan,Cuba,North America,Equestrian,Individual Skill & Endurance,2,0,0,1,1,8.4693,50.0
+MR01459,2020,Winter,Japan,Czech Republic,Europe,Cross-Country Skiing,Winter Snow Sports,3,0,1,0,1,23.2393,33.33
+MR01460,2020,Summer,Japan,Denmark,Europe,Sailing,Individual Skill & Endurance,3,0,1,0,1,16.0179,33.33
+MR01461,2020,Summer,Japan,Ecuador,South America,Sailing,Individual Skill & Endurance,2,0,1,0,1,9.6628,50.0
+MR01462,2020,Summer,Japan,Egypt,Africa,Fencing,Combat Sports,2,0,1,0,1,16.1188,50.0
+MR01463,2020,Summer,Japan,Ethiopia,Africa,Artistic Gymnastics,Gymnastics,3,0,0,1,1,5.8927,33.33
+MR01464,2020,Winter,Japan,Finland,Europe,Ski Jumping,Winter Snow Sports,2,0,1,0,1,18.4147,50.0
+MR01465,2020,Summer,Japan,France,Europe,Badminton,Racquet Sports,4,1,0,0,1,10.4232,25.0
+MR01466,2020,Summer,Japan,France,Europe,Canoe Sprint,Rowing,5,0,0,2,2,10.4232,40.0
+MR01467,2020,Winter,Japan,France,Europe,Cross-Country Skiing,Winter Snow Sports,3,0,0,1,1,10.4232,33.33
+MR01468,2020,Summer,Japan,France,Europe,Judo,Combat Sports,7,1,0,0,1,10.4232,14.29
+MR01469,2020,Summer,Japan,France,Europe,Track & Field,Athletics,9,0,1,0,1,10.4232,11.11
+MR01470,2020,Summer,Japan,France,Europe,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,10.4232,50.0
+MR01471,2020,Summer,Japan,France,Europe,Wrestling,Combat Sports,4,1,1,0,2,10.4232,50.0
+MR01472,2020,Summer,Japan,Georgia,Europe/Asia,Water Polo,Aquatics,12,0,0,1,1,3.9569,8.33
+MR01473,2020,Summer,Japan,Germany,Europe,Badminton,Racquet Sports,3,0,1,0,1,30.1761,33.33
+MR01474,2020,Summer,Japan,Germany,Europe,Canoe Sprint,Rowing,6,1,0,0,1,30.1761,16.67
+MR01475,2020,Summer,Japan,Germany,Europe,Swimming,Aquatics,8,2,0,1,3,30.1761,37.5
+MR01476,2020,Summer,Japan,Great Britain,Europe,Boxing,Combat Sports,3,0,1,0,1,16.213,33.33
+MR01477,2020,Summer,Japan,Great Britain,Europe,Canoe Sprint,Rowing,6,1,0,0,1,16.213,16.67
+MR01478,2020,Summer,Japan,Great Britain,Europe,Fencing,Combat Sports,3,0,0,1,1,16.213,33.33
+MR01479,2020,Summer,Japan,Great Britain,Europe,Judo,Combat Sports,6,0,2,0,2,16.213,33.33
+MR01480,2020,Summer,Japan,Great Britain,Europe,Modern Pentathlon,Shooting,3,0,1,0,1,16.213,33.33
+MR01481,2020,Summer,Japan,Great Britain,Europe,Rowing,Rowing,8,1,0,0,1,16.213,12.5
+MR01482,2020,Summer,Japan,Great Britain,Europe,Swimming,Aquatics,11,1,1,0,2,16.213,18.18
+MR01483,2020,Summer,Japan,Great Britain,Europe,Taekwondo,Combat Sports,3,0,1,0,1,16.213,33.33
+MR01484,2020,Summer,Japan,Great Britain,Europe,Water Polo,Aquatics,12,1,0,0,1,16.213,8.33
+MR01485,2020,Summer,Japan,Greece,Europe,Track & Field,Athletics,7,1,0,0,1,30.6121,14.29
+MR01486,2020,Summer,Japan,Hungary,Europe,Swimming,Aquatics,8,0,1,1,2,15.1224,25.0
+MR01487,2020,Summer,Japan,Hungary,Europe,Weightlifting,Individual Skill & Endurance,2,0,0,1,1,15.1224,50.0
+MR01488,2020,Summer,Japan,India,Asia,Artistic Gymnastics,Gymnastics,4,0,0,1,1,6.5421,25.0
+MR01489,2020,Summer,Japan,India,Asia,Shooting,Shooting,1,0,0,1,1,6.5421,100.0
+MR01490,2020,Summer,Japan,India,Asia,Track & Field,Athletics,5,0,1,0,1,6.5421,20.0
+MR01491,2020,Summer,Japan,Iran,Asia,Road Cycling,Cycling,4,1,0,0,1,27.8375,25.0
+MR01492,2020,Summer,Japan,Italy,Europe,Equestrian,Individual Skill & Endurance,4,0,0,1,1,13.2332,25.0
+MR01493,2020,Summer,Japan,Italy,Europe,Sailing,Individual Skill & Endurance,3,0,1,0,1,13.2332,33.33
+MR01494,2020,Winter,Japan,Italy,Europe,Snowboard,Winter Snow Sports,4,0,0,1,1,13.2332,25.0
+MR01495,2020,Summer,Japan,Italy,Europe,Swimming,Aquatics,7,2,1,0,3,13.2332,42.86
+MR01496,2020,Summer,Japan,Italy,Europe,Triathlon,Individual Skill & Endurance,3,1,0,0,1,13.2332,33.33
+MR01497,2020,Summer,Japan,Italy,Europe,Water Polo,Aquatics,13,0,1,0,1,13.2332,7.69
+MR01498,2020,Summer,Japan,Jamaica,North America,Track & Field,Athletics,6,0,1,1,2,16.5877,33.33
+MR01499,2020,Summer,Japan,Japan,Asia,Archery,Shooting,3,0,1,0,1,9.5381,33.33
+MR01500,2020,Summer,Japan,Japan,Asia,Artistic Gymnastics,Gymnastics,4,3,1,1,5,9.5381,100.0
+MR01501,2020,Summer,Japan,Japan,Asia,Badminton,Racquet Sports,5,1,1,2,4,9.5381,80.0
+MR01502,2020,Summer,Japan,Japan,Asia,Basketball,Team Sports,22,0,2,0,2,9.5381,9.09
+MR01503,2020,Summer,Japan,Japan,Asia,Boxing,Combat Sports,4,2,0,0,2,9.5381,50.0
+MR01504,2020,Summer,Japan,Japan,Asia,Canoe Slalom,Rowing,2,1,0,0,1,9.5381,50.0
+MR01505,2020,Summer,Japan,Japan,Asia,Equestrian,Individual Skill & Endurance,4,1,1,0,2,9.5381,50.0
+MR01506,2020,Summer,Japan,Japan,Asia,Fencing,Combat Sports,5,0,3,1,4,9.5381,80.0
+MR01507,2020,Summer,Japan,Japan,Asia,Judo,Combat Sports,8,1,2,4,7,9.5381,87.5
+MR01508,2020,Summer,Japan,Japan,Asia,Marathon,Athletics,2,1,0,0,1,9.5381,50.0
+MR01509,2020,Summer,Japan,Japan,Asia,Race Walking,Athletics,3,1,2,0,3,9.5381,100.0
+MR01510,2020,Summer,Japan,Japan,Asia,Road Cycling,Cycling,6,0,0,1,1,9.5381,16.67
+MR01511,2020,Summer,Japan,Japan,Asia,Rugby Sevens,Team Sports,22,1,1,0,2,9.5381,9.09
+MR01512,2020,Summer,Japan,Japan,Asia,Sailing,Individual Skill & Endurance,4,2,1,0,3,9.5381,75.0
+MR01513,2020,Summer,Japan,Japan,Asia,Skateboarding,Individual Skill & Endurance,2,2,0,0,2,9.5381,100.0
+MR01514,2020,Winter,Japan,Japan,Asia,Ski Jumping,Winter Snow Sports,3,1,1,0,2,9.5381,66.67
+MR01515,2020,Winter,Japan,Japan,Asia,Snowboard,Winter Snow Sports,3,0,1,0,1,9.5381,33.33
+MR01516,2020,Summer,Japan,Japan,Asia,Swimming,Aquatics,11,13,2,0,15,9.5381,100.0
+MR01517,2020,Summer,Japan,Japan,Asia,Taekwondo,Combat Sports,5,1,0,0,1,9.5381,20.0
+MR01518,2020,Summer,Japan,Japan,Asia,Tennis,Racquet Sports,2,1,1,0,2,9.5381,100.0
+MR01519,2020,Summer,Japan,Japan,Asia,Track & Field,Athletics,8,1,2,0,3,9.5381,37.5
+MR01520,2020,Summer,Japan,Japan,Asia,Weightlifting,Individual Skill & Endurance,3,2,1,1,4,9.5381,100.0
+MR01521,2020,Summer,Japan,Japan,Asia,Wrestling,Combat Sports,4,3,4,0,7,9.5381,100.0
+MR01522,2020,Summer,Japan,Kenya,Africa,Equestrian,Individual Skill & Endurance,2,0,0,1,1,12.8304,50.0
+MR01523,2020,Summer,Japan,Mexico,North America,Football,Team Sports,17,0,0,1,1,30.0735,5.88
+MR01524,2020,Summer,Japan,Netherlands,Europe,Archery,Shooting,2,0,1,0,1,4.9876,50.0
+MR01525,2020,Summer,Japan,Netherlands,Europe,Artistic Gymnastics,Gymnastics,3,1,0,0,1,4.9876,33.33
+MR01526,2020,Winter,Japan,Netherlands,Europe,Figure Skating,Winter Ice Sports,4,0,1,0,1,4.9876,25.0
+MR01527,2020,Summer,Japan,Netherlands,Europe,Rowing,Rowing,6,0,1,0,1,4.9876,16.67
+MR01528,2020,Summer,Japan,Netherlands,Europe,Shooting,Shooting,2,1,0,1,2,4.9876,100.0
+MR01529,2020,Winter,Japan,Netherlands,Europe,Snowboard,Winter Snow Sports,3,1,0,0,1,4.9876,33.33
+MR01530,2020,Summer,Japan,Netherlands,Europe,Tennis,Racquet Sports,3,0,1,0,1,4.9876,33.33
+MR01531,2020,Summer,Japan,Netherlands,Europe,Weightlifting,Individual Skill & Endurance,2,0,0,1,1,4.9876,50.0
+MR01532,2020,Summer,Japan,New Zealand,Oceania,Shooting,Shooting,2,1,0,0,1,18.4795,50.0
+MR01533,2020,Summer,Japan,New Zealand,Oceania,Swimming,Aquatics,6,0,0,1,1,18.4795,16.67
+MR01534,2020,Summer,Japan,North Korea,Asia,Sailing,Individual Skill & Endurance,2,1,0,0,1,16.3475,50.0
+MR01535,2020,Summer,Japan,Norway,Europe,Artistic Gymnastics,Gymnastics,3,0,1,0,1,6.4578,33.33
+MR01536,2020,Winter,Japan,Norway,Europe,Biathlon,Winter Snow Sports,4,0,1,0,1,6.4578,25.0
+MR01537,2020,Summer,Japan,Norway,Europe,Canoe Sprint,Rowing,3,1,0,0,1,6.4578,33.33
+MR01538,2020,Winter,Japan,Norway,Europe,Freestyle Skiing,Winter Snow Sports,3,0,1,0,1,6.4578,33.33
+MR01539,2020,Summer,Japan,Norway,Europe,Sailing,Individual Skill & Endurance,2,0,0,1,1,6.4578,50.0
+MR01540,2020,Summer,Japan,Norway,Europe,Track & Field,Athletics,7,0,1,0,1,6.4578,14.29
+MR01541,2020,Summer,Japan,Norway,Europe,Track Cycling,Cycling,4,0,1,0,1,6.4578,25.0
+MR01542,2020,Summer,Japan,Poland,Europe,Swimming,Aquatics,5,0,0,1,1,29.7367,20.0
+MR01543,2020,Summer,Japan,Romania,Europe,Swimming,Aquatics,5,0,0,1,1,9.9863,20.0
+MR01544,2020,Summer,Japan,Romania,Europe,Track Cycling,Cycling,3,1,0,0,1,9.9863,33.33
+MR01545,2020,Summer,Japan,Russia,Europe/Asia,Archery,Shooting,2,1,1,0,2,10.3275,100.0
+MR01546,2020,Summer,Japan,Russia,Europe/Asia,Artistic Gymnastics,Gymnastics,5,1,0,2,3,10.3275,60.0
+MR01547,2020,Summer,Japan,Russia,Europe/Asia,Beach Volleyball,Team Sports,4,0,1,0,1,10.3275,25.0
+MR01548,2020,Summer,Japan,Russia,Europe/Asia,Boxing,Combat Sports,3,0,1,0,1,10.3275,33.33
+MR01549,2020,Winter,Japan,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,3,0,1,0,1,10.3275,33.33
+MR01550,2020,Summer,Japan,Russia,Europe/Asia,Judo,Combat Sports,5,1,0,0,1,10.3275,20.0
+MR01551,2020,Summer,Japan,Russia,Europe/Asia,Rhythmic Gymnastics,Gymnastics,5,0,1,1,2,10.3275,40.0
+MR01552,2020,Summer,Japan,Russia,Europe/Asia,Shooting,Shooting,3,1,0,1,2,10.3275,66.67
+MR01553,2020,Summer,Japan,Russia,Europe/Asia,Swimming,Aquatics,13,1,1,0,2,10.3275,15.38
+MR01554,2020,Summer,Japan,Russia,Europe/Asia,Water Polo,Aquatics,13,1,0,0,1,10.3275,7.69
+MR01555,2020,Summer,Japan,Russia,Europe/Asia,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,10.3275,50.0
+MR01556,2020,Summer,Japan,Serbia,Europe,Badminton,Racquet Sports,2,0,0,1,1,15.2215,50.0
+MR01557,2020,Summer,Japan,South Korea,Asia,Archery,Shooting,2,1,1,0,2,8.0158,100.0
+MR01558,2020,Summer,Japan,South Korea,Asia,Boxing,Combat Sports,3,0,0,1,1,8.0158,33.33
+MR01559,2020,Summer,Japan,South Korea,Asia,Equestrian,Individual Skill & Endurance,4,0,1,0,1,8.0158,25.0
+MR01560,2020,Summer,Japan,South Korea,Asia,Football,Team Sports,16,0,1,0,1,8.0158,6.25
+MR01561,2020,Summer,Japan,South Korea,Asia,Judo,Combat Sports,4,0,0,1,1,8.0158,25.0
+MR01562,2020,Summer,Japan,South Korea,Asia,Race Walking,Athletics,3,0,0,1,1,8.0158,33.33
+MR01563,2020,Summer,Japan,South Korea,Asia,Rowing,Rowing,12,1,0,0,1,8.0158,8.33
+MR01564,2020,Summer,Japan,South Korea,Asia,Sailing,Individual Skill & Endurance,3,0,0,1,1,8.0158,33.33
+MR01565,2020,Summer,Japan,South Korea,Asia,Taekwondo,Combat Sports,4,0,0,1,1,8.0158,25.0
+MR01566,2020,Summer,Japan,South Korea,Asia,Track & Field,Athletics,10,0,1,0,1,8.0158,10.0
+MR01567,2020,Summer,Japan,Spain,Europe,Artistic Gymnastics,Gymnastics,3,1,0,1,2,10.7906,66.67
+MR01568,2020,Summer,Japan,Spain,Europe,Judo,Combat Sports,3,1,0,0,1,10.7906,33.33
+MR01569,2020,Summer,Japan,Spain,Europe,Rowing,Rowing,10,1,0,0,1,10.7906,10.0
+MR01570,2020,Summer,Japan,Spain,Europe,Tennis,Racquet Sports,2,2,0,1,3,10.7906,100.0
+MR01571,2020,Summer,Japan,Spain,Europe,Track & Field,Athletics,8,2,0,0,2,10.7906,25.0
+MR01572,2020,Winter,Japan,Sweden,Europe,Biathlon,Winter Snow Sports,3,0,1,0,1,18.7934,33.33
+MR01573,2020,Winter,Japan,Switzerland,Europe,Cross-Country Skiing,Winter Snow Sports,4,0,1,0,1,24.7583,25.0
+MR01574,2020,Summer,Japan,Thailand,Asia,Boxing,Combat Sports,3,1,0,0,1,13.0553,33.33
+MR01575,2020,Summer,Japan,Tunisia,Africa,Rowing,Rowing,3,0,0,1,1,13.3985,33.33
+MR01576,2020,Summer,Japan,Turkey,Europe/Asia,Judo,Combat Sports,4,0,1,0,1,15.1042,25.0
+MR01577,2020,Summer,Japan,Uganda,Africa,Swimming,Aquatics,4,0,1,0,1,2.3583,25.0
+MR01578,2020,Summer,Japan,Uganda,Africa,Track & Field,Athletics,4,0,0,1,1,2.3583,25.0
+MR01579,2020,Summer,Japan,Ukraine,Europe,Badminton,Racquet Sports,3,1,0,0,1,12.522,33.33
+MR01580,2020,Summer,Japan,Ukraine,Europe,Boxing,Combat Sports,3,0,1,0,1,12.522,33.33
+MR01581,2020,Summer,Japan,Ukraine,Europe,Field Hockey,Team Sports,15,0,0,1,1,12.522,6.67
+MR01582,2020,Winter,Japan,United States,North America,Alpine Skiing,Winter Snow Sports,6,1,0,0,1,5.6497,16.67
+MR01583,2020,Summer,Japan,United States,North America,Artistic Gymnastics,Gymnastics,7,0,1,0,1,5.6497,14.29
+MR01584,2020,Summer,Japan,United States,North America,BMX,Cycling,3,1,1,0,2,5.6497,66.67
+MR01585,2020,Summer,Japan,United States,North America,Badminton,Racquet Sports,5,1,0,0,1,5.6497,20.0
+MR01586,2020,Summer,Japan,United States,North America,Basketball,Team Sports,23,2,0,0,2,5.6497,8.7
+MR01587,2020,Summer,Japan,United States,North America,Beach Volleyball,Team Sports,4,0,1,0,1,5.6497,25.0
+MR01588,2020,Summer,Japan,United States,North America,Boxing,Combat Sports,6,1,1,0,2,5.6497,33.33
+MR01589,2020,Summer,Japan,United States,North America,Canoe Slalom,Rowing,3,1,0,0,1,5.6497,33.33
+MR01590,2020,Summer,Japan,United States,North America,Diving,Aquatics,5,0,1,0,1,5.6497,20.0
+MR01591,2020,Summer,Japan,United States,North America,Equestrian,Individual Skill & Endurance,5,0,0,2,2,5.6497,40.0
+MR01592,2020,Summer,Japan,United States,North America,Field Hockey,Team Sports,16,1,0,0,1,5.6497,6.25
+MR01593,2020,Summer,Japan,United States,North America,Football,Team Sports,17,0,0,1,1,5.6497,5.88
+MR01594,2020,Summer,Japan,United States,North America,Golf,Individual Skill & Endurance,4,0,0,1,1,5.6497,25.0
+MR01595,2020,Summer,Japan,United States,North America,Handball,Team Sports,13,0,1,0,1,5.6497,7.69
+MR01596,2020,Summer,Japan,United States,North America,Judo,Combat Sports,7,1,0,1,2,5.6497,28.57
+MR01597,2020,Summer,Japan,United States,North America,Modern Pentathlon,Shooting,3,0,1,0,1,5.6497,33.33
+MR01598,2020,Summer,Japan,United States,North America,Road Cycling,Cycling,8,0,0,1,1,5.6497,12.5
+MR01599,2020,Summer,Japan,United States,North America,Rugby Sevens,Team Sports,12,0,1,0,1,5.6497,8.33
+MR01600,2020,Summer,Japan,United States,North America,Shooting,Shooting,3,3,1,1,5,5.6497,100.0
+MR01601,2020,Summer,Japan,United States,North America,Skateboarding,Individual Skill & Endurance,3,0,1,0,1,5.6497,33.33
+MR01602,2020,Winter,Japan,United States,North America,Ski Jumping,Winter Snow Sports,6,0,0,1,1,5.6497,16.67
+MR01603,2020,Summer,Japan,United States,North America,Swimming,Aquatics,14,6,9,8,23,5.6497,100.0
+MR01604,2020,Summer,Japan,United States,North America,Taekwondo,Combat Sports,6,0,1,0,1,5.6497,16.67
+MR01605,2020,Summer,Japan,United States,North America,Tennis,Racquet Sports,3,0,0,1,1,5.6497,33.33
+MR01606,2020,Summer,Japan,United States,North America,Track & Field,Athletics,16,5,6,1,12,5.6497,75.0
+MR01607,2020,Summer,Japan,United States,North America,Track Cycling,Cycling,6,2,0,0,2,5.6497,33.33
+MR01608,2020,Summer,Japan,United States,North America,Triathlon,Individual Skill & Endurance,5,1,0,0,1,5.6497,20.0
+MR01609,2020,Summer,Japan,United States,North America,Weightlifting,Individual Skill & Endurance,3,3,4,1,8,5.6497,100.0
+MR01610,2020,Summer,Japan,United States,North America,Wrestling,Combat Sports,5,2,1,1,4,5.6497,80.0
+MR01611,2020,Summer,Japan,Uzbekistan,Asia,Boxing,Combat Sports,3,0,0,1,1,26.7488,33.33
+MR01612,2024,Summer,France,Argentina,South America,BMX,Cycling,2,0,0,1,1,9.7621,50.0
+MR01613,2024,Summer,France,Argentina,South America,Boxing,Combat Sports,2,0,0,1,1,9.7621,50.0
+MR01614,2024,Summer,France,Argentina,South America,Trampoline,Gymnastics,2,0,1,0,1,9.7621,50.0
+MR01615,2024,Summer,France,Australia,Oceania,Artistic Gymnastics,Gymnastics,4,1,0,0,1,8.2443,25.0
+MR01616,2024,Summer,France,Australia,Oceania,Badminton,Racquet Sports,4,1,0,0,1,8.2443,25.0
+MR01617,2024,Summer,France,Australia,Oceania,Canoe Sprint,Rowing,5,1,0,1,2,8.2443,40.0
+MR01618,2024,Summer,France,Australia,Oceania,Rowing,Rowing,8,1,0,0,1,8.2443,12.5
+MR01619,2024,Summer,France,Australia,Oceania,Sailing,Individual Skill & Endurance,4,0,1,0,1,8.2443,25.0
+MR01620,2024,Summer,France,Australia,Oceania,Skateboarding,Individual Skill & Endurance,2,1,0,0,1,8.2443,50.0
+MR01621,2024,Summer,France,Australia,Oceania,Swimming,Aquatics,10,2,0,1,3,8.2443,30.0
+MR01622,2024,Summer,France,Australia,Oceania,Track & Field,Athletics,10,0,0,1,1,8.2443,10.0
+MR01623,2024,Summer,France,Australia,Oceania,Wrestling,Combat Sports,4,0,1,0,1,8.2443,25.0
+MR01624,2024,Winter,France,Austria,Europe,Freestyle Skiing,Winter Snow Sports,2,0,0,1,1,8.4194,50.0
+MR01625,2024,Winter,France,Austria,Europe,Ice Hockey,Winter Ice Sports,20,0,1,0,1,8.4194,5.0
+MR01626,2024,Winter,France,Austria,Europe,Ski Jumping,Winter Snow Sports,3,1,0,0,1,8.4194,33.33
+MR01627,2024,Summer,France,Belgium,Europe,Fencing,Combat Sports,3,0,1,0,1,9.8109,33.33
+MR01628,2024,Summer,France,Belgium,Europe,Swimming,Aquatics,4,1,1,0,2,9.8109,50.0
+MR01629,2024,Summer,France,Brazil,South America,Boxing,Combat Sports,2,1,0,0,1,7.3523,50.0
+MR01630,2024,Summer,France,Brazil,South America,Canoe Sprint,Rowing,3,1,0,0,1,7.3523,33.33
+MR01631,2024,Summer,France,Brazil,South America,Equestrian,Individual Skill & Endurance,3,0,1,0,1,7.3523,33.33
+MR01632,2024,Summer,France,Brazil,South America,Race Walking,Athletics,2,0,0,1,1,7.3523,50.0
+MR01633,2024,Summer,France,Brazil,South America,Shooting,Shooting,2,0,0,1,1,7.3523,50.0
+MR01634,2024,Summer,France,Brazil,South America,Track & Field,Athletics,9,1,0,0,1,7.3523,11.11
+MR01635,2024,Summer,France,Canada,North America,BMX,Cycling,1,0,1,0,1,12.157,100.0
+MR01636,2024,Winter,France,Canada,North America,Cross-Country Skiing,Winter Snow Sports,5,0,1,1,2,12.157,40.0
+MR01637,2024,Winter,France,Canada,North America,Figure Skating,Winter Ice Sports,4,0,0,1,1,12.157,25.0
+MR01638,2024,Summer,France,Canada,North America,Handball,Team Sports,13,1,0,0,1,12.157,7.69
+MR01639,2024,Summer,France,Canada,North America,Road Cycling,Cycling,3,0,0,1,1,12.157,33.33
+MR01640,2024,Summer,France,Canada,North America,Swimming,Aquatics,7,0,1,0,1,12.157,14.29
+MR01641,2024,Summer,France,Canada,North America,Track & Field,Athletics,6,2,0,2,4,12.157,66.67
+MR01642,2024,Summer,France,Chile,South America,Table Tennis,Racquet Sports,1,1,0,0,1,8.9068,100.0
+MR01643,2024,Summer,France,China,Asia,Artistic Gymnastics,Gymnastics,6,3,1,2,6,8.7179,100.0
+MR01644,2024,Summer,France,China,Asia,Badminton,Racquet Sports,4,4,0,1,5,8.7179,100.0
+MR01645,2024,Summer,France,China,Asia,Canoe Slalom,Rowing,3,2,0,0,2,8.7179,66.67
+MR01646,2024,Summer,France,China,Asia,Canoe Sprint,Rowing,5,2,0,0,2,8.7179,40.0
+MR01647,2024,Winter,France,China,Asia,Cross-Country Skiing,Winter Snow Sports,5,1,0,1,2,8.7179,40.0
+MR01648,2024,Summer,France,China,Asia,Diving,Aquatics,5,0,3,0,3,8.7179,60.0
+MR01649,2024,Summer,France,China,Asia,Equestrian,Individual Skill & Endurance,4,0,1,0,1,8.7179,25.0
+MR01650,2024,Summer,France,China,Asia,Fencing,Combat Sports,4,0,1,0,1,8.7179,25.0
+MR01651,2024,Summer,France,China,Asia,Field Hockey,Team Sports,15,0,1,0,1,8.7179,6.67
+MR01652,2024,Winter,France,China,Asia,Figure Skating,Winter Ice Sports,3,0,1,1,2,8.7179,66.67
+MR01653,2024,Winter,France,China,Asia,Freestyle Skiing,Winter Snow Sports,4,0,1,0,1,8.7179,25.0
+MR01654,2024,Summer,France,China,Asia,Road Cycling,Cycling,5,0,1,0,1,8.7179,20.0
+MR01655,2024,Summer,France,China,Asia,Rowing,Rowing,15,1,1,0,2,8.7179,13.33
+MR01656,2024,Summer,France,China,Asia,Shooting,Shooting,4,0,1,0,1,8.7179,25.0
+MR01657,2024,Winter,France,China,Asia,Snowboard,Winter Snow Sports,6,0,1,0,1,8.7179,16.67
+MR01658,2024,Winter,France,China,Asia,Speed Skating,Winter Ice Sports,5,1,0,0,1,8.7179,20.0
+MR01659,2024,Summer,France,China,Asia,Swimming,Aquatics,11,2,4,1,7,8.7179,63.64
+MR01660,2024,Summer,France,China,Asia,Table Tennis,Racquet Sports,5,1,0,1,2,8.7179,40.0
+MR01661,2024,Summer,France,China,Asia,Tennis,Racquet Sports,4,1,0,0,1,8.7179,25.0
+MR01662,2024,Summer,France,China,Asia,Track & Field,Athletics,12,5,5,1,11,8.7179,91.67
+MR01663,2024,Summer,France,China,Asia,Track Cycling,Cycling,8,0,1,1,2,8.7179,25.0
+MR01664,2024,Summer,France,China,Asia,Wrestling,Combat Sports,5,1,2,0,3,8.7179,60.0
+MR01665,2024,Summer,France,Chinese Taipei,Asia,BMX,Cycling,1,1,0,0,1,13.4996,100.0
+MR01666,2024,Summer,France,Chinese Taipei,Asia,Weightlifting,Individual Skill & Endurance,1,0,1,0,1,13.4996,100.0
+MR01667,2024,Summer,France,Colombia,South America,Equestrian,Individual Skill & Endurance,2,1,0,0,1,12.7233,50.0
+MR01668,2024,Summer,France,Colombia,South America,Swimming,Aquatics,6,0,0,1,1,12.7233,16.67
+MR01669,2024,Summer,France,Czech Republic,Europe,Rhythmic Gymnastics,Gymnastics,3,0,0,1,1,7.0759,33.33
+MR01670,2024,Summer,France,Czech Republic,Europe,Shooting,Shooting,1,0,1,0,1,7.0759,100.0
+MR01671,2024,Summer,France,Czech Republic,Europe,Swimming,Aquatics,5,0,1,0,1,7.0759,20.0
+MR01672,2024,Winter,France,Denmark,Europe,Figure Skating,Winter Ice Sports,2,0,0,1,1,18.8153,50.0
+MR01673,2024,Summer,France,Dominican Republic,North America,Swimming,Aquatics,4,0,0,1,1,11.9892,25.0
+MR01674,2024,Summer,France,Ecuador,South America,Swimming,Aquatics,5,1,0,0,1,14.0379,20.0
+MR01675,2024,Summer,France,Egypt,Africa,Road Cycling,Cycling,3,1,0,0,1,12.3521,33.33
+MR01676,2024,Summer,France,Ethiopia,Africa,Track Cycling,Cycling,2,0,0,1,1,5.1915,50.0
+MR01677,2024,Winter,France,Finland,Europe,Alpine Skiing,Winter Snow Sports,3,0,1,0,1,7.4132,33.33
+MR01678,2024,Summer,France,Finland,Europe,Swimming,Aquatics,5,0,0,1,1,7.4132,20.0
+MR01679,2024,Summer,France,France,Europe,Archery,Shooting,2,0,1,0,1,6.7858,50.0
+MR01680,2024,Summer,France,France,Europe,Artistic Gymnastics,Gymnastics,6,0,0,1,1,6.7858,16.67
+MR01681,2024,Summer,France,France,Europe,BMX,Cycling,2,0,1,0,1,6.7858,50.0
+MR01682,2024,Summer,France,France,Europe,Boxing,Combat Sports,3,0,2,0,2,6.7858,66.67
+MR01683,2024,Winter,France,France,Europe,Cross-Country Skiing,Winter Snow Sports,5,0,0,2,2,6.7858,40.0
+MR01684,2024,Summer,France,France,Europe,Fencing,Combat Sports,4,3,1,1,5,6.7858,100.0
+MR01685,2024,Summer,France,France,Europe,Field Hockey,Team Sports,15,0,1,0,1,6.7858,6.67
+MR01686,2024,Summer,France,France,Europe,Handball,Team Sports,13,1,0,0,1,6.7858,7.69
+MR01687,2024,Summer,France,France,Europe,Marathon,Athletics,2,0,1,0,1,6.7858,50.0
+MR01688,2024,Summer,France,France,Europe,Road Cycling,Cycling,4,0,1,0,1,6.7858,25.0
+MR01689,2024,Summer,France,France,Europe,Rowing,Rowing,7,0,0,1,1,6.7858,14.29
+MR01690,2024,Summer,France,France,Europe,Sailing,Individual Skill & Endurance,3,0,0,1,1,6.7858,33.33
+MR01691,2024,Winter,France,France,Europe,Speed Skating,Winter Ice Sports,6,1,0,0,1,6.7858,16.67
+MR01692,2024,Summer,France,France,Europe,Swimming,Aquatics,8,2,0,2,4,6.7858,50.0
+MR01693,2024,Summer,France,France,Europe,Taekwondo,Combat Sports,4,2,0,0,2,6.7858,50.0
+MR01694,2024,Summer,France,France,Europe,Track & Field,Athletics,12,0,0,1,1,6.7858,8.33
+MR01695,2024,Summer,France,France,Europe,Wrestling,Combat Sports,5,1,0,0,1,6.7858,20.0
+MR01696,2024,Summer,France,Georgia,Europe/Asia,Artistic Gymnastics,Gymnastics,3,0,1,0,1,3.0241,33.33
+MR01697,2024,Winter,France,Germany,Europe,Biathlon,Winter Snow Sports,5,0,1,0,1,13.0409,20.0
+MR01698,2024,Summer,France,Germany,Europe,Diving,Aquatics,3,1,1,0,2,13.0409,66.67
+MR01699,2024,Winter,France,Germany,Europe,Freestyle Skiing,Winter Snow Sports,3,1,0,0,1,13.0409,33.33
+MR01700,2024,Summer,France,Germany,Europe,Rowing,Rowing,10,0,0,1,1,13.0409,10.0
+MR01701,2024,Winter,France,Germany,Europe,Ski Jumping,Winter Snow Sports,4,0,1,0,1,13.0409,25.0
+MR01702,2024,Summer,France,Germany,Europe,Swimming,Aquatics,8,2,2,3,7,13.0409,87.5
+MR01703,2024,Summer,France,Germany,Europe,Table Tennis,Racquet Sports,4,1,0,0,1,13.0409,25.0
+MR01704,2024,Summer,France,Germany,Europe,Track & Field,Athletics,12,0,1,0,1,13.0409,8.33
+MR01705,2024,Summer,France,Germany,Europe,Wrestling,Combat Sports,5,0,0,1,1,13.0409,20.0
+MR01706,2024,Summer,France,Great Britain,Europe,BMX,Cycling,2,1,0,0,1,13.1532,50.0
+MR01707,2024,Summer,France,Great Britain,Europe,Boxing,Combat Sports,4,1,0,0,1,13.1532,25.0
+MR01708,2024,Summer,France,Great Britain,Europe,Diving,Aquatics,2,0,1,0,1,13.1532,50.0
+MR01709,2024,Summer,France,Great Britain,Europe,Rowing,Rowing,12,1,0,0,1,13.1532,8.33
+MR01710,2024,Summer,France,Great Britain,Europe,Sailing,Individual Skill & Endurance,4,2,1,2,5,13.1532,100.0
+MR01711,2024,Summer,France,Great Britain,Europe,Swimming,Aquatics,7,0,2,0,2,13.1532,28.57
+MR01712,2024,Summer,France,Great Britain,Europe,Taekwondo,Combat Sports,3,1,0,0,1,13.1532,33.33
+MR01713,2024,Summer,France,Great Britain,Europe,Track & Field,Athletics,9,1,0,0,1,13.1532,11.11
+MR01714,2024,Summer,France,India,Asia,Shooting,Shooting,1,0,0,1,1,12.1886,100.0
+MR01715,2024,Summer,France,India,Asia,Swimming,Aquatics,5,1,1,0,2,12.1886,40.0
+MR01716,2024,Summer,France,Iran,Asia,Artistic Swimming,Aquatics,7,0,0,1,1,8.123,14.29
+MR01717,2024,Summer,France,Iran,Asia,Rowing,Rowing,9,0,0,1,1,8.123,11.11
+MR01718,2024,Summer,France,Iran,Asia,Wrestling,Combat Sports,4,0,1,0,1,8.123,25.0
+MR01719,2024,Summer,France,Italy,Europe,Artistic Gymnastics,Gymnastics,3,0,0,1,1,5.3607,33.33
+MR01720,2024,Summer,France,Italy,Europe,Badminton,Racquet Sports,4,0,1,0,1,5.3607,25.0
+MR01721,2024,Winter,France,Italy,Europe,Biathlon,Winter Snow Sports,5,2,0,0,2,5.3607,40.0
+MR01722,2024,Summer,France,Italy,Europe,Canoe Sprint,Rowing,4,1,0,0,1,5.3607,25.0
+MR01723,2024,Summer,France,Italy,Europe,Diving,Aquatics,3,1,0,1,2,5.3607,66.67
+MR01724,2024,Summer,France,Italy,Europe,Handball,Team Sports,14,1,0,0,1,5.3607,7.14
+MR01725,2024,Summer,France,Italy,Europe,Judo,Combat Sports,5,0,1,0,1,5.3607,20.0
+MR01726,2024,Summer,France,Italy,Europe,Modern Pentathlon,Shooting,2,0,1,0,1,5.3607,50.0
+MR01727,2024,Summer,France,Italy,Europe,Road Cycling,Cycling,5,1,0,0,1,5.3607,20.0
+MR01728,2024,Summer,France,Italy,Europe,Rowing,Rowing,8,1,0,0,1,5.3607,12.5
+MR01729,2024,Summer,France,Italy,Europe,Sailing,Individual Skill & Endurance,3,0,1,0,1,5.3607,33.33
+MR01730,2024,Summer,France,Italy,Europe,Shooting,Shooting,2,1,0,1,2,5.3607,100.0
+MR01731,2024,Summer,France,Italy,Europe,Trampoline,Gymnastics,2,1,0,0,1,5.3607,50.0
+MR01732,2024,Summer,France,Italy,Europe,Volleyball,Team Sports,12,0,1,0,1,5.3607,8.33
+MR01733,2024,Summer,France,Jamaica,North America,Shooting,Shooting,2,0,1,0,1,8.1559,50.0
+MR01734,2024,Summer,France,Japan,Asia,Artistic Gymnastics,Gymnastics,3,0,1,1,2,19.1135,66.67
+MR01735,2024,Summer,France,Japan,Asia,Boxing,Combat Sports,3,2,0,0,2,19.1135,66.67
+MR01736,2024,Summer,France,Japan,Asia,Equestrian,Individual Skill & Endurance,3,1,0,0,1,19.1135,33.33
+MR01737,2024,Summer,France,Japan,Asia,Fencing,Combat Sports,5,0,1,0,1,19.1135,20.0
+MR01738,2024,Summer,France,Japan,Asia,Judo,Combat Sports,6,4,0,2,6,19.1135,100.0
+MR01739,2024,Summer,France,Japan,Asia,Marathon,Athletics,3,0,1,2,3,19.1135,100.0
+MR01740,2024,Summer,France,Japan,Asia,Rowing,Rowing,11,0,0,1,1,19.1135,9.09
+MR01741,2024,Summer,France,Japan,Asia,Skateboarding,Individual Skill & Endurance,2,0,0,2,2,19.1135,100.0
+MR01742,2024,Summer,France,Japan,Asia,Swimming,Aquatics,9,3,3,4,10,19.1135,100.0
+MR01743,2024,Summer,France,Japan,Asia,Taekwondo,Combat Sports,3,0,0,1,1,19.1135,33.33
+MR01744,2024,Summer,France,Japan,Asia,Track & Field,Athletics,12,1,1,3,5,19.1135,41.67
+MR01745,2024,Summer,France,Japan,Asia,Wrestling,Combat Sports,7,0,1,0,1,19.1135,14.29
+MR01746,2024,Summer,France,Kazakhstan,Europe/Asia,Rhythmic Gymnastics,Gymnastics,2,1,0,0,1,31.4488,50.0
+MR01747,2024,Summer,France,Kenya,Africa,Track & Field,Athletics,7,0,0,1,1,13.6443,14.29
+MR01748,2024,Summer,France,Mexico,North America,Field Hockey,Team Sports,15,1,0,0,1,20.5952,6.67
+MR01749,2024,Summer,France,Mexico,North America,Road Cycling,Cycling,3,0,0,1,1,20.5952,33.33
+MR01750,2024,Summer,France,Netherlands,Europe,Diving,Aquatics,3,0,1,0,1,7.8148,33.33
+MR01751,2024,Summer,France,Netherlands,Europe,Rowing,Rowing,7,0,1,2,3,7.8148,42.86
+MR01752,2024,Summer,France,Netherlands,Europe,Swimming,Aquatics,7,0,0,1,1,7.8148,14.29
+MR01753,2024,Summer,France,Netherlands,Europe,Track & Field,Athletics,10,0,0,1,1,7.8148,10.0
+MR01754,2024,Summer,France,Netherlands,Europe,Track Cycling,Cycling,3,0,0,1,1,7.8148,33.33
+MR01755,2024,Summer,France,Nigeria,Africa,Boxing,Combat Sports,3,0,0,1,1,17.3315,33.33
+MR01756,2024,Summer,France,North Korea,Asia,Swimming,Aquatics,4,0,1,0,1,12.0048,25.0
+MR01757,2024,Summer,France,Norway,Europe,Artistic Gymnastics,Gymnastics,4,0,1,0,1,5.8521,25.0
+MR01758,2024,Winter,France,Norway,Europe,Biathlon,Winter Snow Sports,5,1,0,0,1,5.8521,20.0
+MR01759,2024,Summer,France,Norway,Europe,Boxing,Combat Sports,4,0,0,1,1,5.8521,25.0
+MR01760,2024,Summer,France,Norway,Europe,Fencing,Combat Sports,3,1,0,0,1,5.8521,33.33
+MR01761,2024,Winter,France,Norway,Europe,Speed Skating,Winter Ice Sports,4,0,1,0,1,5.8521,25.0
+MR01762,2024,Summer,France,Norway,Europe,Swimming,Aquatics,9,1,0,0,1,5.8521,11.11
+MR01763,2024,Winter,France,Poland,Europe,Alpine Skiing,Winter Snow Sports,3,1,0,0,1,20.4453,33.33
+MR01764,2024,Summer,France,Poland,Europe,Canoe Sprint,Rowing,4,0,0,1,1,20.4453,25.0
+MR01765,2024,Summer,France,Romania,Europe,Boxing,Combat Sports,2,1,0,0,1,8.6512,50.0
+MR01766,2024,Summer,France,Romania,Europe,Rowing,Rowing,5,1,0,1,2,8.6512,40.0
+MR01767,2024,Summer,France,Romania,Europe,Weightlifting,Individual Skill & Endurance,1,1,0,0,1,8.6512,100.0
+MR01768,2024,Winter,France,Russia,Europe/Asia,Alpine Skiing,Winter Snow Sports,4,0,0,1,1,10.9363,25.0
+MR01769,2024,Summer,France,Russia,Europe/Asia,Basketball,Team Sports,12,0,1,0,1,10.9363,8.33
+MR01770,2024,Winter,France,Russia,Europe/Asia,Biathlon,Winter Snow Sports,5,1,0,0,1,10.9363,20.0
+MR01771,2024,Summer,France,Russia,Europe/Asia,Canoe Sprint,Rowing,6,0,1,0,1,10.9363,16.67
+MR01772,2024,Winter,France,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,4,1,3,0,4,10.9363,100.0
+MR01773,2024,Summer,France,Russia,Europe/Asia,Rhythmic Gymnastics,Gymnastics,3,1,0,1,2,10.9363,66.67
+MR01774,2024,Summer,France,Russia,Europe/Asia,Shooting,Shooting,2,0,1,0,1,10.9363,50.0
+MR01775,2024,Summer,France,Russia,Europe/Asia,Swimming,Aquatics,7,0,0,1,1,10.9363,14.29
+MR01776,2024,Summer,France,Russia,Europe/Asia,Track & Field,Athletics,9,1,1,1,3,10.9363,33.33
+MR01777,2024,Summer,France,Russia,Europe/Asia,Wrestling,Combat Sports,5,0,1,0,1,10.9363,20.0
+MR01778,2024,Summer,France,Serbia,Europe,Rowing,Rowing,7,0,1,0,1,9.0378,14.29
+MR01779,2024,Summer,France,Serbia,Europe,Track & Field,Athletics,4,1,1,0,2,9.0378,50.0
+MR01780,2024,Summer,France,Slovakia,Europe,Track & Field,Athletics,6,0,1,0,1,2.0306,16.67
+MR01781,2024,Summer,France,Slovakia,Europe,Wrestling,Combat Sports,3,1,0,0,1,2.0306,33.33
+MR01782,2024,Summer,France,South Africa,Africa,Artistic Gymnastics,Gymnastics,3,0,1,0,1,3.0751,33.33
+MR01783,2024,Summer,France,South Africa,Africa,Beach Volleyball,Team Sports,4,0,1,0,1,3.0751,25.0
+MR01784,2024,Summer,France,South Africa,Africa,Swimming,Aquatics,6,1,0,0,1,3.0751,16.67
+MR01785,2024,Summer,France,South Africa,Africa,Track & Field,Athletics,7,0,1,0,1,3.0751,14.29
+MR01786,2024,Summer,France,South Africa,Africa,Wrestling,Combat Sports,3,0,1,0,1,3.0751,33.33
+MR01787,2024,Summer,France,South Korea,Asia,Archery,Shooting,2,0,1,1,2,8.4995,100.0
+MR01788,2024,Summer,France,South Korea,Asia,Football,Team Sports,16,1,0,0,1,8.4995,6.25
+MR01789,2024,Winter,France,South Korea,Asia,Freestyle Skiing,Winter Snow Sports,3,1,0,0,1,8.4995,33.33
+MR01790,2024,Summer,France,South Korea,Asia,Handball,Team Sports,27,0,1,1,2,8.4995,7.41
+MR01791,2024,Summer,France,South Korea,Asia,Judo,Combat Sports,5,0,1,0,1,8.4995,20.0
+MR01792,2024,Summer,France,South Korea,Asia,Modern Pentathlon,Shooting,2,0,0,1,1,8.4995,50.0
+MR01793,2024,Summer,France,South Korea,Asia,Rowing,Rowing,11,1,0,2,3,8.4995,27.27
+MR01794,2024,Winter,France,South Korea,Asia,Snowboard,Winter Snow Sports,4,1,0,0,1,8.4995,25.0
+MR01795,2024,Winter,France,South Korea,Asia,Speed Skating,Winter Ice Sports,5,1,0,0,1,8.4995,20.0
+MR01796,2024,Summer,France,South Korea,Asia,Swimming,Aquatics,11,0,3,0,3,8.4995,27.27
+MR01797,2024,Summer,France,South Korea,Asia,Track & Field,Athletics,7,2,0,0,2,8.4995,28.57
+MR01798,2024,Summer,France,South Korea,Asia,Water Polo,Aquatics,24,1,0,1,2,8.4995,8.33
+MR01799,2024,Summer,France,Spain,Europe,Artistic Gymnastics,Gymnastics,4,0,0,1,1,7.185,25.0
+MR01800,2024,Summer,France,Spain,Europe,Boxing,Combat Sports,3,1,0,0,1,7.185,33.33
+MR01801,2024,Summer,France,Spain,Europe,Judo,Combat Sports,5,1,1,0,2,7.185,40.0
+MR01802,2024,Summer,France,Spain,Europe,Sailing,Individual Skill & Endurance,2,0,0,1,1,7.185,50.0
+MR01803,2024,Summer,France,Spain,Europe,Tennis,Racquet Sports,2,0,1,0,1,7.185,50.0
+MR01804,2024,Summer,France,Spain,Europe,Track & Field,Athletics,8,1,2,0,3,7.185,37.5
+MR01805,2024,Summer,France,Spain,Europe,Track Cycling,Cycling,3,0,1,1,2,7.185,66.67
+MR01806,2024,Summer,France,Spain,Europe,Water Polo,Aquatics,13,0,0,1,1,7.185,7.69
+MR01807,2024,Winter,France,Sweden,Europe,Freestyle Skiing,Winter Snow Sports,3,1,0,0,1,28.6751,33.33
+MR01808,2024,Summer,France,Turkey,Europe/Asia,Artistic Gymnastics,Gymnastics,3,0,1,0,1,11.1103,33.33
+MR01809,2024,Summer,France,Turkey,Europe/Asia,Canoe Sprint,Rowing,4,0,0,1,1,11.1103,25.0
+MR01810,2024,Winter,France,Ukraine,Europe,Cross-Country Skiing,Winter Snow Sports,4,0,0,1,1,8.5404,25.0
+MR01811,2024,Summer,France,Ukraine,Europe,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,8.5404,50.0
+MR01812,2024,Summer,France,Ukraine,Europe,Wrestling,Combat Sports,4,0,0,1,1,8.5404,25.0
+MR01813,2024,Winter,France,United States,North America,Alpine Skiing,Winter Snow Sports,4,1,0,0,1,11.8616,25.0
+MR01814,2024,Summer,France,United States,North America,Artistic Gymnastics,Gymnastics,6,1,3,1,5,11.8616,83.33
+MR01815,2024,Summer,France,United States,North America,Basketball,Team Sports,22,0,2,0,2,11.8616,9.09
+MR01816,2024,Summer,France,United States,North America,Beach Volleyball,Team Sports,4,1,0,0,1,11.8616,25.0
+MR01817,2024,Winter,France,United States,North America,Biathlon,Winter Snow Sports,6,1,0,0,1,11.8616,16.67
+MR01818,2024,Summer,France,United States,North America,Boxing,Combat Sports,4,1,0,0,1,11.8616,25.0
+MR01819,2024,Summer,France,United States,North America,Canoe Slalom,Rowing,3,0,0,1,1,11.8616,33.33
+MR01820,2024,Summer,France,United States,North America,Canoe Sprint,Rowing,5,1,0,0,1,11.8616,20.0
+MR01821,2024,Summer,France,United States,North America,Equestrian,Individual Skill & Endurance,6,2,0,0,2,11.8616,33.33
+MR01822,2024,Summer,France,United States,North America,Field Hockey,Team Sports,15,0,0,1,1,11.8616,6.67
+MR01823,2024,Summer,France,United States,North America,Football,Team Sports,18,0,1,0,1,11.8616,5.56
+MR01824,2024,Summer,France,United States,North America,Judo,Combat Sports,10,0,0,1,1,11.8616,10.0
+MR01825,2024,Summer,France,United States,North America,Road Cycling,Cycling,6,1,0,0,1,11.8616,16.67
+MR01826,2024,Summer,France,United States,North America,Shooting,Shooting,4,1,1,0,2,11.8616,50.0
+MR01827,2024,Winter,France,United States,North America,Snowboard,Winter Snow Sports,3,1,0,0,1,11.8616,33.33
+MR01828,2024,Winter,France,United States,North America,Speed Skating,Winter Ice Sports,6,0,0,1,1,11.8616,16.67
+MR01829,2024,Summer,France,United States,North America,Swimming,Aquatics,8,1,3,0,4,11.8616,50.0
+MR01830,2024,Summer,France,United States,North America,Track & Field,Athletics,10,1,0,0,1,11.8616,10.0
+MR01831,2024,Summer,France,United States,North America,Track Cycling,Cycling,4,0,0,1,1,11.8616,25.0
+MR01832,2024,Summer,France,United States,North America,Triathlon,Individual Skill & Endurance,4,0,1,0,1,11.8616,25.0
+MR01833,2024,Summer,France,United States,North America,Weightlifting,Individual Skill & Endurance,3,2,0,2,4,11.8616,100.0
+MR01834,2024,Summer,France,United States,North America,Wrestling,Combat Sports,7,0,1,0,1,11.8616,14.29
+MR01835,2024,Summer,France,Uzbekistan,Asia,Boxing,Combat Sports,2,1,0,0,1,17.9686,50.0
+MR01836,2026,Summer,Italy,Argentina,South America,Track & Field,Athletics,6,0,1,0,1,51.356,16.67
+MR01837,2026,Summer,Italy,Australia,Oceania,Boxing,Combat Sports,4,1,0,0,1,6.915,25.0
+MR01838,2026,Summer,Italy,Australia,Oceania,Canoe Slalom,Rowing,2,1,0,0,1,6.915,50.0
+MR01839,2026,Summer,Italy,Australia,Oceania,Diving,Aquatics,3,1,1,0,2,6.915,66.67
+MR01840,2026,Summer,Italy,Australia,Oceania,Rhythmic Gymnastics,Gymnastics,4,0,0,1,1,6.915,25.0
+MR01841,2026,Summer,Italy,Australia,Oceania,Road Cycling,Cycling,3,0,0,1,1,6.915,33.33
+MR01842,2026,Summer,Italy,Australia,Oceania,Rowing,Rowing,10,0,1,1,2,6.915,20.0
+MR01843,2026,Summer,Italy,Australia,Oceania,Sailing,Individual Skill & Endurance,4,1,0,0,1,6.915,25.0
+MR01844,2026,Summer,Italy,Australia,Oceania,Swimming,Aquatics,7,0,1,0,1,6.915,14.29
+MR01845,2026,Summer,Italy,Australia,Oceania,Track & Field,Athletics,11,1,0,1,2,6.915,18.18
+MR01846,2026,Summer,Italy,Australia,Oceania,Water Polo,Aquatics,24,1,0,1,2,6.915,8.33
+MR01847,2026,Summer,Italy,Azerbaijan,Europe/Asia,Badminton,Racquet Sports,3,1,0,0,1,14.9767,33.33
+MR01848,2026,Summer,Italy,Belgium,Europe,Track & Field,Athletics,5,0,1,0,1,30.6578,20.0
+MR01849,2026,Summer,Italy,Brazil,South America,Artistic Gymnastics,Gymnastics,5,0,1,0,1,14.9915,20.0
+MR01850,2026,Summer,Italy,Brazil,South America,Track & Field,Athletics,9,1,0,0,1,14.9915,11.11
+MR01851,2026,Summer,Italy,Canada,North America,Artistic Gymnastics,Gymnastics,3,1,0,0,1,17.3725,33.33
+MR01852,2026,Winter,Italy,Canada,North America,Biathlon,Winter Snow Sports,3,0,0,2,2,17.3725,66.67
+MR01853,2026,Summer,Italy,Canada,North America,Fencing,Combat Sports,4,0,1,0,1,17.3725,25.0
+MR01854,2026,Winter,Italy,Canada,North America,Freestyle Skiing,Winter Snow Sports,3,0,1,0,1,17.3725,33.33
+MR01855,2026,Summer,Italy,Canada,North America,Judo,Combat Sports,5,1,1,0,2,17.3725,40.0
+MR01856,2026,Summer,Italy,Canada,North America,Track Cycling,Cycling,5,0,1,0,1,17.3725,20.0
+MR01857,2026,Summer,Italy,Chile,South America,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,11.8717,50.0
+MR01858,2026,Winter,Italy,China,Asia,Alpine Skiing,Winter Snow Sports,5,1,0,0,1,15.4162,20.0
+MR01859,2026,Summer,Italy,China,Asia,Badminton,Racquet Sports,5,1,1,0,2,15.4162,40.0
+MR01860,2026,Summer,Italy,China,Asia,Canoe Slalom,Rowing,3,1,0,0,1,15.4162,33.33
+MR01861,2026,Summer,Italy,China,Asia,Canoe Sprint,Rowing,8,0,1,0,1,15.4162,12.5
+MR01862,2026,Summer,Italy,China,Asia,Diving,Aquatics,5,0,1,0,1,15.4162,20.0
+MR01863,2026,Summer,Italy,China,Asia,Equestrian,Individual Skill & Endurance,3,1,0,0,1,15.4162,33.33
+MR01864,2026,Summer,Italy,China,Asia,Judo,Combat Sports,7,0,1,0,1,15.4162,14.29
+MR01865,2026,Summer,Italy,China,Asia,Rhythmic Gymnastics,Gymnastics,5,0,1,0,1,15.4162,20.0
+MR01866,2026,Summer,Italy,China,Asia,Road Cycling,Cycling,7,0,1,0,1,15.4162,14.29
+MR01867,2026,Winter,Italy,China,Asia,Speed Skating,Winter Ice Sports,8,0,1,0,1,15.4162,12.5
+MR01868,2026,Summer,Italy,China,Asia,Swimming,Aquatics,12,1,0,1,2,15.4162,16.67
+MR01869,2026,Summer,Italy,China,Asia,Table Tennis,Racquet Sports,3,1,0,0,1,15.4162,33.33
+MR01870,2026,Summer,Italy,China,Asia,Track & Field,Athletics,11,10,1,1,12,15.4162,100.0
+MR01871,2026,Summer,Italy,China,Asia,Water Polo,Aquatics,12,0,0,1,1,15.4162,8.33
+MR01872,2026,Summer,Italy,China,Asia,Wrestling,Combat Sports,5,0,1,0,1,15.4162,20.0
+MR01873,2026,Summer,Italy,Chinese Taipei,Asia,Artistic Gymnastics,Gymnastics,3,0,1,0,1,5.8313,33.33
+MR01874,2026,Summer,Italy,Chinese Taipei,Asia,Weightlifting,Individual Skill & Endurance,1,0,0,1,1,5.8313,100.0
+MR01875,2026,Summer,Italy,Colombia,South America,Artistic Gymnastics,Gymnastics,4,1,0,0,1,26.202,25.0
+MR01876,2026,Summer,Italy,Cuba,North America,Boxing,Combat Sports,3,0,1,0,1,6.8647,33.33
+MR01877,2026,Summer,Italy,Cuba,North America,Fencing,Combat Sports,4,0,0,1,1,6.8647,25.0
+MR01878,2026,Summer,Italy,Cuba,North America,Swimming,Aquatics,5,1,0,0,1,6.8647,20.0
+MR01879,2026,Summer,Italy,Cuba,North America,Table Tennis,Racquet Sports,2,0,1,0,1,6.8647,50.0
+MR01880,2026,Winter,Italy,Czech Republic,Europe,Biathlon,Winter Snow Sports,2,0,0,1,1,5.9685,50.0
+MR01881,2026,Winter,Italy,Czech Republic,Europe,Figure Skating,Winter Ice Sports,3,0,0,1,1,5.9685,33.33
+MR01882,2026,Summer,Italy,Czech Republic,Europe,Shooting,Shooting,2,0,1,0,1,5.9685,50.0
+MR01883,2026,Summer,Italy,Czech Republic,Europe,Track & Field,Athletics,5,0,0,1,1,5.9685,20.0
+MR01884,2026,Summer,Italy,Denmark,Europe,Track & Field,Athletics,8,0,1,0,1,32.6194,12.5
+MR01885,2026,Summer,Italy,Ethiopia,Africa,Shooting,Shooting,1,1,0,0,1,3.6814,100.0
+MR01886,2026,Summer,Italy,Ethiopia,Africa,Water Polo,Aquatics,12,1,0,0,1,3.6814,8.33
+MR01887,2026,Summer,Italy,Finland,Europe,Track & Field,Athletics,6,1,0,0,1,20.5991,16.67
+MR01888,2026,Winter,Italy,France,Europe,Alpine Skiing,Winter Snow Sports,4,1,0,0,1,12.7202,25.0
+MR01889,2026,Summer,Italy,France,Europe,Fencing,Combat Sports,4,1,0,1,2,12.7202,50.0
+MR01890,2026,Summer,Italy,France,Europe,Judo,Combat Sports,5,0,1,0,1,12.7202,20.0
+MR01891,2026,Winter,Italy,France,Europe,Speed Skating,Winter Ice Sports,5,1,0,0,1,12.7202,20.0
+MR01892,2026,Summer,Italy,France,Europe,Swimming,Aquatics,8,0,0,2,2,12.7202,25.0
+MR01893,2026,Summer,Italy,France,Europe,Taekwondo,Combat Sports,3,1,0,0,1,12.7202,33.33
+MR01894,2026,Summer,Italy,France,Europe,Wrestling,Combat Sports,3,0,1,0,1,12.7202,33.33
+MR01895,2026,Summer,Italy,Georgia,Europe/Asia,Handball,Team Sports,13,0,0,1,1,1.5955,7.69
+MR01896,2026,Summer,Italy,Georgia,Europe/Asia,Rowing,Rowing,6,0,1,0,1,1.5955,16.67
+MR01897,2026,Summer,Italy,Georgia,Europe/Asia,Swimming,Aquatics,5,1,0,0,1,1.5955,20.0
+MR01898,2026,Summer,Italy,Germany,Europe,Canoe Sprint,Rowing,6,1,0,0,1,14.4026,16.67
+MR01899,2026,Summer,Italy,Germany,Europe,Field Hockey,Team Sports,15,0,1,0,1,14.4026,6.67
+MR01900,2026,Summer,Italy,Germany,Europe,Judo,Combat Sports,6,1,0,0,1,14.4026,16.67
+MR01901,2026,Summer,Italy,Germany,Europe,Rowing,Rowing,9,0,1,1,2,14.4026,22.22
+MR01902,2026,Summer,Italy,Germany,Europe,Swimming,Aquatics,9,4,1,0,5,14.4026,55.56
+MR01903,2026,Summer,Italy,Germany,Europe,Tennis,Racquet Sports,3,0,1,0,1,14.4026,33.33
+MR01904,2026,Summer,Italy,Germany,Europe,Track & Field,Athletics,11,0,0,1,1,14.4026,9.09
+MR01905,2026,Summer,Italy,Germany,Europe,Weightlifting,Individual Skill & Endurance,3,0,0,1,1,14.4026,33.33
+MR01906,2026,Summer,Italy,Great Britain,Europe,BMX,Cycling,2,1,1,0,2,19.4113,100.0
+MR01907,2026,Summer,Italy,Great Britain,Europe,Fencing,Combat Sports,6,0,1,0,1,19.4113,16.67
+MR01908,2026,Summer,Italy,Great Britain,Europe,Golf,Individual Skill & Endurance,3,1,0,0,1,19.4113,33.33
+MR01909,2026,Summer,Italy,Great Britain,Europe,Sailing,Individual Skill & Endurance,4,2,0,0,2,19.4113,50.0
+MR01910,2026,Summer,Italy,Great Britain,Europe,Shooting,Shooting,2,1,0,0,1,19.4113,50.0
+MR01911,2026,Summer,Italy,Great Britain,Europe,Track & Field,Athletics,11,0,0,1,1,19.4113,9.09
+MR01912,2026,Summer,Italy,Great Britain,Europe,Volleyball,Team Sports,11,1,0,0,1,19.4113,9.09
+MR01913,2026,Summer,Italy,Hungary,Europe,Canoe Sprint,Rowing,3,1,0,0,1,13.2462,33.33
+MR01914,2026,Summer,Italy,Hungary,Europe,Sailing,Individual Skill & Endurance,2,0,0,1,1,13.2462,50.0
+MR01915,2026,Summer,Italy,Hungary,Europe,Weightlifting,Individual Skill & Endurance,2,0,1,0,1,13.2462,50.0
+MR01916,2026,Summer,Italy,India,Asia,Track & Field,Athletics,8,0,1,1,2,23.5229,25.0
+MR01917,2026,Summer,Italy,Indonesia,Asia,Taekwondo,Combat Sports,2,0,0,1,1,13.6697,50.0
+MR01918,2026,Summer,Italy,Iran,Asia,Artistic Gymnastics,Gymnastics,3,0,0,1,1,7.0564,33.33
+MR01919,2026,Summer,Italy,Iran,Asia,Canoe Sprint,Rowing,2,0,0,1,1,7.0564,50.0
+MR01920,2026,Summer,Italy,Iran,Asia,Handball,Team Sports,13,0,0,1,1,7.0564,7.69
+MR01921,2026,Winter,Italy,Italy,Europe,Alpine Skiing,Winter Snow Sports,4,0,1,0,1,5.3218,25.0
+MR01922,2026,Summer,Italy,Italy,Europe,Artistic Gymnastics,Gymnastics,3,0,1,0,1,5.3218,33.33
+MR01923,2026,Summer,Italy,Italy,Europe,Canoe Sprint,Rowing,4,0,0,1,1,5.3218,25.0
+MR01924,2026,Summer,Italy,Italy,Europe,Diving,Aquatics,4,0,1,0,1,5.3218,25.0
+MR01925,2026,Summer,Italy,Italy,Europe,Equestrian,Individual Skill & Endurance,3,0,0,1,1,5.3218,33.33
+MR01926,2026,Summer,Italy,Italy,Europe,Fencing,Combat Sports,4,1,0,0,1,5.3218,25.0
+MR01927,2026,Summer,Italy,Italy,Europe,Golf,Individual Skill & Endurance,2,0,0,1,1,5.3218,50.0
+MR01928,2026,Summer,Italy,Italy,Europe,Judo,Combat Sports,4,2,2,0,4,5.3218,100.0
+MR01929,2026,Summer,Italy,Italy,Europe,Road Cycling,Cycling,4,1,0,0,1,5.3218,25.0
+MR01930,2026,Summer,Italy,Italy,Europe,Rowing,Rowing,9,0,1,1,2,5.3218,22.22
+MR01931,2026,Summer,Italy,Italy,Europe,Rugby Sevens,Team Sports,11,0,0,1,1,5.3218,9.09
+MR01932,2026,Summer,Italy,Italy,Europe,Sailing,Individual Skill & Endurance,2,1,0,0,1,5.3218,50.0
+MR01933,2026,Summer,Italy,Italy,Europe,Shooting,Shooting,2,1,0,0,1,5.3218,50.0
+MR01934,2026,Summer,Italy,Italy,Europe,Skateboarding,Individual Skill & Endurance,3,0,1,0,1,5.3218,33.33
+MR01935,2026,Winter,Italy,Italy,Europe,Snowboard,Winter Snow Sports,3,1,1,0,2,5.3218,66.67
+MR01936,2026,Summer,Italy,Italy,Europe,Swimming,Aquatics,10,2,0,1,3,5.3218,30.0
+MR01937,2026,Summer,Italy,Italy,Europe,Table Tennis,Racquet Sports,4,0,1,0,1,5.3218,25.0
+MR01938,2026,Summer,Italy,Italy,Europe,Trampoline,Gymnastics,2,0,0,1,1,5.3218,50.0
+MR01939,2026,Summer,Italy,Italy,Europe,Water Polo,Aquatics,12,0,1,0,1,5.3218,8.33
+MR01940,2026,Summer,Italy,Jamaica,North America,Track & Field,Athletics,8,1,0,0,1,16.9734,12.5
+MR01941,2026,Winter,Italy,Japan,Asia,Alpine Skiing,Winter Snow Sports,5,0,0,1,1,12.7466,20.0
+MR01942,2026,Summer,Italy,Japan,Asia,Canoe Slalom,Rowing,3,0,0,1,1,12.7466,33.33
+MR01943,2026,Summer,Italy,Japan,Asia,Canoe Sprint,Rowing,6,1,0,0,1,12.7466,16.67
+MR01944,2026,Winter,Italy,Japan,Asia,Cross-Country Skiing,Winter Snow Sports,6,0,1,0,1,12.7466,16.67
+MR01945,2026,Winter,Italy,Japan,Asia,Curling,Winter Ice Sports,5,0,0,1,1,12.7466,20.0
+MR01946,2026,Summer,Italy,Japan,Asia,Diving,Aquatics,5,2,0,0,2,12.7466,40.0
+MR01947,2026,Summer,Italy,Japan,Asia,Equestrian,Individual Skill & Endurance,3,1,1,0,2,12.7466,66.67
+MR01948,2026,Summer,Italy,Japan,Asia,Fencing,Combat Sports,5,1,0,0,1,12.7466,20.0
+MR01949,2026,Winter,Italy,Japan,Asia,Figure Skating,Winter Ice Sports,3,1,1,0,2,12.7466,66.67
+MR01950,2026,Summer,Italy,Japan,Asia,Handball,Team Sports,13,1,0,0,1,12.7466,7.69
+MR01951,2026,Summer,Italy,Japan,Asia,Judo,Combat Sports,5,1,1,0,2,12.7466,40.0
+MR01952,2026,Summer,Italy,Japan,Asia,Marathon,Athletics,2,1,0,0,1,12.7466,50.0
+MR01953,2026,Summer,Italy,Japan,Asia,Rhythmic Gymnastics,Gymnastics,3,1,0,0,1,12.7466,33.33
+MR01954,2026,Summer,Italy,Japan,Asia,Road Cycling,Cycling,4,0,0,1,1,12.7466,25.0
+MR01955,2026,Summer,Italy,Japan,Asia,Rowing,Rowing,13,1,0,0,1,12.7466,7.69
+MR01956,2026,Summer,Italy,Japan,Asia,Sailing,Individual Skill & Endurance,3,1,0,0,1,12.7466,33.33
+MR01957,2026,Summer,Italy,Japan,Asia,Skateboarding,Individual Skill & Endurance,3,0,0,1,1,12.7466,33.33
+MR01958,2026,Winter,Italy,Japan,Asia,Speed Skating,Winter Ice Sports,4,0,1,0,1,12.7466,25.0
+MR01959,2026,Summer,Italy,Japan,Asia,Swimming,Aquatics,9,3,1,2,6,12.7466,66.67
+MR01960,2026,Summer,Italy,Japan,Asia,Taekwondo,Combat Sports,4,0,1,0,1,12.7466,25.0
+MR01961,2026,Summer,Italy,Japan,Asia,Track & Field,Athletics,9,4,2,1,7,12.7466,77.78
+MR01962,2026,Summer,Italy,Japan,Asia,Wrestling,Combat Sports,6,0,1,2,3,12.7466,50.0
+MR01963,2026,Summer,Italy,Kenya,Africa,Canoe Sprint,Rowing,4,1,0,0,1,8.6946,25.0
+MR01964,2026,Summer,Italy,Kenya,Africa,Track & Field,Athletics,6,1,0,0,1,8.6946,16.67
+MR01965,2026,Summer,Italy,Mongolia,Asia,Artistic Swimming,Aquatics,8,0,1,0,1,8.0716,12.5
+MR01966,2026,Summer,Italy,Mongolia,Asia,Table Tennis,Racquet Sports,2,0,0,1,1,8.0716,50.0
+MR01967,2026,Summer,Italy,Morocco,Africa,Diving,Aquatics,2,1,0,0,1,9.7763,50.0
+MR01968,2026,Summer,Italy,Netherlands,Europe,Boxing,Combat Sports,4,1,0,0,1,17.3283,25.0
+MR01969,2026,Summer,Italy,Netherlands,Europe,Marathon,Athletics,2,0,1,0,1,17.3283,50.0
+MR01970,2026,Summer,Italy,Netherlands,Europe,Swimming,Aquatics,8,1,0,1,2,17.3283,25.0
+MR01971,2026,Summer,Italy,New Zealand,Oceania,Artistic Gymnastics,Gymnastics,3,0,1,0,1,6.5877,33.33
+MR01972,2026,Summer,Italy,New Zealand,Oceania,Golf,Individual Skill & Endurance,2,1,0,0,1,6.5877,50.0
+MR01973,2026,Summer,Italy,New Zealand,Oceania,Rhythmic Gymnastics,Gymnastics,3,0,0,1,1,6.5877,33.33
+MR01974,2026,Summer,Italy,New Zealand,Oceania,Shooting,Shooting,2,1,0,0,1,6.5877,50.0
+MR01975,2026,Summer,Italy,New Zealand,Oceania,Track & Field,Athletics,9,1,0,0,1,6.5877,11.11
+MR01976,2026,Summer,Italy,Norway,Europe,Rowing,Rowing,6,0,0,1,1,17.5616,16.67
+MR01977,2026,Summer,Italy,Norway,Europe,Track Cycling,Cycling,5,1,0,0,1,17.5616,20.0
+MR01978,2026,Summer,Italy,Norway,Europe,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,17.5616,50.0
+MR01979,2026,Summer,Italy,Poland,Europe,Swimming,Aquatics,7,0,0,1,1,24.1243,14.29
+MR01980,2026,Summer,Italy,Russia,Europe/Asia,Artistic Gymnastics,Gymnastics,3,0,0,1,1,24.5144,33.33
+MR01981,2026,Winter,Italy,Russia,Europe/Asia,Figure Skating,Winter Ice Sports,3,0,0,1,1,24.5144,33.33
+MR01982,2026,Summer,Italy,Russia,Europe/Asia,Rhythmic Gymnastics,Gymnastics,4,1,0,0,1,24.5144,25.0
+MR01983,2026,Summer,Italy,Russia,Europe/Asia,Swimming,Aquatics,8,0,0,1,1,24.5144,12.5
+MR01984,2026,Summer,Italy,Russia,Europe/Asia,Track & Field,Athletics,9,1,0,0,1,24.5144,11.11
+MR01985,2026,Summer,Italy,Slovakia,Europe,Canoe Sprint,Rowing,3,1,0,0,1,1.2119,33.33
+MR01986,2026,Summer,Italy,Slovakia,Europe,Equestrian,Individual Skill & Endurance,2,1,0,0,1,1.2119,50.0
+MR01987,2026,Summer,Italy,Slovakia,Europe,Road Cycling,Cycling,3,0,0,1,1,1.2119,33.33
+MR01988,2026,Summer,Italy,South Africa,Africa,Football,Team Sports,18,1,0,0,1,9.6898,5.56
+MR01989,2026,Summer,Italy,South Africa,Africa,Sailing,Individual Skill & Endurance,2,0,1,0,1,9.6898,50.0
+MR01990,2026,Summer,Italy,South Africa,Africa,Swimming,Aquatics,8,0,0,1,1,9.6898,12.5
+MR01991,2026,Summer,Italy,South Africa,Africa,Track & Field,Athletics,4,1,0,0,1,9.6898,25.0
+MR01992,2026,Summer,Italy,South Korea,Asia,Archery,Shooting,2,1,0,0,1,4.6774,50.0
+MR01993,2026,Summer,Italy,South Korea,Asia,Artistic Gymnastics,Gymnastics,4,0,0,1,1,4.6774,25.0
+MR01994,2026,Summer,Italy,South Korea,Asia,Canoe Sprint,Rowing,5,1,0,1,2,4.6774,40.0
+MR01995,2026,Summer,Italy,South Korea,Asia,Equestrian,Individual Skill & Endurance,4,1,0,0,1,4.6774,25.0
+MR01996,2026,Winter,Italy,South Korea,Asia,Freestyle Skiing,Winter Snow Sports,4,0,0,1,1,4.6774,25.0
+MR01997,2026,Summer,Italy,South Korea,Asia,Golf,Individual Skill & Endurance,3,0,1,0,1,4.6774,33.33
+MR01998,2026,Summer,Italy,South Korea,Asia,Judo,Combat Sports,4,1,1,0,2,4.6774,50.0
+MR01999,2026,Summer,Italy,South Korea,Asia,Rowing,Rowing,7,0,0,1,1,4.6774,14.29
+MR02000,2026,Summer,Italy,South Korea,Asia,Sailing,Individual Skill & Endurance,4,1,1,0,2,4.6774,50.0
+MR02001,2026,Winter,Italy,South Korea,Asia,Ski Jumping,Winter Snow Sports,3,1,0,0,1,4.6774,33.33
+MR02002,2026,Summer,Italy,South Korea,Asia,Swimming,Aquatics,8,0,2,1,3,4.6774,37.5
+MR02003,2026,Summer,Italy,South Korea,Asia,Taekwondo,Combat Sports,3,1,0,0,1,4.6774,33.33
+MR02004,2026,Summer,Italy,South Korea,Asia,Triathlon,Individual Skill & Endurance,4,2,0,0,2,4.6774,50.0
+MR02005,2026,Summer,Italy,South Korea,Asia,Weightlifting,Individual Skill & Endurance,3,0,0,1,1,4.6774,33.33
+MR02006,2026,Summer,Italy,Spain,Europe,Sailing,Individual Skill & Endurance,3,0,1,0,1,53.6736,33.33
+MR02007,2026,Winter,Italy,Sweden,Europe,Cross-Country Skiing,Winter Snow Sports,3,0,1,0,1,11.7193,33.33
+MR02008,2026,Summer,Italy,Sweden,Europe,Sailing,Individual Skill & Endurance,2,0,0,1,1,11.7193,50.0
+MR02009,2026,Summer,Italy,Switzerland,Europe,Archery,Shooting,1,1,0,0,1,8.5614,100.0
+MR02010,2026,Summer,Italy,Switzerland,Europe,Fencing,Combat Sports,4,0,0,1,1,8.5614,25.0
+MR02011,2026,Winter,Italy,Switzerland,Europe,Ice Hockey,Winter Ice Sports,20,1,0,0,1,8.5614,5.0
+MR02012,2026,Summer,Italy,Switzerland,Europe,Track & Field,Athletics,7,1,0,0,1,8.5614,14.29
+MR02013,2026,Summer,Italy,Thailand,Asia,Judo,Combat Sports,4,1,0,0,1,14.4117,25.0
+MR02014,2026,Winter,Italy,Ukraine,Europe,Alpine Skiing,Winter Snow Sports,2,0,1,0,1,18.6241,50.0
+MR02015,2026,Summer,Italy,Ukraine,Europe,Weightlifting,Individual Skill & Endurance,2,1,0,0,1,18.6241,50.0
+MR02016,2026,Summer,Italy,United States,North America,Artistic Gymnastics,Gymnastics,5,3,1,0,4,8.2413,80.0
+MR02017,2026,Summer,Italy,United States,North America,BMX,Cycling,3,1,1,1,3,8.2413,100.0
+MR02018,2026,Summer,Italy,United States,North America,Badminton,Racquet Sports,5,1,0,0,1,8.2413,20.0
+MR02019,2026,Summer,Italy,United States,North America,Basketball,Team Sports,22,1,1,0,2,8.2413,9.09
+MR02020,2026,Summer,Italy,United States,North America,Beach Volleyball,Team Sports,4,0,0,1,1,8.2413,25.0
+MR02021,2026,Summer,Italy,United States,North America,Boxing,Combat Sports,4,1,1,0,2,8.2413,50.0
+MR02022,2026,Summer,Italy,United States,North America,Canoe Slalom,Rowing,3,1,0,1,2,8.2413,66.67
+MR02023,2026,Summer,Italy,United States,North America,Canoe Sprint,Rowing,4,1,1,0,2,8.2413,50.0
+MR02024,2026,Summer,Italy,United States,North America,Diving,Aquatics,4,1,1,0,2,8.2413,50.0
+MR02025,2026,Summer,Italy,United States,North America,Equestrian,Individual Skill & Endurance,5,2,0,0,2,8.2413,40.0
+MR02026,2026,Summer,Italy,United States,North America,Fencing,Combat Sports,6,2,0,0,2,8.2413,33.33
+MR02027,2026,Winter,Italy,United States,North America,Figure Skating,Winter Ice Sports,6,0,1,0,1,8.2413,16.67
+MR02028,2026,Summer,Italy,United States,North America,Football,Team Sports,35,0,2,0,2,8.2413,5.71
+MR02029,2026,Summer,Italy,United States,North America,Handball,Team Sports,14,0,0,1,1,8.2413,7.14
+MR02030,2026,Summer,Italy,United States,North America,Judo,Combat Sports,9,3,1,0,4,8.2413,44.44
+MR02031,2026,Summer,Italy,United States,North America,Race Walking,Athletics,2,0,1,0,1,8.2413,50.0
+MR02032,2026,Summer,Italy,United States,North America,Road Cycling,Cycling,5,1,0,0,1,8.2413,20.0
+MR02033,2026,Summer,Italy,United States,North America,Rowing,Rowing,15,1,2,0,3,8.2413,20.0
+MR02034,2026,Summer,Italy,United States,North America,Sailing,Individual Skill & Endurance,3,1,0,0,1,8.2413,33.33
+MR02035,2026,Summer,Italy,United States,North America,Shooting,Shooting,2,2,1,0,3,8.2413,100.0
+MR02036,2026,Summer,Italy,United States,North America,Skateboarding,Individual Skill & Endurance,3,1,0,0,1,8.2413,33.33
+MR02037,2026,Winter,Italy,United States,North America,Snowboard,Winter Snow Sports,6,1,0,0,1,8.2413,16.67
+MR02038,2026,Winter,Italy,United States,North America,Speed Skating,Winter Ice Sports,5,1,2,0,3,8.2413,60.0
+MR02039,2026,Summer,Italy,United States,North America,Swimming,Aquatics,8,8,3,2,13,8.2413,100.0
+MR02040,2026,Summer,Italy,United States,North America,Table Tennis,Racquet Sports,4,1,0,1,2,8.2413,50.0
+MR02041,2026,Summer,Italy,United States,North America,Taekwondo,Combat Sports,3,0,1,1,2,8.2413,66.67
+MR02042,2026,Summer,Italy,United States,North America,Tennis,Racquet Sports,2,3,0,0,3,8.2413,100.0
+MR02043,2026,Summer,Italy,United States,North America,Track & Field,Athletics,11,3,3,3,9,8.2413,81.82
+MR02044,2026,Summer,Italy,United States,North America,Track Cycling,Cycling,7,2,1,1,4,8.2413,57.14
+MR02045,2026,Summer,Italy,United States,North America,Water Polo,Aquatics,13,0,1,0,1,8.2413,7.69
+MR02046,2026,Summer,Italy,United States,North America,Weightlifting,Individual Skill & Endurance,2,6,2,2,10,8.2413,100.0
+MR02047,2026,Summer,Italy,United States,North America,Wrestling,Combat Sports,8,3,2,0,5,8.2413,62.5
